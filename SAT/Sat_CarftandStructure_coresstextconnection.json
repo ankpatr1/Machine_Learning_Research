@@ -1,0 +1,681 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "text1": "In 1916, H. Dugdale Sykes disputed claims that The Two Noble Kinsmen was coauthored by William Shakespeare and John Fletcher. Sykes felt Fletcher’s contributions to the play were obvious—Fletcher had a distinct style in his other plays, so much so that lines with that style were considered sufficient evidence of Fletcher’s authorship. But for the lines not deemed to be by Fletcher, Sykes felt that their depiction of women indicated that their author was not Shakespeare but Philip Massinger.",
+        "text2": "Scholars have accepted The Two Noble Kinsmen as coauthored by Shakespeare since the 1970s: it appears in all major one-volume editions of Shakespeare’s complete works. Though scholars disagree about who wrote what exactly, it is generally held that on the basis of style, Shakespeare wrote all of the first act and most of the last, while John Fletcher authored most of the three middle acts.",
+        "question": "Based on the texts, both Sykes in Text 1 and the scholars in Text 2 would most likely agree with which statement?",
+        "options": {
+          "A": "John Fletcher’s writing has a unique, readily identifiable style.",
+          "B": "The women characters in John Fletcher’s plays are similar to the women characters in Philip Massinger’s plays.",
+          "C": "The Two Noble Kinsmen belongs in one-volume compilations of Shakespeare’s complete plays.",
+          "D": "Philip Massinger’s style in the first and last acts of The Two Noble Kinsmen is an homage to Shakespeare’s style."
+        },
+        "correctAnswer": "A",
+        "rationale": "Choice A is the best answer. Text 1 states that Sykes felt Fletcher’s contributions to the play were obvious because he had a distinct style in his other plays. Text 2 states that scholars generally agree 'on the basis of style' that Fletcher wrote most of the three middle acts. Both texts imply that Fletcher’s writing has a unique, readily identifiable style that can be used to distinguish his work from others. Choice B is incorrect because neither text compares the women of Fletcher’s plays to those in Massinger’s plays; Text 2 doesn’t mention Massinger at all. Choice C is incorrect because Text 1 implies that Sykes disputed Shakespeare’s coauthorship. Choice D is incorrect because neither text suggests that Massinger was inspired by Shakespeare.",
+        "questionDifficulty": "Hard"
+      },
+      {
+        "number": 2,
+        "text1": "Public policy researcher Anthony Fowler studied the history of elections in Australia, a country that requires citizens to vote. Fowler argues that requiring citizens to vote leads to a significant increase in voters who would otherwise not have the time or motivation to vote. Thus, election results in countries that require citizens to vote better reflect the preferences of the country as a whole.",
+        "text2": "Governments in democratic countries function better when more people vote. However, forcing people to vote may have negative consequences. Shane P. Singh and Jason Roy studied what happens when a country requires its citizens to vote. They found that when people feel forced to vote, they tend to spend less time looking for information about their choices when voting. As a result, votes from these voters may not reflect their actual preferences.",
+        "question": "Based on the texts, how would Singh and Roy (Text 2) most likely respond to the research discussed in Text 1?",
+        "options": {
+          "A": "Only countries of a certain population size should implement mandatory voting.",
+          "B": "People who are forced to vote are likely to become politically engaged in other ways, such as volunteering or running for office.",
+          "C": "Requiring people to vote does not necessarily lead to election outcomes that better represent the preferences of the country as a whole.",
+          "D": "Countries that require voting must also make the process of voting easier for their citizens."
+        },
+        "correctAnswer": "C",
+        "rationale": "Choice C is the best answer. Text 1 claims that mandatory voting results in elections that 'better reflect the preferences of the country.' Singh and Roy disagree. They claim that more voters doesn’t equal more quality votes—instead, they argue that forced voting may lead to less-informed votes that 'may not reflect [voters’] actual preferences.' Choice A is incorrect because neither text mentions the population size of countries that require voting, or how that might affect election outcomes. Choice B is incorrect because neither text discusses the effects of mandatory voting on other forms of political engagement. Choice D is incorrect because neither text discusses the ease or difficulty of the voting process in countries that require voting.",
+        "questionDifficulty": "Easy"
+      },
+      {
+        "number": 3,
+        "text1": "Growth in the use of novel nanohybrids—materials created from the conjugation of multiple distinct nanomaterials, such as iron oxide and gold nanomaterials conjugated for use in magnetic imaging—has outpaced studies of nanohybrids’ environmental risks. Unfortunately, risk evaluations based on nanohybrids’ constituents are not reliable: conjugation may alter constituents’ physiochemical properties such that innocuous nanomaterials form a nanohybrid that is anything but.",
+        "text2": "The potential for enhanced toxicity of nanohybrids relative to the toxicity of constituent nanomaterials has drawn deserved attention, but the effects of nanomaterial conjugation vary by case. For instance, it was recently shown that a nanohybrid of silicon dioxide and zinc oxide preserved the desired optical transparency of zinc oxide nanoparticles while mitigating the nanoparticles’ potential to damage DNA.",
+        "question": "Based on the texts, how would the author of Text 2 most likely respond to the assertion in the underlined portion of Text 1?",
+        "options": {
+          "A": "By concurring that the risk described in Text 1 should be evaluated but emphasizing that the risk is more than offset by the potential benefits of nanomaterial conjugation",
+          "B": "By arguing that the situation described in Text 1 may not be representative but conceding that the effects of nanomaterial conjugation are harder to predict than researchers had expected",
+          "C": "By denying that the circumstance described in Text 1 is likely to occur but acknowledging that many aspects of nanomaterial conjugation are still poorly understood",
+          "D": "By agreeing that the possibility described in Text 1 is a cause for concern but pointing out that nanomaterial conjugation does not inevitably produce that result"
+        },
+        "correctAnswer": "D",
+        "rationale": "Choice D is the best answer. The author of Text 2 acknowledges that nanohybrids may be more toxic than their constituent parts, but also provides an example of a nanohybrid that has reduced toxicity compared to its components: silicon dioxide and zinc oxide together have all the benefits of zinc oxide nanoparticles without any of the DNA harm zinc oxide has on its own. Choice A is incorrect because while the author of Text 2 gives an example of a nanohybrid that isn’t as toxic as its constituent parts, they don’t argue that the benefit outweighs the risk. Choice B is incorrect because the author of Text 2 states that the effects of nanomaterial conjugation 'vary by case,' and that the attention that their potential toxicity has drawn is warranted. Choice C is incorrect because the author of Text 2 agrees that the potential toxicity of nanohybrids 'has drawn deserved attention,' so they aren’t denying the problem.",
+        "questionDifficulty": "Hard"
+      },
+      {
+        "number": 4,
+        "text1": "Africa’s Sahara region—once a lush ecosystem—began to dry out about 8,000 years ago. A change in Earth’s orbit that affected climate has been posited as a cause of desertification, but archaeologist David Wright also attributes the shift to Neolithic peoples. He cites their adoption of pastoralism as a factor in the region drying out: the pastoralists’ livestock depleted vegetation, prompting the events that created the Sahara Desert.",
+        "text2": "Research by Chris Brierley et al. challenges the idea that Neolithic peoples contributed to the Sahara’s desertification. Using a climate-vegetation model, the team concluded that the end of the region’s humid period occurred 500 years earlier than previously assumed. The timing suggests that Neolithic peoples didn’t exacerbate aridity in the region but, in fact, may have helped delay environmental changes with practices (e.g., selective grazing) that preserved vegetation.",
+        "question": "Based on the texts, how would Chris Brierley (Text 2) most likely respond to the discussion in Text 1?",
+        "options": {
+          "A": "By pointing out that given the revised timeline for the end of the Sahara’s humid period, the Neolithic peoples’ mode of subsistence likely didn’t cause the region’s desertification",
+          "B": "By claiming that pastoralism was only one of many behaviors the Neolithic peoples took part in that may have contributed to the Sahara’s changing climate",
+          "C": "By insisting that pastoralism can have both beneficial and deleterious effects on a region’s vegetation and climate",
+          "D": "By asserting that more research needs to be conducted into factors that likely contributed to the desertification of the Sahara region"
+        },
+        "correctAnswer": "A",
+        "rationale": "Choice A is the best answer. Brierley et al.’s research directly challenges Wright’s claim that pastoralism turned the Sahara into a desert, suggesting that, in a Sahara that turned arid 500 years earlier than previously thought, pastoral practices may have actually 'preserved vegetation' rather than depleting it. Choice B is incorrect because Brierley et al.’s research disputes the idea that any Neolithic peoples’ behaviors, including pastoralism, could have contributed to the Sahara’s changing climate. Choice C is incorrect because the research does not acknowledge that pastoralism can have deleterious effects on vegetation and climate. Choice D is incorrect because there is no call for further research into contributing factors from Brierley et al.’s findings.",
+        "questionDifficulty": "Hard"
+      },
+      {
+        "number": 5,
+        "text1": "Soy sauce, made from fermented soybeans, is noted for its umami flavor. Umami—one of the five basic tastes along with sweet, bitter, salty, and sour—was formally classified when its taste receptors were discovered in the 2000s. In 2007, to define the pure umami flavor scientists Rie Ishii and Michael O’Mahony used broths made from shiitake mushrooms and kombu seaweed, and two panels of Japanese and US judges closely agreed on a description of the taste.",
+        "text2": "A 2022 experiment by Manon Jünger et al. led to a greater understanding of soy sauce’s flavor profile. The team initially presented a mixture of compounds with low molecular weights to taste testers who found it was not as salty or bitter as real soy sauce. Further analysis of soy sauce identified proteins, including dipeptides, that enhanced umami flavor and also contributed to saltiness. The team then made a mix of 50 chemical compounds that re-created soy sauce’s flavor.",
+        "question": "Based on the texts, if Ishii and O’Mahony (Text 1) and Jünger et al. (Text 2) were aware of the findings of both experiments, they would most likely agree with which statement?",
+        "options": {
+          "A": "On average, the diets of people in the United States tend to have fewer foods that contain certain dipeptides than the diets of people in Japan have.",
+          "B": "Chemical compounds that activate both the umami and salty taste receptors tend to have a higher molecular weight than those that only activate umami taste receptors.",
+          "C": "Fermentation introduces proteins responsible for the increase of umami flavor in soy sauce, and those proteins also increase the perception of saltiness.",
+          "D": "The broths in the 2007 experiment most likely did not have a substantial amount of the dipeptides that played a key part in the 2022 experiment."
+        },
+        "correctAnswer": "D",
+        "rationale": "Choice D is the best answer. Ishii and O’Mahony were trying to isolate the pure umami flavor, while Jünger et al. were focused on recreating the complex flavor profile of soy sauce. The broths from the 2007 experiment, which were made from shiitake mushrooms and kombu seaweed, are not described as containing the dipeptides identified in the 2022 experiment that enhance both umami and saltiness. Choice A is incorrect because neither text discusses the diets of people in the United States or Japan. Choice B is incorrect as there is insufficient information regarding molecular weights in Text 1 to support such a claim. Choice C is incorrect because neither text asserts that fermentation is responsible for the flavor enhancements described.",
+        "questionDifficulty": "Hard"
+      },
+      {
+        "number": 6,
+        "text1": "Dance choreographer Alvin Ailey’s deep admiration for jazz music can most clearly be felt in the rhythms and beats his works were set to. Ailey collaborated with some of the greatest jazz legends, like Charles Mingus, Charlie Parker, and perhaps his favorite, Duke Ellington. With his choice of music, Ailey helped bring jazz to life for his audiences.",
+        "text2": "Jazz is present throughout Ailey’s work, but it’s most visible in Ailey’s approach to choreography. Ailey often incorporated improvisation, a signature characteristic of jazz music, in his work. When managing his dance company, Ailey rarely forced his dancers to an exact set of specific moves. Instead, he encouraged his dancers to let their own skills and experiences shape their performances, as jazz musicians do.",
+        "question": "Based on the texts, both authors would most likely agree with which statement?",
+        "options": {
+          "A": "Dancers who worked with Ailey greatly appreciated his supportive approach as a choreographer.",
+          "B": "Ailey’s work was strongly influenced by jazz.",
+          "C": "Audiences were mostly unfamiliar with the jazz music in Ailey’s works.",
+          "D": "Ailey blended multiple genres of music together when choreographing dance pieces."
+        },
+        "correctAnswer": "B",
+        "rationale": "Choice B is the best answer. Author 1 states that Ailey had a 'deep admiration for jazz music' and that he 'helped bring jazz to life for his audiences.' Author 2 states that 'Jazz is present throughout Ailey’s work.' While the authors name different aspects of Ailey’s work as the most influenced by jazz, they agree that jazz was a strong influence. Choice A is incorrect because neither text discusses how Ailey’s dancers felt about his approach as a choreographer. Choice C is incorrect because neither text mentions audience familiarity with the jazz in Ailey’s works. Choice D is incorrect because neither text mentions Ailey blending multiple genres of music."
+      },
+      {
+        "number": 7,
+        "text1": "Microbes are tiny organisms in the soil, water, and air all around us. They thrive even in very harsh conditions. That’s why Noah Fierer and colleagues were surprised when soil samples they collected from an extremely cold, dry area in Antarctica didn’t seem to contain any life. The finding doesn’t prove that there are no microbes in that area, but the team says it does suggest that the environment severely restricts microbes’ survival.",
+        "text2": "Microbes are found in virtually every environment on Earth. So it’s unlikely they would be completely absent from Fierer’s team’s study site, no matter how extreme the environment is. There were probably so few organisms in the samples that current technology couldn’t detect them. But since a spoonful of typical soil elsewhere might contain billions of microbes, the presence of so few in the Antarctic soil samples would show how challenging the conditions are.",
+        "question": "Based on the texts, Fierer’s team and the author of Text 2 would most likely agree with which statement about microbes?",
+        "options": {
+          "A": "Most microbes are better able to survive in environments with extremely dry conditions than in environments with harsh temperatures.",
+          "B": "A much higher number of microbes would probably be found if another sample of soil were taken from the Antarctic study site.",
+          "C": "Microbes are likely difficult to detect in the soil at the Antarctic study site because they tend to be smaller than microbes found in typical soil elsewhere.",
+          "D": "Most microbes are probably unable to withstand the soil conditions at the Antarctic study site."
+        },
+        "correctAnswer": "D",
+        "rationale": "Choice D is the best answer because it presents a statement about microbes with which both Fierer’s team and the author of Text 2 would most likely agree. Text 1 indicates that microbes typically thrive in harsh conditions, making the near absence of life in Antarctica surprising and suggesting that the environment severely restricts microbial survival. Text 2 supports this by noting that even if there are some microbes, their extremely low numbers compared to typical soil samples underscore how challenging the Antarctic environment is for microbial life. The other choices introduce ideas not supported by the texts.",
+        "questionDifficulty": "Medium"
+      },
+      {
+        "number": 8,
+        "text1": "Historians studying pre-Inca Peru have looked to ceramic vessels to understand daily life among the Moche people. These mold-made sculptures present plants, animals, and human faces in precise ways—vessels representing human faces are so detailed that scholars have interpreted facial markings to represent scars and other skin irregularities. Some historians have even used these objects to identify potential skin diseases that may have afflicted people at the time.",
+        "text2": "Art historian and archaeologist Lisa Trever has argued that the interpretation of Moche “portrait” vessels as hyper-realistic portrayals of identifiable people may inadvertently disregard the creativity of the objects’ creators. Moche ceramic vessels, Trever argues, are artworks in which sculptors could free their imagination, using realistic objects and people around them as inspiration to explore more abstract concepts.",
+        "question": "Based on the texts, what would Lisa Trever (Text 2) most likely say about the interpretation presented in the underlined portion of Text 1?",
+        "options": {
+          "A": "Depictions of human faces are significantly more realistic than depictions of plants and other animals are.",
+          "B": "It is likely that some depictions of human faces with extensive markings are intended to portray the same historical individual.",
+          "C": "Some vessels may have been damaged during their excavation and thus provide little insight into Moche culture.",
+          "D": "Markings on depictions of human faces are not necessarily intended to portray particular details about the physical appearance of individuals."
+        },
+        "correctAnswer": "D",
+        "rationale": "Choice D is the best answer. Trever argues that interpreting the vessels as hyper-realistic portrayals of identifiable people disregards the creators’ imaginative input, suggesting that the facial markings may not be intended to depict actual physical details. Choices A, B, and C introduce ideas that are not supported by the texts.",
+        "questionDifficulty": "Easy"
+      },
+      {
+        "number": 9,
+        "text1": "Italian painters in the 1500s rarely depicted themselves in their work. Even more rare were self-portrait paintings that portrayed the artist as a painter. At the time, painting was not yet respected as a profession, so painters mostly chose to emphasize other qualities in their self-portraits, like their intellect or social status. In the city of Bologna, the first artist to depict themself painting was a man named Annibale Carracci. A painting of his from around 1585 shows Carracci in front of an easel holding a palette.",
+        "text2": "In their self-portraits, Bolognese artists typically avoided referring to the act of painting until the mid-1600s. However, Lavinia Fontana’s 1577 painting, Self-Portrait at the Keyboard, stands out as the earliest example of such a work by an artist from Bologna. Although the artist is depicted playing music, in the background, one can spot a painting easel by a window.",
+        "question": "Based on the texts, how would the author of Text 2 most likely respond to the underlined claim in Text 1?",
+        "options": {
+          "A": "Carracci and Fontana were among the most well-respected painters in Bologna at the time.",
+          "B": "The depiction of Fontana in Self-Portrait at the Keyboard was intended to underscore the artist’s creativity.",
+          "C": "Fontana likely inspired the reference to an easel and palette in Carracci’s painting.",
+          "D": "Self-Portrait at the Keyboard was painted earlier than Carracci’s painting and also refers to the artist’s craft."
+        },
+        "correctAnswer": "D",
+        "rationale": "Choice D is the best answer. The author of Text 2 states that Fontana’s painting, which depicts a painting easel in the background, was made in 1577, eight years before Carracci’s painting. Therefore, they might argue that Carracci was not 'the first artist' to depict themself as a painter. Choice A is incorrect because neither text discusses the reputation of the painters. Choice B is incorrect because the text does not comment on the intention behind Fontana's self-depiction. Choice C is incorrect because there is no suggestion of inspirational influence between Fontana and Carracci in the texts.",
+        "questionDifficulty": "Easy"
+      },
+      {
+        "number": 10,
+        "text1": "Astronomer Mark Holland and colleagues examined four white dwarfs—small, dense remnants of past stars—in order to determine the composition of exoplanets that used to orbit those stars. Studying wavelengths of light in the white dwarf atmospheres, the team reported that traces of elements such as lithium and sodium support the presence of exoplanets with continental crusts similar to Earth’s.",
+        "text2": "Past studies of white dwarf atmospheres have concluded that certain exoplanets had continental crusts. Geologist Keith Putirka and astronomer Siyi Xu argue that those studies unduly emphasize atmospheric traces of lithium and other individual elements as signifiers of the types of rock found on Earth. The studies don’t adequately account for different minerals made up of various ratios of those elements, and the possibility of rock types not found on Earth that contain those minerals.",
+        "question": "Based on the texts, how would Putirka and Xu (Text 2) most likely characterize the conclusion presented in Text 1?",
+        "options": {
+          "A": "As unexpected, because it was widely believed at the time that white dwarf exoplanets lack continental crusts",
+          "B": "As premature, because researchers have only just begun trying to determine what kinds of crusts white dwarf exoplanets had",
+          "C": "As questionable, because it rests on an incomplete consideration of potential sources of the elements detected in white dwarf atmospheres",
+          "D": "As puzzling, because it’s unusual to successfully detect lithium and sodium when analyzing wavelengths of light in white dwarf atmospheres"
+        },
+        "correctAnswer": "C",
+        "rationale": "Choice C is the best answer because it reflects how Putirka and Xu would likely characterize the conclusion in Text 1. The study discussed in Text 1 infers the existence of exoplanets with continental crusts based on the detection of lithium and sodium, while Text 2 explains that these elements are present in various minerals and rock types, some of which are not like Earth's continental crust. This incomplete consideration of potential element sources leads to the conclusion being described as questionable. Choices A, B, and D introduce ideas that are not supported by the texts.",
+        "questionDifficulty": "Hard"
+      },
+      {
+        "number": 11,
+        "text1": "The idea that time moves in only one direction is instinctively understood, yet it puzzles physicists. According to the second law of thermodynamics, at a macroscopic level some processes of heat transfer are irreversible due to the production of entropy—after a transfer we cannot rewind time and place molecules back exactly where they were before, just as we cannot unbreak dropped eggs. But laws of physics at a microscopic or quantum level hold that those processes should be reversible.",
+        "text2": "In 2015, physicists Tiago Batalhão et al. performed an experiment in which they confirmed the irreversibility of thermodynamic processes at a quantum level, producing entropy by applying a rapidly oscillating magnetic field to a system of carbon-13 atoms in liquid chloroform. But the experiment “does not pinpoint ... what causes [irreversibility] at the microscopic level,” coauthor Mauro Paternostro said.",
+        "question": "Based on the texts, what would the author of Text 1 most likely say about the experiment described in Text 2?",
+        "options": {
+          "A": "It would suggest an interesting direction for future research were it not the case that two of the physicists who conducted the experiment disagree on the significance of its findings.",
+          "B": "It provides empirical evidence that the current understanding of an aspect of physics at a microscopic level must be incomplete.",
+          "C": "It is consistent with the current understanding of physics at a microscopic level but not at a macroscopic level.",
+          "D": "It supports a claim about an isolated system of atoms in a laboratory, but that claim should not be extrapolated to a general claim about the universe."
+        },
+        "correctAnswer": "B",
+        "rationale": "Choice B is the best answer. Author 1 discusses the perplexing issue of why irreversible processes occur at the macroscopic level even though microscopic physical laws suggest they should be reversible. The experiment in Text 2 confirms irreversibility at the microscopic level, which supports the notion that our current understanding of these processes is incomplete. Choices A, C, and D introduce ideas that are not supported by the texts.",
+        "questionDifficulty": "Medium"
+      },
+      {
+        "number": 12,
+        "text1": "What factors influence the abundance of species in a given ecological community? Some theorists have argued that historical diversity is a major driver of how diverse an ecological community eventually becomes: differences in community diversity across otherwise similar habitats, in this view, are strongly affected by the number of species living in those habitats at earlier times.",
+        "text2": "In 2010, a group of researchers including biologist Carla Cáceres created artificial pools in a New York forest. They stocked some pools with a diverse mix of zooplankton species and others with a single zooplankton species and allowed the pool communities to develop naturally thereafter. Over the course of four years, Cáceres and colleagues periodically measured the species diversity of the pools, finding—contrary to their expectations—that by the end of the study there was little to no difference in the pools’ species diversity.",
+        "question": "Based on the texts, how would Cáceres and colleagues (Text 2) most likely describe the view of the theorists presented in Text 1?",
+        "options": {
+          "A": "It is largely correct, but it requires a minor refinement in light of the research team’s results.",
+          "B": "It is not compelling as a theory regardless of any experimental data collected by the research team.",
+          "C": "It may seem plausible, but it is not supported by the research team’s findings.",
+          "D": "It probably holds true only in conditions like those in the research team’s study."
+        },
+        "correctAnswer": "C",
+        "rationale": "Choice C is the best answer. The theorists in Text 1 argue that historical diversity plays a major role in determining eventual species diversity in a community. However, the findings by Cáceres and colleagues in Text 2 undermine this view, as they observed little to no difference in species diversity between pools that started with different levels of diversity. This directly contradicts the idea presented in Text 1, making the view unsupported by the research team's findings. Choices A, B, and D introduce ideas that are not supported by the texts.",
+        "questionDifficulty": "Hard"
+      },
+      {
+        "number": 13,
+        "text1": "In a study of the benefits of having free time, Marissa Sharif found that the reported sense of life satisfaction tended to plateau when participants had two hours of free time per day and actually began to fall when they had five hours of free time per day. After further research, Sharif concluded that this dip in life satisfaction mainly occurred when individuals spent all their free time unproductively, such as by watching TV or playing games.",
+        "text2": "Psychologist James Maddux cautions against suggesting an ideal amount of free time. The human desire for both free time and productivity is universal, but Maddux asserts that individuals have unique needs for life satisfaction. Furthermore, he points out that there is no objective definition for what constitutes productivity; reading a book might be considered a productive activity by some, but idleness by others.",
+        "question": "Based on the texts, how would Maddux (Text 2) most likely respond to the conclusion Sharif (Text 1) reached after her further research?",
+        "options": {
+          "A": "By acknowledging that free time is more likely to enhance life satisfaction when it is spent productively than when it is spent unproductively.",
+          "B": "By challenging the reasoning in Text 1, as it has not been proved that productivity commonly contributes to individuals’ life satisfaction.",
+          "C": "By warning against making an overly broad assumption, as there is no clear consensus in distinguishing between productive and unproductive activities.",
+          "D": "By claiming that the specific activities named in Text 1 are actually examples of productive activities rather than unproductive ones."
+        },
+        "correctAnswer": "C",
+        "rationale": "Choice C is the best answer because it captures Maddux's stance that there is no objective definition of productivity. While Sharif concludes that unproductive free time lowers life satisfaction, Maddux would caution against a broad assumption that categorically deems certain activities as unproductive. Instead, he emphasizes that what counts as productive versus unproductive varies from person to person. Choices A, B, and D do not align with Maddux's perspective as described in Text 2.",
+        "questionDifficulty": "Medium"
+      },
+      {
+        "number": 14,
+        "text1": "Today the starchy root cassava is found in many dishes across West Africa, but its rise to popularity was slow. Portuguese traders brought cassava from Brazil to the West African coast in the 1500s. But at this time, people living in the capitals further inland had little contact with coastal communities. Thus, cassava remained relatively unknown to most of the region’s inhabitants until the 1800s.",
+        "text2": "Cassava’s slow adoption into the diet of West Africans is mainly due to the nature of the crop itself. If not cooked properly, cassava can be toxic. Knowledge of how to properly prepare cassava needed to spread before the food could grow in popularity. The arrival of formerly enslaved people from Brazil in the 1800s, who brought their knowledge of cassava and its preparation with them, thus directly fueled the spread of this crop.",
+        "question": "Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree with which statement?",
+        "options": {
+          "A": "Cassava did not become a significant crop in West Africa until long after it was first introduced.",
+          "B": "Several of the most commonly grown crops in West Africa are originally from Brazil.",
+          "C": "The climate of the West African coast in the 1500s prevented cassava’s spread in the region.",
+          "D": "The most commonly used methods to cook cassava today date to the 1500s."
+        },
+        "correctAnswer": "A",
+        "rationale": "Choice A is the best answer. Text 1 states that cassava’s 'rise to popularity was slow' in West Africa, and Text 2 also describes cassava’s 'slow adoption into the diet of West Africans.' Although the texts identify different causes for this slow adoption, they both agree that cassava took a long time to catch on. Choices B, C, and D introduce ideas that are not supported by the texts.",
+        "questionDifficulty": "Easy"
+      },                      
+      {
+        "number": 15,
+        "text1": "Fossils of the hominin Australopithecus africanus have been found in the Sterkfontein Caves of South Africa, but assigning an age to the fossils is challenging because of the unreliability of dating methods in this context. The geology of Sterkfontein has caused soil layers from different periods to mix, impeding stratigraphic dating, and dates cannot be reliably imputed from those of nearby animal bones since the bones may have been relocated by flooding.",
+        "text2": "Archaeologists used new cosmogenic nuclide dating techniques to reevaluate the ages of A. africanus fossils found in the Sterkfontein Caves. This technique involves analyzing the cosmogenic nucleotides in the breccia—the matrix of rock fragments immediately surrounding the fossils. The researchers assert that this approach avoids the potential for misdating associated with assigning ages based on Sterkfontein’s soil layers or animal bones.",
+        "question": "Based on the texts, how would the researchers in Text 2 most likely respond to the underlined portion in Text 1?",
+        "options": {
+          "A": "They would emphasize the fact that the A. africanus fossils found in the Sterkfontein Caves may have been corrupted in some way over the years.",
+          "B": "They would contend that if analyses of surrounding layers and bones in the Sterkfontein Caves were combined, then the dating of the fossils there would be more accurate.",
+          "C": "They would argue that their techniques are better suited than other methods to the unique challenges posed by the Sterkfontein Caves.",
+          "D": "They would claim that cosmogenic nuclide dating is reliable in the context of the Sterkfontein Caves because it is applied to the fossils directly."
+        },
+        "correctAnswer": "C",
+        "rationale": "Choice C is the best answer. Text 2 states that the researchers used cosmogenic nuclide dating to 'avoid the potential for misdating' caused by the geology of Sterkfontein, which Text 1 describes as challenging and unreliable. Choice A is incorrect because neither text suggests that the fossils themselves have been corrupted. Choice B is incorrect because Text 2 does not suggest that combining analyses would enhance accuracy; rather, it highlights the flaws in traditional methods. Choice D is incorrect because cosmogenic nuclide dating is applied to the breccia surrounding the fossils, not directly to the fossils themselves.",
+        "questionDifficulty": "Hard"
+      },
+      {
+        "number": 16,
+        "text1": "Films and television shows commonly include a long list of credits naming the people involved in a production. Credit sequences may not be exciting, but they generally ensure that everyone’s contributions are duly acknowledged. Because they are highly standardized, film and television credits are also valuable to anyone researching the careers of pioneering cast and crew members who have worked in the mediums.",
+        "text2": "Video game scholars face a major challenge in the industry’s failure to consistently credit the artists, designers, and other contributors involved in making video games. Without a reliable record of which people worked on which games, questions about the medium’s development can be difficult to answer, and the accomplishments of all but its best-known innovators can be difficult to trace.",
+        "question": "Based on the texts, how would the author of Text 1 most likely respond to the discussion in Text 2?",
+        "options": {
+          "A": "By recommending that the scholars mentioned in Text 2 consider employing the methods regularly used by film and television researchers",
+          "B": "By pointing out that credits have a different intended purpose in film and television than in the medium addressed by the scholars mentioned in Text 2",
+          "C": "By suggesting that the scholars mentioned in Text 2 rely more heavily on credits as a source of information than film and television researchers do",
+          "D": "By observing that a widespread practice in film and television largely prevents the kind of problem faced by the scholars mentioned in Text 2"
+        },
+        "correctAnswer": "D",
+        "rationale": "Choice D is the best answer because it reflects how the author of Text 1 would respond. Text 1 highlights that in film and television, the consistent use of credits ensures that all contributors are acknowledged and provides valuable information for research. This implies that the problem faced by video game scholars—where credits are inconsistently used—is largely avoided in film and television due to standard practices. Choices A, B, and C introduce ideas that are either not supported or directly contradicted by the texts.",
+        "questionDifficulty": "Hard"
+      },
+      {
+        "number": 17,
+        "text1": "The live music festival business is growing in event size and genre variety. With so many consumer options, organizers are finding ways to cement festival attendance as a special experience worth sharing. This phenomenon is linked to the growing “experiential economy,” where many find it gratifying to purchase lived experiences. To ensure a profitable event, venues need to consider the overall consumer experience, not just the band lineup.",
+        "text2": "Music festival appearances are becoming a more important part of musicians’ careers. One factor in this shift is the rising use of streaming services that allow access to huge numbers of songs for a monthly fee, subsequently reducing sales of full-length albums. With this shift in consumer behavior, musicians are increasingly dependent on revenue from live performances.",
+        "question": "Based on the texts, both authors would most likely agree with which statement?",
+        "options": {
+          "A": "Consumers are more interested in paying subscription fees to stream music than in attending music festivals in person.",
+          "B": "Consumers’ growing interest in purchasing experiences is mostly confined to the music industry.",
+          "C": "Changing consumer behaviors are leading to changes in music-related businesses.",
+          "D": "The rising consumer demand for live music festivals also generates higher demand for music streaming platforms."
+        },
+        "correctAnswer": "C",
+        "rationale": "Choice C is the best answer. Both texts indicate that shifts in consumer behavior are impacting the music industry. Text 1 explains that consumers are increasingly valuing 'lived experiences,' which shapes how music festivals are organized, while Text 2 highlights that the rise of streaming services affects album sales, thereby making live performances more critical for musicians. Choices A, B, and D introduce ideas not supported by the texts.",
+        "questionDifficulty": "Medium"
+      },
+      {
+        "number": 18,
+        "text1": "On April 26th, 1777, Sybil Ludington rode 40 miles by horse through Putnam County, New York, to gather up local militia. British forces were burning nearby Danbury, Connecticut, and Ludington wanted to rally rebel troops to meet them. Although she was only 16 years old at the time, her brave feat made Ludington one of the heroes of the American Revolution. Since then, Ludington has been widely celebrated, inspiring postage stamps, statues, and even children’s TV series.",
+        "text2": "Historian Paula D. Hunt researched the life and legacy of Sybil Ludington but found no evidence for her famous ride. Although many articles and books have been written about Ludington, Hunt believes writers may have been inventing details about Ludington as they retold her story. Ludington is revered by Americans today, but there simply isn’t a strong historical record of her heroic ride.",
+        "question": "Based on the texts, both authors would most likely agree with which statement?",
+        "options": {
+          "A": "Sybil Ludington was crucial to the outcome of the Revolutionary War.",
+          "B": "Historians have confirmed which route Sybil Ludington took.",
+          "C": "Sybil Ludington was likely not a real person.",
+          "D": "Many people have come to admire the story of Sybil Ludington’s ride."
+        },
+        "correctAnswer": "D",
+        "rationale": "Choice D is the best answer. Both texts acknowledge that Sybil Ludington’s story has been widely celebrated and revered by Americans—Text 1 through mentions of postage stamps, statues, and TV series, and Text 2 by noting the plethora of articles and books written about her. The other choices suggest ideas that neither text supports.",
+        "questionDifficulty": "Easy"
+      },
+      {
+        "number": 19,
+        "text1": "The Cretaceous-Paleogene (K-Pg) mass extinction event is usually attributed solely to an asteroid impact near Chicxulub, Mexico. Some scientists argue that volcanic activity was the true cause, as the K-Pg event occurred relatively early in a long period of eruption of the Deccan Traps range that initially produced huge amounts of climate-altering gases. These dissenters note that other mass extinctions have coincided with large volcanic eruptions, while only the K-Pg event lines up with an asteroid strike.",
+        "text2": "In a 2020 study, Pincelli Hull and her colleagues analyzed ocean core samples and modeled climate changes around the K-Pg event. The team concluded that Deccan Traps gases did affect global conditions prior to the event, but that the climate returned to normal well before the extinctions began—extinctions that instead closely align with the Chicxulub impact.",
+        "question": "Based on the texts, how would Hull’s team (Text 2) most likely respond to the argument in the underlined portion of Text 1?",
+        "options": {
+          "A": "By agreeing that the Chicxulub impact changed the climate and that the Deccan Traps eruption caused the K-Pg event",
+          "B": "By declaring that the changes in climate caused by the Deccan Traps eruption weren’t the main cause of the K-Pg event",
+          "C": "By questioning why those scientists assume that the Chicxulub impact caused the Deccan Traps eruption",
+          "D": "By asserting that the Deccan Traps eruption had a more significant effect on global conditions than those scientists claim"
+        },
+        "correctAnswer": "B",
+        "rationale": "Choice B is the best answer because it reflects that Hull’s team acknowledged that while the Deccan Traps eruption did affect the climate prior to the K-Pg event, the climate had returned to normal before the extinctions began. This implies that the volcanic activity was not the main cause of the mass extinction, thereby countering the argument in Text 1 that attributes the event to volcanic activity.",
+        "questionDifficulty": "Hard"
+      },
+      {
+        "number": 20,
+        "text1": "For decades, bluegrass musicians have debated whether their genre should exclude influences from mainstream genres such as rock. Many insist that bluegrass is defined by its adherence to the folk music of the US South, out of which bluegrass emerged. Such 'purists,' as they are known, regard the recordings of Bill Monroe, which established the bluegrass sound in the 1940s, as a standard against which the genre should still be measured.",
+        "text2": "Bluegrass isn’t simply an extension of folk traditions into the era of recorded music. In reality, Bill Monroe created the bluegrass sound in the 1940s by combining Southern folk music with commercial genres that had arisen only a few decades before, such as jazz and the blues. Since bluegrass has always been a mixed genre, contemporary bluegrass musicians should not be forbidden from incorporating into it influences from rock and other mainstream genres.",
+        "question": "Based on the texts, how would the author of Text 2 most likely regard the perspective of bluegrass purists, as described in Text 1?",
+        "options": {
+          "A": "As inconsistent, since bluegrass purists themselves enjoy other musical genres",
+          "B": "As unrealistic, since bluegrass purists have no way of enforcing their musical preferences",
+          "C": "As shortsighted, because bluegrass could enlarge its audience by including influences from mainstream genres",
+          "D": "As illogical, because the purists overlook crucial aspects of how the bluegrass sound first originated."
+        },
+        "correctAnswer": "D",
+        "rationale": "Choice D is the best answer. According to Text 1, purists insist that bluegrass should adhere strictly to its folk music roots. In contrast, Text 2 explains that Bill Monroe created bluegrass by blending Southern folk music with commercial genres such as jazz and blues, thus suggesting that the purists overlook the mixed origins of bluegrass. Choices A, B, and C are not supported by the information provided in the texts.",
+        "questionDifficulty": "Easy"
+      },
+      {
+        "number": 21,
+        "text1": "Stage lighting theorist Adolphe Appia was perhaps the first to argue that light must be considered alongside all the various elements of a stage to create a single, unified performance. Researcher Kelly Bremner, however, has noted that Appia lacked technical expertise in the use of light in the theater. As a result of Appia’s inexperience, Bremner argues, Appia’s theory of light called for lighting practices that weren’t possible until after the advent of electricity around 1881.",
+        "text2": "Adolphe Appia was not an amateur in the practice of lighting. Instead, it is precisely his exposure to lighting techniques at the time that contributed to his theory on the importance of light. When working as an apprentice for a lighting specialist in his youth, Appia observed the use of portable lighting devices that could be operated by hand. This experience developed his understanding of what was possible in the coordination of elements on the stage.",
+        "question": "Based on the texts, how would the author of Text 2 most likely respond to the claim about Appia’s level of technical expertise made by Bremner in Text 1?",
+        "options": {
+          "A": "Many lighting technicians dismissed Appia’s ideas about light on the stage.",
+          "B": "Appia likely gained a level of technical expertise during his time as an apprentice.",
+          "C": "Theater practitioners who worked with Appia greatly admired his work.",
+          "D": "Appia was unfamiliar with the use of music and sound in theater."
+        },
+        "correctAnswer": "B",
+        "rationale": "Choice B is the best answer. The author of Text 2 directly contradicts Bremner’s claim that Appia lacked technical expertise by stating that Appia was 'not an amateur in the practice of lighting.' His experience as an apprentice for a lighting specialist helped him develop an understanding of what was possible in stage lighting, thereby countering the argument about his inexperience. Choices A, C, and D either introduce irrelevant information or focus on aspects not discussed in either text.",
+        "questionDifficulty": "Medium"
+      },
+      {
+        "number": 22,
+        "text1": "Most scientists agree that the moon was likely formed after a collision between Earth and a large planet named Theia. This collision likely created a huge debris field, made up of material from both Earth and Theia. Based on models of this event, scientists believe that the moon was formed from this debris over the course of thousands of years.",
+        "text2": "Researchers from NASA’s Ames Research Center used a computer to model how the moon could have formed. Although simulations of the moon’s formation have been done in the past, the team from NASA ran simulations that were much more detailed. They found that the formation of the moon was likely not a slow process that took many years. Instead, it’s probable that the moon’s formation happened immediately after impact, taking just a few hours.",
+        "question": "Which choice best describes a difference in how the author of Text 1 and the author of Text 2 view the evidence for the formation of the moon?",
+        "options": {
+          "A": "The author of Text 1 argues that the formation of the moon occurred much earlier than the author of Text 2 argues.",
+          "B": "The author of Text 1 suggests there is more evidence confirming the existence of Theia than the author of Text 2 suggests.",
+          "C": "The author of Text 1 claims that the moon’s surface is more similar to Earth’s surface than the author of Text 2 claims.",
+          "D": "The author of Text 1 believes that the moon formed more slowly than the author of Text 2 believes."
+        },
+        "correctAnswer": "D",
+        "rationale": "Choice D is the best answer. Text 1 states that the moon was formed from the debris 'over the course of thousands of years,' while Text 2 states that the moon’s formation happened 'immediately after impact, taking just a few hours.' This represents a clear difference in how the two authors view the speed of the moon’s formation. Choices A, B, and C introduce ideas that are not supported by the texts.",
+        "questionDifficulty": "Easy"
+      },
+      {
+        "number": 23,
+        "text1": "In 2021, a team led by Amir Siraj hypothesized that the Chicxulub impactor—the object that struck the Yucatán Peninsula sixty-six million years ago, precipitating the mass extinction of the dinosaurs—was likely a member of the class of long-period comets. As evidence, Siraj cited the carbonaceous chondritic composition of samples from the Chicxulub impact crater as well as of samples obtained from long-period comet Wild 2 in 2006.",
+        "text2": "Although long-period comets contain carbonaceous chondrites, asteroids are similarly rich in these materials. Furthermore, some asteroids are rich in iridium, as Natalia Artemieva points out, whereas long-period comets are not. Given the prevalence of iridium at the crater and, more broadly, in geological layers deposited worldwide following the impact, Artemieva argues that an asteroid is a more plausible candidate for the Chicxulub impactor.",
+        "question": "Based on the texts, how would Artemieva likely respond to Siraj’s hypothesis, as presented in Text 1?",
+        "options": {
+          "A": "By insisting that it overestimates how representative Wild 2 is of long-period comets as a class",
+          "B": "By arguing that it does not account for the amount of iridium found in geological layers dating to the Chicxulub impact",
+          "C": "By praising it for connecting the composition of Chicxulub crater samples to the composition of certain asteroids",
+          "D": "By concurring that carbonaceous chondrites are prevalent in soil samples from sites distant from the Chicxulub crater"
+        },
+        "correctAnswer": "B",
+        "rationale": "Choice B is the best answer. Siraj’s hypothesis asserts that the Chicxulub impactor was a long-period comet. However, Artemieva counters this by highlighting the presence of iridium in geological layers dating to the impact, which is more consistent with an asteroid impact. This indicates that Siraj’s hypothesis does not sufficiently account for the iridium evidence. Choices A, C, and D introduce ideas or misinterpretations that are not supported by the texts.",
+        "questionDifficulty": "Medium"
+      }, 
+      {
+        "number": 24,
+        "text1": "Philosopher G.E. Moore’s most influential work entails the concept of common sense. He asserts that there are certain beliefs that all people, including philosophers, know instinctively to be true, whether or not they profess otherwise: among them, that they have bodies, or that they exist in a world with other objects that have three dimensions. Moore’s careful work on common sense may seem obvious but was in fact groundbreaking.",
+        "text2": "External world skepticism is a philosophical stance supposing that we cannot be sure of the existence of anything outside our own minds. During a lecture, G.E. Moore once offered a proof refuting this stance by holding out his hands and saying, 'Here is one hand, and here is another.' Many philosophers reflexively reject this proof (Annalisa Coliva called it 'an obviously annoying failure') but have found it a challenge to articulate exactly why the proof fails.",
+        "question": "Based on the texts, how would the author of Text 1 most likely respond to proponents of the philosophical stance outlined in Text 2?",
+        "options": {
+          "A": "By agreeing with those proponents that Moore’s treatment of positions that contradict his own is fundamentally unserious",
+          "B": "By suggesting that an instinctive distaste for Moore’s position is preventing external world skeptics from constructing a sufficiently rigorous refutation of Moore",
+          "C": "By arguing that if it is valid to assert that some facts are true based on instinct, it is also valid to assert that some proofs are inadequate based on instinct",
+          "D": "By pointing out that Moore would assert that external world skepticism is at odds with other beliefs those proponents must unavoidably hold"
+        },
+        "correctAnswer": "D",
+        "rationale": "Choice D is the best answer. The concept of common sense as presented by Moore—where certain beliefs are instinctively and universally held—implies that external world skepticism, which doubts the existence of an external reality, contradicts these self-evident truths. Thus, Moore would likely argue that external world skepticism is incompatible with other beliefs that skeptics must necessarily hold, making the purview of their argument illogical. Choices A, B, and C introduce ideas or frameworks not supported by the texts.",
+        "questionDifficulty": "Medium"
+      },
+      {
+        "number": 25,
+        "text1": "Like the work of Ralph Ellison before her, Toni Morrison’s novels feature scenes in which characters deliver sermons of such length and verbal dexterity that for a time, the text exchanges the formal parameters of fiction for those of oral literature. Given the many other echoes of Ellison in Morrison’s novels, both in structure and prose style, these scenes suggest Ellison’s direct influence on Morrison.",
+        "text2": "In their destabilizing effect on literary form, the sermons in Morrison’s works recall those in Ellison’s. Yet literature by Black Americans abounds in moments where interpolated speech erodes the division between oral and written forms that literature in English has traditionally observed. Morrison’s use of the sermon is attributable not only to the influence of Ellison but also to a community-wide strategy of resistance to externally imposed literary conventions.",
+        "question": "Based on the texts, how would the author of Text 2 most likely characterize the underlined claim in Text 1?",
+        "options": {
+          "A": "As failing to consider Ellison’s and Morrison’s equivalent uses of the sermon within the wider cultural context in which they wrote",
+          "B": "As misunderstanding the function of sermons in novels by Black American writers other than Ellison and Morrison",
+          "C": "As disregarding points of structural and stylistic divergence between the works of Ellison and those of Morrison",
+          "D": "As being indebted to the tradition of resisting literary conventions that privilege written forms, such as novels, over sermons and other oral forms"
+        },
+        "correctAnswer": "A",
+        "rationale": "Choice A is the best answer. The author of Text 2 argues that while Ellison’s influence on Morrison is evident, Morrison’s use of the sermon is also part of a broader community-wide strategy of resistance to externally imposed literary conventions. This perspective suggests that the underlined claim in Text 1, which credits Ellison’s direct influence, fails to take into account the wider cultural context shared by Black American writers. Choices B, C, and D introduce ideas that are not supported by the texts.",
+        "questionDifficulty": "Hard"
+      },
+      {
+        "number": 26,
+        "text1": "Virginia Woolf’s 1928 novel Orlando is an oddity within her body of work. Her other major novels consist mainly of scenes of everyday life and describe their characters’ interior states in great detail, whereas Orlando propels itself through a series of fantastical events and considers its characters’ psychology more superficially. Woolf herself sometimes regarded the novel as a minor work, even admitting once that she 'began it as a joke.'",
+        "text2": "Like Woolf’s other great novels, Orlando portrays how people’s memories inform their experience of the present. Like those works, it examines how people navigate social interactions shaped by gender and social class. Though it is lighter in tone—more entertaining, even—this literary 'joke' nonetheless engages seriously with the themes that motivated the four or five other novels by Woolf that have achieved the status of literary classics.",
+        "question": "Based on the texts, how would the author of Text 2 most likely respond to the assessment of Orlando presented in Text 1?",
+        "options": {
+          "A": "By conceding that Woolf’s talents were best suited to serious novels but asserting that the humor in Orlando is often effective.",
+          "B": "By agreeing that Orlando is less impressive than certain other novels by Woolf but arguing that it should still be regarded as a classic.",
+          "C": "By acknowledging that Orlando clearly differs from Woolf’s other major novels but insisting on its centrality to her body of work nonetheless.",
+          "D": "By concurring that the reputation of Orlando as a minor work has led readers to overlook this novel but maintaining that the reputation is unearned."
+        },
+        "correctAnswer": "C",
+        "rationale": "Choice C is the best answer because it reflects how the author of Text 2 would most likely respond to the assessment in Text 1. Both texts agree that Orlando differs from Woolf’s other major novels—Text 1 characterizes it as an 'oddity' with a more superficial treatment of character psychology and a humorous origin, while Text 2 describes it as lighter in tone yet addressing the same significant themes as Woolf’s other classics. Therefore, the author of Text 2 acknowledges these differences but insists that Orlando remains central to understanding Woolf’s literary contributions. Choices A, B, and D introduce ideas not supported by the texts.",
+        "questionDifficulty": "Hard"
+      },
+      {
+        "number": 27,
+        "text1": "Most animals can regenerate some parts of their bodies, such as skin. But when a three-banded panther worm is cut into three pieces, each piece grows into a new worm. Researchers are investigating this feat partly to learn more about humans’ comparatively limited abilities to regenerate, and they’re making exciting progress. An especially promising discovery is that both humans and panther worms have a gene for early growth response (EGR) linked to regeneration.",
+        "text2": "When Mansi Srivastava and her team reported that panther worms, like humans, possess a gene for EGR, it caused excitement. However, as the team pointed out, the gene likely functions very differently in humans than it does in panther worms. Srivastava has likened EGR to a switch that activates other genes involved in regeneration in panther worms, but how this switch operates in humans remains unclear.",
+        "question": "Based on the texts, what would the author of Text 2 most likely say about Text 1’s characterization of the discovery involving EGR?",
+        "options": {
+          "A": "It is reasonable given that Srivastava and her team have identified how EGR functions in both humans and panther worms.",
+          "B": "It is overly optimistic given additional observations from Srivastava and her team.",
+          "C": "It is unexpected given that Srivastava and her team’s findings were generally met with enthusiasm.",
+          "D": "It is unfairly dismissive given the progress that Srivastava and her team have reported."
+        },
+        "correctAnswer": "B",
+        "rationale": "Choice B is the best answer because it reflects how the author of Text 2 would most likely respond to Text 1’s enthusiastic characterization of the EGR discovery. Text 1 describes the finding of the regeneration-linked gene EGR in both panther worms and humans as 'especially promising' and a sign of 'exciting progress' toward understanding human regeneration. In contrast, Text 2 highlights that while EGR is present in both, its function in humans remains unclear and is likely different from its role in panther worms. This suggests that the optimism expressed in Text 1 may be premature or overly optimistic, a point best captured by Choice B. Choices A, C, and D introduce interpretations that are either unsupported or mischaracterize the texts.",
+        "questionDifficulty": "Hard"
+      },
+      {
+        "number": 28,
+        "text1": "Because literacy in Nahuatl script, the writing system of the Aztec Empire, was lost after Spain invaded central Mexico in the 1500s, it is unclear exactly how meaning was encoded in the script’s symbols. Although many scholars had assumed that the symbols signified entire words, linguist Alfonso Lacadena theorized in 2008 that they signified units of language smaller than words: individual syllables.",
+        "text2": "The growing consensus among scholars of Nahuatl script is that many of its symbols could signify either words or syllables, depending on syntax and content at any given site within a text. For example, the symbol signifying the word huipil (blouse) in some contexts could signify the syllable “pil” in others, as in the place name “Chipiltepec.” Thus, for the Aztecs, reading required a determination of how such symbols functioned each time they appeared in a text.",
+        "question": "Based on the texts, how would the author of Text 2 most likely characterize Lacadena’s theory, as described in Text 1?",
+        "options": {
+          "A": "By praising the theory for recognizing that the script’s symbols could represent entire words",
+          "B": "By arguing that the theory is overly influenced by the work of earlier scholars",
+          "C": "By approving of the theory’s emphasis on how the script changed over time",
+          "D": "By cautioning that the theory overlooks certain important aspects of how the script functioned"
+        },
+        "correctAnswer": "D",
+        "rationale": "Choice D is the best answer. Lacadena’s theory posits that Nahuatl script symbols signified syllables, but the consensus described in Text 2 is that the symbols can signify either words or syllables depending on context. Thus, the author of Text 2 would likely argue that Lacadena’s theory is overly simplistic and overlooks the critical importance of context in determining how each symbol functions. Choices A, B, and C do not accurately reflect the consensus view or the criticism implied by Text 2.",
+        "questionDifficulty": "Medium"
+      },
+      {
+        "number": 29,
+        "text1": "When companies in the same industry propose merging with one another, they often claim that the merger will benefit consumers by increasing efficiency and therefore lowering prices. Economist Ying Fan investigated this notion in the context of the United States newspaper market. She modeled a hypothetical merger of Minneapolis-area newspapers and found that subscription prices would rise following a merger.",
+        "text2": "Economists Dario Focarelli and Fabio Panetta have argued that research on the effect of mergers on prices has focused excessively on short-term effects, which tend to be adverse for consumers. Using the case of consumer banking in Italy, they show that over the long term (several years, in their study), the efficiency gains realized by merged companies do result in economic benefits for consumers.",
+        "question": "Based on the texts, how would Focarelli and Panetta (Text 2) most likely respond to Fan’s findings (Text 1)?",
+        "options": {
+          "A": "They would recommend that Fan compare the near-term effect of a merger on subscription prices in the Minneapolis area with the effect of a merger in another newspaper market.",
+          "B": "They would argue that over the long term the expenses incurred by the merged newspaper company will also increase.",
+          "C": "They would encourage Fan to investigate whether the projected effect on subscription prices persists over an extended period.",
+          "D": "They would claim that mergers have a different effect on consumer prices in the newspaper industry than in most other industries."
+        },
+        "correctAnswer": "C",
+        "rationale": "Choice C is the best answer because, according to the information in Text 2, Focarelli and Panetta argue that merger research has overly focused on short-term effects which tend to be adverse for consumers, whereas their work on consumer banking shows that efficiency gains from mergers can translate into economic benefits over the long term. Therefore, they would encourage Fan to explore whether the rise in newspaper subscription prices identified in her study persists over a longer period.",
+        "questionDifficulty": "Medium"
+      },
+      {
+        "number": 30,
+        "text1": "Literary scholars have struggled with the vastness of Nigerian writer Wole Soyinka’s collective works of drama (spanning over 20 plays in total). It is best, however, to understand Soyinka’s body of work as a dramatist chronologically. Soyinka’s progression as a playwright can be considered to fall into three periods, with each one representing a particular thematic and stylistic cohesion: the 1960s, the two decades between 1970 and 1990, and lastly, from roughly 1990 onwards.",
+        "text2": "It is tempting to impose a linear sense of order on the expanse of Wole Soyinka’s body of work as a dramatist. However, critics who have considered Soyinka’s plays to fit neatly into three phases overlook potential commonalities in Soyinka’s work that span across these phases. Additionally, this view may discount significant differences in the styles and content of plays written around the same time.",
+        "question": "Which choice best describes a difference in how the author of Text 1 and the author of Text 2 view the study of Soyinka’s works of drama?",
+        "options": {
+          "A": "While the author of Text 1 believes that thinking about Soyinka’s works of theater in phases is useful, the author of Text 2 views such an approach as limiting.",
+          "B": "Although the author of Text 1 claims that Soyinka’s style as a dramatist has evolved over time, the author of Text 2 argues that Soyinka’s style has remained consistent throughout his career.",
+          "C": "The author of Text 1 considers Soyinka’s plays to showcase his strongest writing, whereas the author of Text 2 believes that Soyinka’s poetry is where he is most skilled.",
+          "D": "The author of Text 1 argues that Soyinka’s early plays were his most politically charged, whereas the author of Text 2 claims that Soyinka’s most recent plays are the most politicized."
+        },
+        "correctAnswer": "A",
+        "rationale": "Choice A is the best answer. The author of Text 1 argues that it is useful to analyze Soyinka’s dramatic works by dividing them into three chronological periods, which suggests that a phased approach is a valuable method for understanding his work. In contrast, the author of Text 2 critiques this approach, arguing that it overlooks commonalities that span across these phases and ignores significant differences in style and content among plays written at the same time. Choices B, C, and D introduce interpretations that are not supported by the texts.",
+        "questionDifficulty": "Easy"
+      },
+      {
+        "number": 31,
+        "text1": "Despite its beautiful prose, The Guns of August, Barbara Tuchman’s 1962 analysis of the start of World War I, has certain weaknesses as a work of history. It fails to address events in Eastern Europe just before the outbreak of hostilities, thereby giving the impression that Germany was the war’s principal instigator. Had Tuchman consulted secondary works available to her by scholars such as Luigi Albertini, she would not have neglected the influence of events in Eastern Europe on Germany’s actions.",
+        "text2": "Barbara Tuchman’s The Guns of August is an engrossing if dated introduction to World War I. Tuchman’s analysis of primary documents is laudable, but her main thesis that European powers committed themselves to a catastrophic outcome by refusing to deviate from military plans developed prior to the conflict is implausibly reductive.",
+        "question": "Which choice best describes a difference in how the authors of Text 1 and Text 2 view Barbara Tuchman’s The Guns of August?",
+        "options": {
+          "A": "The author of Text 1 argues that Tuchman should have relied more on the work of other historians, while the author of Text 2 implies that Tuchman’s most interesting claims result from her original research.",
+          "B": "The author of Text 1 believes that the scope of Tuchman’s research led her to an incorrect interpretation, while the author of Text 2 believes that Tuchman’s central argument is overly simplistic.",
+          "C": "The author of Text 1 asserts that the writing style of The Guns of August makes it worthwhile to read despite any perceived deficiency in Tuchman’s research, while the author of Text 2 focuses exclusively on the weakness of Tuchman’s interpretation of events.",
+          "D": "The author of Text 1 claims that Tuchman would agree that World War I was largely due to events in Eastern Europe, while the author of Text 2 maintains that Tuchman would say that Eastern European leaders were not committed to military plans in the same way that other leaders were."
+        },
+        "correctAnswer": "B",
+        "rationale": "Choice B is the best answer. Both texts are critical of The Guns of August, but for different reasons: the author of Text 1 argues that Tuchman missed an important factor leading up to the war because she didn’t consult secondary sources, and the author of Text 2 argues that Tuchman’s main thesis is 'reductive,' which is essentially another way of saying that it is overly simplistic. Choices A, C, and D either misrepresent the texts or introduce ideas not supported by them.",
+        "questionDifficulty": "Hard"
+      },
+      {
+        "number": 32,
+        "text1": "In 2007, a team led by Alice Storey analyzed a chicken bone found in El Arenal, Chile, dating it to 1321–1407 CE—over a century before Europeans invaded the region, bringing their own chickens. Storey also found that the El Arenal chicken shared a unique genetic mutation with the ancient chicken breeds of the Polynesian Islands in the Pacific. Thus, Polynesian peoples, not later Europeans, probably first introduced chickens to South America.",
+        "text2": "An Australian research team weakened the case for a Polynesian origin for the El Arenal chicken by confirming that the mutation identified by Storey has occurred in breeds from around the world. More recently, though, a team led by Agusto Luzuriaga-Neira found that South American chicken breeds and Polynesian breeds share other genetic markers that European breeds lack. Thus, the preponderance of evidence now favors a Polynesian origin.",
+        "question": "Based on the texts, how would the author of Text 2 most likely respond to the underlined claim in Text 1?",
+        "options": {
+          "A": "By broadly agreeing with the claim but objecting that the timeline it presupposes conflicts with the findings of the genetic analysis conducted by Storey’s team.",
+          "B": "By faulting the claim for implying that domestic animals couldn’t have been transferred from South America to the Polynesian Islands as well.",
+          "C": "By critiquing the claim for being based on an assumption that before the European invasion of South America, the chickens of Europe were genetically uniform.",
+          "D": "By noting that while the claim is persuasive, the findings of Luzuriaga-Neira’s team provide stronger evidence for it than the findings of the genetic analysis conducted by Storey do."
+        },
+        "correctAnswer": "D",
+        "rationale": "Choice D is the best answer because Text 1 uses Storey’s discovery of a unique genetic mutation in the El Arenal chicken to support the claim that Polynesian peoples introduced chickens to South America. However, Text 2 notes that this mutation is not exclusive to Polynesian breeds since it appears in chickens around the world. Nonetheless, Text 2 explains that more recent research by Luzuriaga-Neira found additional genetic markers that are shared by South American and Polynesian chickens but are absent in European breeds. This newer evidence strengthens the case for a Polynesian origin, suggesting that although Storey’s claim is persuasive, Luzuriaga-Neira’s findings provide even stronger support. Choices A, B, and C do not accurately capture the response implied by Text 2.",
+        "questionDifficulty": "Hard"
+      },
+      {
+        "number": 33,
+        "text1": "Digital art, the use of digital technology to create or display images, isn’t really art at all. It doesn’t require as much skill as creating physical art. 'Painting' with a tablet and stylus is much easier than using paint and a brush: the technology is doing most of the work.",
+        "text2": "The painting programs used to create digital art involve more than just pressing a few buttons. In addition to knowing the fundamentals of art, digital artists need to be familiar with sophisticated software. Many artists will start by drawing an image on paper before transforming the piece to a digital format, where they can apply a variety of colors and techniques that would otherwise require many different traditional tools.",
+        "question": "Based on the texts, how would the author of Text 2 most likely respond to the claims of the author of Text 1?",
+        "options": {
+          "A": "By arguing that a piece of art created digitally can still be displayed traditionally",
+          "B": "By explaining that it’s actually much harder to use a tablet and stylus to create art than to use paint and a brush",
+          "C": "By insisting that digital art requires artistic abilities and skill even if it employs less traditional tools",
+          "D": "By admitting that most digital artists don’t think fundamental drawing skills are important"
+        },
+        "correctAnswer": "C",
+        "rationale": "Choice C is the best answer because it reflects how the author of Text 2 would counter the claims in Text 1. While Text 1 dismisses digital art by asserting that 'the technology is doing most of the work' and that it requires less skill than traditional art, Text 2 highlights that digital art demands a solid understanding of artistic fundamentals along with proficiency in sophisticated software. This implies that despite using different tools, digital art still requires significant skill and artistic ability. Choices A, B, and D either do not address the required skills or misrepresent the points made in Text 2.",
+        "questionDifficulty": "Medium"
+      },
+      {
+        "number": 34,
+        "text1": "A tiny, unusual fossil in a piece of 99-million-year-old amber is of the extinct species Oculudentavis khaungraae. The O. khaungraae fossil consists of a rounded skull with a thin snout and a large eye socket. Because these features look like they are avian, or related to birds, researchers initially thought that the fossil might be the smallest avian dinosaur ever found.",
+        "text2": "Paleontologists were excited to discover a second small fossil that is similar to the strange O. khaungraae fossil but has part of the lower body along with a birdlike skull. Detailed studies of both fossils revealed several traits that are found in lizards but not in dinosaurs or birds. Therefore, paleontologists think the two creatures were probably unusual lizards, even though the skulls looked avian at first.",
+        "question": "Based on the texts, what would the paleontologists in Text 2 most likely say about the researchers’ initial thought in Text 1?",
+        "options": {
+          "A": "It is understandable because the fossil does look like it could be related to birds, even though O. khaungraae is probably a lizard.",
+          "B": "It is confusing because it isn’t clear what caused the researchers to think that O. khaungraae might be related to birds.",
+          "C": "It is flawed because the researchers mistakenly assumed that O. khaungraae must be a lizard.",
+          "D": "It is reasonable because the O. khaungraae skull is about the same size as the skull of the second fossil but is shaped differently."
+        },
+        "correctAnswer": "A",
+        "rationale": "Choice A is the best answer because it aligns with the perspective given in Text 2. While Text 1 describes the fossil as having avian-like features (a rounded skull, a thin snout, and a large eye socket) which led researchers to initially think it was related to birds, Text 2 clarifies that although these skull features appear avian, further detailed analysis showed that the fossil traits are more consistent with lizards. Thus, the initial thought that the fossil might be avian is understandable based on its appearance, even though subsequent research indicates it likely belongs to a lizard.",
+        "questionDifficulty": "Medium"
+      },
+      {
+        "number": 35,
+        "text1": "In a study of insect behavior, Samadi Galpayage and colleagues presented bumblebees with small wooden balls and observed many of the bees clinging to, rolling, and dragging the objects. The researchers provided no external rewards (such as food) to encourage these interactions. The bees simply appeared to be playing—and for no other reason than because they were having fun.",
+        "text2": "Insects do not have cortexes or other brain areas associated with emotions in humans. Still, Galpayage and her team have shown that bumblebees may engage in play, possibly experiencing some kind of positive emotional state. Other studies have suggested that bees experience negative emotional states (for example, stress), but as Galpayage and her team have acknowledged, emotions in insects, if they do indeed exist, are likely very rudimentary.",
+        "question": "Based on the texts, how would the author of Text 2 most likely respond to the underlined portion of Text 1?",
+        "options": {
+          "A": "By objecting that the bees were actually experiencing a negative feeling akin to stress rather than a positive feeling",
+          "B": "By arguing that some insects other than bumblebees may be capable of experiencing complex emotional states",
+          "C": "By pointing out that even humans sometimes struggle to have fun while engaging in play",
+          "D": "By noting that if the bees were truly playing, any positive feelings they may have experienced were probably quite basic"
+        },
+        "correctAnswer": "D",
+        "rationale": "Choice D is the best answer. The author of Text 2 agrees that bumblebees may engage in play and possibly experience a positive emotional state, but he qualifies this claim by pointing out that if such emotions exist in insects, they are likely very rudimentary. This indicates that any positive feelings the bees experience through play are probably basic, thereby addressing the underlined claim in Text 1. Choices A, B, and C either contradict or misrepresent the position taken in Text 2.",
+        "questionDifficulty": "Easy"
+      },
+      {
+        "number": 36,
+        "text1": "Many studies in psychology have shown that people seek out information even when they know in advance that they have no immediate use for it and that they won’t directly benefit from it. Such findings support the consensus view among researchers of curiosity: namely, that curiosity is not instrumental but instead represents a drive to acquire information for its own sake.",
+        "text2": "While acknowledging that acquiring information is a powerful motivator, Rachit Dubey and colleagues ran an experiment to test whether emphasizing the usefulness of scientific information could increase curiosity about it. They found that when research involving rats and fruit flies was presented as having medical applications for humans, participants expressed greater interest in learning about it than when the research was not presented as useful.",
+        "question": "Based on the texts, how would Dubey and colleagues (Text 2) most likely respond to the consensus view discussed in Text 1?",
+        "options": {
+          "A": "By suggesting that curiosity may not be exclusively motivated by the desire to merely acquire information",
+          "B": "By conceding that people may seek out information that serves no immediate purpose only because they think they can use it later",
+          "C": "By pointing out that it is challenging to determine when information-seeking serves no goal beyond acquiring information",
+          "D": "By disputing the idea that curiosity can help explain apparently purposeless information-seeking behaviors"
+        },
+        "correctAnswer": "A",
+        "rationale": "Choice A is the best answer because the research by Dubey and colleagues shows that, while the drive to acquire information is indeed strong, it can be enhanced by framing the information as useful. This indicates that curiosity may not be solely a pursuit of information for its own sake, but may also be influenced by the perceived utility of that information. Choices B, C, and D do not accurately capture the implication of Dubey and colleagues' findings.",
+        "questionDifficulty": "Medium"
+      },
+      {
+        "number": 37,
+        "text1": "Conventional wisdom long held that human social systems evolved in stages, beginning with hunter-gatherers forming small bands of members with roughly equal status. The shift to agriculture about 12,000 years ago sparked population growth that led to the emergence of groups with hierarchical structures: associations of clans first, then chiefdoms, and finally, bureaucratic states.",
+        "text2": "In a 2021 book, anthropologist David Graeber and archaeologist David Wengrow maintain that humans have always been socially flexible, alternately forming systems based on hierarchy and collective ones with decentralized leadership. The authors point to evidence that as far back as 50,000 years ago some hunter-gatherers adjusted their social structures seasonally, at times dispersing in small groups but also assembling into communities that included esteemed individuals.",
+        "question": "Based on the texts, how would Graeber and Wengrow (Text 2) most likely respond to the 'conventional wisdom' presented in Text 1?",
+        "options": {
+          "A": "By conceding the importance of hierarchical systems but asserting the greater significance of decentralized collective societies",
+          "B": "By disputing the idea that developments in social structures have followed a linear progression through distinct stages",
+          "C": "By acknowledging that hierarchical roles likely weren’t a part of social systems before the rise of agriculture",
+          "D": "By challenging the assumption that groupings of hunter-gatherers were among the earliest forms of social structure"
+        },
+        "correctAnswer": "B",
+        "rationale": "Choice B is the best answer because Text 1 presents the conventional view that human social systems developed in a linear, stage-like progression (from hunter-gatherer bands to clans, then chiefdoms, and finally bureaucratic states). In contrast, Text 2 suggests that human social systems have always been flexible, with groups shifting between hierarchical and decentralized forms even among hunter-gatherers. This directly challenges the linear progression idea, making B the most accurate response. Choices A, C, and D introduce notions that are not supported by the evidence in Text 2.",
+        "questionDifficulty": "Hard"
+      },
+      {
+        "number": 38,
+        "text1": "The fossil record suggests that mammoths went extinct around 11 thousand years (kyr) ago. In a 2021 study of environmental DNA (eDNA)—genetic material shed into the environment by organisms—in the Arctic, Yucheng Wang and colleagues found mammoth eDNA in sedimentary layers formed millennia later, around 4 kyr ago. To account for this discrepancy, Joshua H. Miller and Carl Simpson proposed that arctic temperatures could preserve a mammoth carcass on the surface, allowing it to leach DNA into the environment, for several thousand years.",
+        "text2": "Wang and colleagues concede that eDNA contains DNA from both living organisms and carcasses, but for DNA to leach from remains over several millennia requires that the remains be perpetually on the surface. Scavengers and weathering in the Arctic, however, are likely to break down surface remains well before a thousand years have passed.",
+        "question": "Which choice best describes how Text 1 and Text 2 relate to each other?",
+        "options": {
+          "A": "Text 1 discusses two approaches to studying mammoth extinction without advocating for either, whereas Text 2 advocates for one approach over the other.",
+          "B": "Text 1 presents findings by Wang and colleagues and gives another research team’s attempt to explain those findings, whereas Text 2 provides additional detail that calls that explanation into question.",
+          "C": "Text 1 describes Wang and colleagues’ study and a critique of their methodology, whereas Text 2 offers additional details showing that methodology to be sound.",
+          "D": "Text 1 argues that new research has undermined the standard view of when mammoths went extinct, whereas Text 2 suggests a way to reconcile the standard view with that new research."
+        },
+        "correctAnswer": "B",
+        "rationale": "Choice B is the best answer. Text 1 introduces the findings of Wang and colleagues and then presents the Miller and Simpson hypothesis as an explanation for why mammoth eDNA appears in sedimentary layers much later than the fossil record indicates. Text 2, however, challenges this hypothesis by providing additional details—namely, that in the Arctic, scavengers and weathering would likely break down surface remains long before they could leach DNA for thousands of years. This directly calls into question the viability of the Miller and Simpson explanation mentioned in Text 1.",
+        "questionDifficulty": "Hard"
+      },
+      {
+        "number": 39,
+        "text1": "Although food writing is one of the most widely read genres in the United States, literary scholars have long neglected it. And within this genre, cookbooks attract the least scholarly attention of all, regardless of how well written they may be. This is especially true of works dedicated to regional US cuisines, whose complexity and historical significance are often overlooked.",
+        "text2": "With her 1976 cookbook The Taste of Country Cooking, Edna Lewis popularized the refined Southern cooking she had grown up with in Freetown, an all-Black community in Virginia. She also set a new standard for cookbook writing: the recipes and memoir passages interspersing them are written in prose more elegant than that of most novels. Yet despite its inarguable value as a piece of writing, Lewis’s masterpiece has received almost no attention from literary scholars.",
+        "question": "Based on the two texts, how would the author of Text 1 most likely regard the situation presented in the underlined sentence in Text 2?",
+        "options": {
+          "A": "As typical, because scholars are dismissive of literary works that achieve popularity with the general public",
+          "B": "As unsurprising, because scholars tend to overlook the literary value of food writing in general and of regional cookbooks in particular",
+          "C": "As justifiable, because Lewis incorporated memoir into The Taste of Country Cooking, thus undermining its status as a cookbook",
+          "D": "As inevitable, because The Taste of Country Cooking was marketed to readers of food writing and not to readers of other genres"
+        },
+        "correctAnswer": "B",
+        "rationale": "Choice B is the best answer. Text 1 explains that literary scholars largely neglect food writing and especially regional cookbooks, regardless of their quality, due to an oversight of their complexity and historical significance. Thus, the fact that Edna Lewis’s well-regarded cookbook has received little scholarly attention, as mentioned in Text 2, would be seen as unsurprising by the author of Text 1. Choices A, C, and D introduce reasons that are not supported by the texts.",
+        "questionDifficulty": "Easy"
+      }, 
+      {
+        "number": 40,
+        "text1": "Some animal species, like the leopard, can be found in many kinds of areas. On the other hand, tropical mountain bird species tend to be limited in the types of spaces they can call home. This is because many mountain bird species are only able to survive at very specific elevations. Over time, these species have likely become used to living at a specific temperature. Therefore, these species struggle to survive at elevations that are warmer or colder than they are used to.",
+        "text2": "A new study reviewed observations of nearly 3,000 bird species to understand why tropical mountain bird species live at specific elevations. They noted that when a mountain bird species was found in an area with many other bird species, it tended to inhabit much smaller geographic areas. It is thus likely that competition for resources with other species, not temperature, limits where these birds can live.",
+        "question": "Based on the texts, both authors would most likely agree with which statement?",
+        "options": {
+          "A": "Tropical mountain bird species are restricted in where they can live.",
+          "B": "Scientists have better tools to observe tropical mountain birds than they did in the past.",
+          "C": "Little is known about how tropical mountain birds build their nests.",
+          "D": "Tropical mountain bird species that live at high elevations tend to be genetically similar."
+        },
+        "correctAnswer": "A",
+        "rationale": "Choice A is the best answer because both texts agree that tropical mountain bird species have limited habitats. Text 1 attributes this limitation to temperature preferences, while Text 2 argues that competition for resources restricts their geographic range. Despite their differing explanations, both texts concur that these birds are confined to specific areas. The other choices introduce ideas that are not supported by either text.",
+        "questionDifficulty": "Easy"
+      },
+      {
+        "number": 41,
+        "text1": "American sculptor Edmonia Lewis is best known for her sculptures that represent figures from history and mythology, such as The Death of Cleopatra and Hagar. Although Lewis sculpted other subjects, her career as a sculptor is best represented by the works in which she depicted these historical and mythical themes.",
+        "text2": "Art historians have typically ignored the many portrait busts Edmonia Lewis created. Lewis likely carved these busts (sculptures of a person’s head) frequently throughout her long career. She is known for her sculptures that represent historical figures, but Lewis likely supported herself financially by carving portrait busts for acquaintances who paid her to represent their features. Thus, Lewis’s portrait busts are a central aspect of her career as a sculptor.",
+        "question": "Based on the texts, both authors would most likely agree with which statement?",
+        "options": {
+          "A": "Lewis’s portrait busts have overshadowed her other work.",
+          "B": "The Death of Cleopatra is Lewis’s most famous piece.",
+          "C": "Sculpting representations of historical figures was a short-lived trend.",
+          "D": "Lewis’s works are varied in the subjects they depict."
+        },
+        "correctAnswer": "D",
+        "rationale": "Choice D is the best answer. Text 1 notes that although Lewis is best known for her sculptures of historical and mythical figures, she also sculpted other subjects, indicating variation in her work. Text 2 emphasizes that Lewis carved many portrait busts throughout her career, which further implies that her oeuvre is diverse. Choices A, B, and C are not supported by the texts.",
+        "questionDifficulty": "Easy"
+      },
+      {
+        "number": 42,
+        "text1": "Ecologists have long wondered how thousands of microscopic phytoplankton species can live together near ocean surfaces competing for the same resources. According to conventional wisdom, one species should emerge after outcompeting the rest. So why do so many species remain? Ecologists’ many efforts to explain this phenomenon still haven’t uncovered a satisfactory explanation.",
+        "text2": "Ecologist Michael Behrenfeld and colleagues have connected phytoplankton’s diversity to their microscopic size. Because these organisms are so tiny, they are spaced relatively far apart from each other in ocean water and, moreover, experience that water as a relatively dense substance. This in turn makes it hard for them to move around and interact with one another. Therefore, says Behrenfeld’s team, direct competition among phytoplankton probably happens much less than previously thought.",
+        "question": "Based on the texts, how would Behrenfeld and colleagues (Text 2) most likely respond to the 'conventional wisdom' discussed in Text 1?",
+        "options": {
+          "A": "By arguing that it is based on a misconception about phytoplankton species competing with one another",
+          "B": "By asserting that it fails to recognize that routine replenishment of ocean nutrients prevents competition between phytoplankton species",
+          "C": "By suggesting that their own findings help clarify how phytoplankton species are able to compete with larger organisms",
+          "D": "By recommending that more ecologists focus their research on how competition among phytoplankton species is increased with water density"
+        },
+        "correctAnswer": "A",
+        "rationale": "Choice A is the best answer because, based on Text 2, Behrenfeld and colleagues attribute the persistence of many phytoplankton species to a reduced level of direct competition due to the organisms’ microscopic size and the way they are spaced apart in water. This directly challenges the conventional view from Text 1 that intense competition should allow only one species to dominate. The other choices either introduce factors not mentioned in the texts or misinterpret the findings.",
+        "questionDifficulty": "Hard"
+      },
+      {
+        "number": 43,
+        "text1": "A team led by Bernardo Strassburg has found that rewilding farmland (returning the land to its natural state) could help preserve biodiversity and offset carbon emissions. The amount of farmland that would need to be restored, they found, is remarkably low. Rewilding a mere 15% of the world’s current farmland would prevent 60% of expected species extinctions and help absorb nearly 299 gigatons of carbon dioxide—a clear win in the fight against the biodiversity and climate crises.",
+        "text2": "While Strassburg’s team’s findings certainly offer encouraging insight into the potential benefits of rewilding, it’s important to consider potential effects on global food supplies. The researchers suggest that to compensate for the loss of food-producing land, remaining farmland would need to produce even more food. Thus, policies focused on rewilding farmland must also address strategies for higher-yield farming.",
+        "question": "Which choice best describes a difference in how the author of Text 1 and the author of Text 2 view Strassburg’s team’s study?",
+        "options": {
+          "A": "The author of Text 2 approaches the study’s findings with some caution, whereas the author of Text 1 is optimistic about the reported potential environmental benefits.",
+          "B": "The author of Text 2 claims that the percentage of farmland identified by Strassburg’s team is too low for rewilding to achieve meaningful results, whereas the author of Text 1 thinks the percentage is sufficient.",
+          "C": "The author of Text 2 believes that the results described by Strassburg’s team are achievable in the near future, whereas the author of Text 1 argues that they likely aren’t.",
+          "D": "The author of Text 2 focuses on rewilding’s effect on carbon emissions, whereas the author of Text 1 focuses on its effect on biodiversity."
+        },
+        "correctAnswer": "A",
+        "rationale": "Choice A is the best answer. Text 1 is highly optimistic about Strassburg’s findings, describing the potential outcomes as a 'clear win' for both biodiversity preservation and carbon dioxide absorption. In contrast, Text 2, while acknowledging the potential benefits, emphasizes the need to address the implications of rewilding on global food supplies, thus approaching the study’s findings with caution. Choices B, C, and D misrepresent the views expressed in the texts.",
+        "questionDifficulty": "Easy"
+      },
+      {
+        "number": 44,
+        "text1": "Dominique Potvin and colleagues captured five Australian magpies (Gymnorhina tibicen) to test a new design for attaching tracking devices to birds. As the researchers fitted each magpie with a tracker attached by a small harness, they noticed some magpies without trackers pecking at another magpie’s tracker until it broke off. The researchers suggest that this behavior could be evidence of magpies attempting to help another magpie without benefiting themselves.",
+        "text2": "It can be tempting to think that animals are deliberately providing help when we see them removing trackers and other equipment from one another, especially when a species is known to exhibit other cooperative behaviors. At the same time, it can be difficult to exclude the possibility that individuals are simply interested in the equipment because of its novelty, curiously pawing or pecking at it until it detaches.",
+        "question": "Based on the texts, how would the author of Text 2 most likely respond to the researchers’ perspective in Text 1 on the behavior of the magpies without trackers?",
+        "options": {
+          "A": "That behavior might have been due to the novelty of the magpies’ captive setting rather than to the novelty of the tracker.",
+          "B": "That behavior likely indicates that the magpies were deliberately attempting to benefit themselves by obtaining the tracker.",
+          "C": "That behavior may not be evidence of selflessness in Gymnorhina tibicen because not all the captured magpies demonstrated it.",
+          "D": "That behavior might be adequately explained without suggesting that the magpies were attempting to assist the other magpie."
+        },
+        "correctAnswer": "D",
+        "rationale": "Choice D is the best answer because it reflects the perspective in Text 2 that cautions against immediately assuming a prosocial motive for the behavior observed by Potvin and colleagues in Text 1. Instead of interpreting the pecking as an attempt to help another bird, the author of Text 2 suggests that the behavior could be simply attributed to curiosity about the novel tracking device. Choices A, B, and C do not accurately capture the alternative explanation provided in Text 2.",
+        "questionDifficulty": "Hard"
+      },
+      {
+        "number": 45,
+        "text1": "Polar bears sustain themselves primarily by hunting seals on the Arctic sea ice, but rising ocean temperatures are causing the ice to diminish, raising concerns about polar bear population declines as these large predators’ seal-hunting habitats continue to shrink. A 2020 study examining polar bear populations across the Arctic concluded that populations affected by sea-ice loss are at great risk of extinction by the end of the twenty-first century.",
+        "text2": "Monitoring carried out by researchers from the Norwegian Polar Institute shows that the polar bear population on the Arctic archipelago of Svalbard remains stable and well nourished despite rapidly declining sea ice in recent years. The researchers attribute this population’s resilience in part to a shift in feeding strategies: in addition to hunting seals, the Svalbard polar bears have begun relying on a diet of reindeer meat and birds’ eggs.",
+        "question": "Based on the texts, how would the researchers in Text 2 most likely respond to the conclusion presented in the underlined portion of Text 1?",
+        "options": {
+          "A": "By noting that it neglects the possibility of some polar bear populations adapting to changes in their environment",
+          "B": "By suggesting that it is likely incorrect about the rates at which warming ocean temperatures have caused sea ice to melt in the Arctic",
+          "C": "By asserting that it overlooks polar bear populations that have not yet been affected by loss of seal-hunting habitats",
+          "D": "By arguing that it fails to account for polar bears’ reliance on a single seal-hunting strategy"
+        },
+        "correctAnswer": "A",
+        "rationale": "Choice A is the best answer. Text 2 shows that the Svalbard polar bears have adapted their feeding strategies by supplementing their diet with reindeer meat and birds’ eggs in response to declining sea ice. This adaptation demonstrates that at least some polar bear populations may be resilient in the face of environmental changes, which challenges the claim in Text 1 that such populations are at great risk of extinction if reliant solely on seal hunting. Choices B, C, and D introduce ideas not supported by the texts.",
+        "questionDifficulty": "Medium"
+      }      
+                                                        
+    ]
+    
+  }
+  
