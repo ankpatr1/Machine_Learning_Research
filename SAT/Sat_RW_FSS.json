@@ -1,0 +1,143 @@
+[
+    {
+      "number": 1,
+      "question": "The radiation that ______blank during the decay of radioactive atomic nuclei is known as gamma radiation.",
+      "correct_answer": "occurs",
+      "rationale": "Singular verb 'occurs' agrees with singular subject 'radiation.'",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 2,
+      "question": "Despite being cheap, versatile, and easy to produce, ______blank they are made from nonrenewable petroleum...",
+      "correct_answer": "commercial plastics have two associated problems:",
+      "rationale": "Ensures modifier correctly refers to 'commercial plastics.'",
+      "difficulty": "Hard"
+    },
+    {
+      "number": 3,
+      "question": "...for the passage of key antidiscrimination legislation, ______blank until their demands were addressed.",
+      "correct_answer": "the activists increased pressure on lawmakers by staging a sit-in protest",
+      "rationale": "Correctly places the noun being modified immediately after the modifying clause.",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 4,
+      "question": "...Ease of Living Index. This tool ______blank economic potential, sustainability, and citizens’ quality of life.",
+      "correct_answer": "measures",
+      "rationale": "Simple present tense aligns with the current use described earlier.",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 5,
+      "question": "...the wind from a butterfly flapping ______blank in Brazil might eventually grow into a storm...",
+      "correct_answer": "its wings",
+      "rationale": "'Its' is the possessive determiner and 'wings' is the correct plural noun.",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 6,
+      "question": "...Buratti ______blank data about Saturn’s rings collected by the Cassini spacecraft...",
+      "correct_answer": "was studying",
+      "rationale": "Past progressive aligns with past actions and implies ongoing activity.",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 7,
+      "question": "...ruled by a king, ______blank had once been an ally...",
+      "correct_answer": "Rabinal Achí tells the story of K’iche’ Achí, a military leader who",
+      "rationale": "Modifier placement keeps subject 'Rabinal Achí' next to the modifier it belongs to.",
+      "difficulty": "Hard"
+    },
+    {
+      "number": 8,
+      "question": "...Amplifying the voices and experiences of Black soldiers ______blank of particular importance to Chester...",
+      "correct_answer": "was",
+      "rationale": "Gerund phrase 'Amplifying...' is singular, requiring singular verb 'was.'",
+      "difficulty": "Hard"
+    },
+    {
+      "number": 9,
+      "question": "...Roosevelt ______blank to conserve the nation’s wilderness areas...",
+      "correct_answer": "vowed",
+      "rationale": "Past tense 'vowed' aligns with 'guided' and 'upheld.'",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 10,
+      "question": "...killifish eggs ______blank a dormant state known as diapause...",
+      "correct_answer": "enter",
+      "rationale": "Finite verb 'enter' is needed to complete the main clause.",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 11,
+      "question": "Some historians ______blank that this “tulip mania” was the first historical instance of an asset bubble...",
+      "correct_answer": "claim",
+      "rationale": "Finite present tense verb 'claim' agrees with the plural subject 'some historians' and is needed to complete the main clause.",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 12,
+      "question": "...he came up with the idea for the Nerf football, which ______blank of the harder and heavier regulation football.",
+      "correct_answer": "is a smaller, foam version",
+      "rationale": "Singular subject 'Nerf football' matches the singular verb 'is' and singular noun 'version.'",
+      "difficulty": "Medium"
+    },
+    {
+      "number": 13,
+      "question": "By the end of the 1990s, the organization ______blank its initial membership.",
+      "correct_answer": "had doubled",
+      "rationale": "Past perfect 'had doubled' is appropriate for an action completed before a specific point in the past.",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 14,
+      "question": "...until they ______blank a desired energy level, at which point they are diverted...",
+      "correct_answer": "reach",
+      "rationale": "Present tense 'reach' aligns with 'travel' and 'are diverted' for consistent tense.",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 15,
+      "question": "...the Sherpas pack up their telescopes and ______blank ready.",
+      "correct_answer": "get",
+      "rationale": "Present tense 'get' matches the present narrative tense used in the passage.",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 16,
+      "question": "Farouk El-Baz, a geologist and space scientist, ______blank part of the team that selected the lunar landing sites...",
+      "correct_answer": "was",
+      "rationale": "Singular subject 'Farouk El-Baz' matches with the singular past tense verb 'was.'",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 17,
+      "question": "...that is home to nearly 1,000 species... ______blank instrumental in the government’s decision...",
+      "correct_answer": "was",
+      "rationale": "The subject 'survey' is singular, so the correct singular verb is 'was.'",
+      "difficulty": "Hard"
+    },
+    {
+      "number": 18,
+      "question": "You ______blank more about obsidian’s structure... in a later chapter.",
+      "correct_answer": "will learn",
+      "rationale": "Future tense 'will learn' aligns with the future time phrase 'in a later chapter.'",
+      "difficulty": "Easy"
+    },
+    {
+      "number": 19,
+      "question": "...Barbara Chase-Riboud... ______blank limited to the realm of prose...",
+      "correct_answer": "aren’t",
+      "rationale": "Plural subject 'talents' requires the plural verb 'aren’t.'",
+      "difficulty": "Hard"
+    },
+    {
+      "number": 20,
+      "question": "...cashiers were instructed to ask customers whether ______blank wanted a bag.",
+      "correct_answer": "they",
+      "rationale": "Plural pronoun 'they' matches the plural noun 'customers.'",
+      "difficulty": "Easy"
+    }
+  ]
+  
