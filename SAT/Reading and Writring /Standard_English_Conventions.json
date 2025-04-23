@@ -1,6 +1,7 @@
 [
     {
       "number": 1,
+      "skill": "Boundaries",
       "question": "Generations of mystery and horror ______blank have been influenced by the dark, gothic stories of celebrated American author Edgar Allan Poe (1809–1849).",
       "correct_answer": "writers",
       "rationale": "No punctuation is needed between the subject and the verb.",
@@ -8,6 +9,7 @@
     },
     {
       "number": 2,
+      "skill": "Boundaries",
       "question": "The Mission 66 initiative... overburdened national ______blank it prioritized physical improvements...",
       "correct_answer": "parks;",
       "rationale": "A semicolon correctly joins two independent clauses.",
@@ -15,6 +17,7 @@
     },
     {
       "number": 3,
+      "skill": "Boundaries",
       "question": "A recent study tracked... ______blank found that when wild growth...",
       "correct_answer": "Entomologist Heather Grab",
       "rationale": "No punctuation is needed between a title and name or between subject and verb.",
@@ -22,6 +25,7 @@
     },
     {
       "number": 4,
+      "skill": "Boundaries",
       "question": "...have increased levels of a rare carbon isotope, ______blank due to the higher 13C levels...",
       "correct_answer": "carbon-13 (13C),",
       "rationale": "Comma after parenthetical separates supplementary element from main clause.",
@@ -29,6 +33,7 @@
     },
     {
       "number": 5,
+      "skill": "Boundaries",
       "question": "...praise from leading contemporary ______blank them Nigerian American essayist...",
       "correct_answer": "writers, among",
       "rationale": "Comma separates main clause from supplementary phrase.",
@@ -36,6 +41,7 @@
     },
     {
       "number": 6,
+      "skill": "Boundaries",
       "question": "While one requires oxygen and one does ______blank and anaerobic respiration...",
       "correct_answer": "not, aerobic",
       "rationale": "Comma separates dependent clause from independent clause.",
@@ -43,6 +49,7 @@
     },
     {
       "number": 7,
+      "skill": "Boundaries",
       "question": "...an uncommon ______blank celebrated el Día de los Tres Reyes Magos...",
       "correct_answer": "practice at the time;",
       "rationale": "Semicolon separates items in a complex series with internal punctuation.",
@@ -50,6 +57,7 @@
     },
     {
       "number": 8,
+      "skill": "Boundaries",
       "question": "...carbon dioxide and water into ______blank is fueled in part by...",
       "correct_answer": "nutrients,",
       "rationale": "Comma marks the end of a supplementary defining clause.",
@@ -57,6 +65,7 @@
     },
     {
       "number": 9,
+      "skill": "Boundaries",
       "question": "...natural plant ______blank the manufacture of synthetic fibers...",
       "correct_answer": "fibers, but",
       "rationale": "Comma and coordinating conjunction join two main clauses.",
@@ -64,6 +73,7 @@
     },
     {
       "number": 10,
+      "skill": "Boundaries",
       "question": "...she didn’t just walk, she ______blank the 1960 Summer Olympics...",
       "correct_answer": "ran—fast. During",
       "rationale": "Period correctly separates two independent clauses.",
@@ -71,6 +81,7 @@
     },
     {
       "number": 11,
+      "skill": "Boundaries",
       "question": "...How ______blank A layer of microbubbles...",
       "correct_answer": "are they able to move so fast?",
       "rationale": "Interrogative form with question mark introduces the explanation.",
@@ -78,6 +89,7 @@
     },
     {
       "number": 12,
+      "skill": "Boundaries",
       "question": "...dedicated herself to mycology, the study of ______blank more than 350 paintings...",
       "correct_answer": "fungi, producing",
       "rationale": "Comma separates supplementary phrase from noun phrase.",
@@ -85,6 +97,7 @@
     },
     {
       "number": 13,
+      "skill": "Boundaries",
       "question": "...present-day Ecuador) ______blank from colonial rule.",
       "correct_answer": "Ecuador)—",
       "rationale": "Dash and parenthesis correctly enclose and end the supplementary element.",
@@ -92,6 +105,7 @@
     },
     {
       "number": 14,
+      "skill": "Boundaries",
       "question": "...they scored particularly ______blank openness to experience.",
       "correct_answer": "high on:",
       "rationale": "Colon introduces the specific trait mentioned in the previous clause.",
@@ -99,6 +113,7 @@
     },
     {
       "number": 15,
+      "skill": "Boundaries",
       "question": "...established the sanctity of animal ______blank the just treatment of the elderly...",
       "correct_answer": "life,",
       "rationale": "Comma separates items in a list.",
@@ -106,6 +121,7 @@
     },
     {
       "number": 16,
+      "skill": "Boundaries",
       "question": "...entered San Francisco ______blank left New York Harbor...",
       "correct_answer": "Bay. Having",
       "rationale": "Period separates two complete sentences.",
@@ -113,6 +129,7 @@
     },
     {
         "number": 17,
+        "skill": "Boundaries",
         "question": "Recently, engineer Erkka Frankberg...used the chemical ______blank to make a glassy solid...",
         "correct_answer": "compound aluminum oxide",
         "rationale": "Restrictive appositive—'aluminum oxide' is essential identifying info and does not require punctuation.",
@@ -120,6 +137,7 @@
       },
       {
         "number": 18,
+        "skill": "Boundaries",
         "question": "...how current-driven mixing varies across ______blank and what impact it has...",
         "correct_answer": "regions",
         "rationale": "No punctuation needed between two coordinate elements completing a single verb phrase.",
@@ -127,6 +145,7 @@
       },
       {
         "number": 19,
+        "skill": "Boundaries",
         "question": "...silkworm ______blank dissolving and reweaving the silk...",
         "correct_answer": "silk. By",
         "rationale": "Two independent clauses should be separated with a period.",
@@ -134,6 +153,7 @@
       },
       {
         "number": 20,
+        "skill": "Boundaries",
         "question": "...three to four weeks in ______blank its predictions are therefore more short-term...",
         "correct_answer": "advance;",
         "rationale": "Semicolon separates two independent clauses correctly.",
@@ -141,6 +161,7 @@
       },
       {
         "number": 21,
+        "skill": "Boundaries",
         "question": "...Shelley’s ______blank as the recipient of the letters...",
         "correct_answer": "novel; rather,",
         "rationale": "Semicolon followed by 'rather' joins two independent clauses with an appropriate transition.",
@@ -148,6 +169,7 @@
       },
       {
         "number": 22,
+        "skill": "Boundaries",
         "question": "...is ______blank time based on the planet’s rotation lags...",
         "correct_answer": "added whenever",
         "rationale": "No punctuation needed between verb and preposition.",
@@ -155,6 +177,7 @@
       },
       {
         "number": 23,
+        "skill": "Boundaries",
         "question": "...examines themes ______blank childhood, womanhood...",
         "correct_answer": "of",
         "rationale": "'Themes of' carries through each list item—no punctuation needed.",
@@ -162,6 +185,7 @@
       },
       {
         "number": 24,
+        "skill": "Boundaries",
         "question": "...readily available and high in oxygen ______blank scientists have wondered...",
         "correct_answer": "content,",
         "rationale": "Comma separates subordinate clause from main clause.",
@@ -169,6 +193,7 @@
       },
       {
         "number": 25,
+        "skill": "Boundaries",
         "question": "...The number of jams available for tasting ______blank some shoppers had twenty-four...",
         "correct_answer": "varied:",
         "rationale": "Colon introduces a list or explanation after an independent clause.",
@@ -176,6 +201,7 @@
       },
       {
         "number": 26,
+        "skill": "Boundaries",
         "question": "...Pueblo Revolt of ______blank as a result of his leadership...",
         "correct_answer": "1680, and",
         "rationale": "Comma + coordinating conjunction joins two independent clauses.",
@@ -183,6 +209,7 @@
       },
       {
         "number": 27,
+        "skill": "Boundaries",
         "question": "...how much artificial sweetener ______blank After conducting...",
         "correct_answer": "most people prefer in a diet drink.",
         "rationale": "This is a declarative sentence, not a question—period is appropriate.",
@@ -190,6 +217,7 @@
       },
       {
         "number": 28,
+        "skill": "Boundaries",
         "question": "...millions of miles of ______blank the volume and speed of water...",
         "correct_answer": "waterways and the fact that",
         "rationale": "No punctuation needed between coordinated noun phrases.",
@@ -197,6 +225,7 @@
       },
       {
         "number": 29,
+        "skill": "Boundaries",
         "question": "...the Huntington Library in ______blank received a collection...",
         "correct_answer": "California",
         "rationale": "No punctuation between subject and verb.",
@@ -204,10 +233,170 @@
       },
       {
         "number": 30,
+        "skill": "Boundaries",
         "question": "...raising the surrounding air ______blank a light-colored covering...",
         "correct_answer": "temperature. Adding",
         "rationale": "Two independent clauses—period separates them clearly.",
         "difficulty": "Hard"
+      },
+      {
+        "number": 31,
+        "skill": "Form, Structure, and Sense",
+        "question": "The radiation that ______blank during the decay of radioactive atomic nuclei is known as gamma radiation.",
+        "correct_answer": "occurs",
+        "rationale": "Singular verb 'occurs' agrees with singular subject 'radiation.'",
+        "difficulty": "Easy"
+      },
+      {
+        "number": 32,
+        "skill": "Form, Structure, and Sense",
+        "question": "Despite being cheap, versatile, and easy to produce, ______blank they are made from nonrenewable petroleum...",
+        "correct_answer": "commercial plastics have two associated problems:",
+        "rationale": "Ensures modifier correctly refers to 'commercial plastics.'",
+        "difficulty": "Hard"
+      },
+      {
+       "number": 33,
+        "skill": "Form, Structure, and Sense",
+        "question": "...for the passage of key antidiscrimination legislation, ______blank until their demands were addressed.",
+        "correct_answer": "the activists increased pressure on lawmakers by staging a sit-in protest",
+        "rationale": "Correctly places the noun being modified immediately after the modifying clause.",
+        "difficulty": "Medium"
+      },
+      {
+       "number": 34,
+        "skill": "Form, Structure, and Sense",
+        "question": "...Ease of Living Index. This tool ______blank economic potential, sustainability, and citizens’ quality of life.",
+        "correct_answer": "measures",
+        "rationale": "Simple present tense aligns with the current use described earlier.",
+        "difficulty": "Easy"
+      },
+      {
+        "number": 35,
+        "skill": "Form, Structure, and Sense",
+        "question": "...the wind from a butterfly flapping ______blank in Brazil might eventually grow into a storm...",
+        "correct_answer": "its wings",
+        "rationale": "'Its' is the possessive determiner and 'wings' is the correct plural noun.",
+        "difficulty": "Easy"
+      },
+      {
+        "number": 36,
+        "skill": "Form, Structure, and Sense",
+        "question": "...Buratti ______blank data about Saturn’s rings collected by the Cassini spacecraft...",
+        "correct_answer": "was studying",
+        "rationale": "Past progressive aligns with past actions and implies ongoing activity.",
+        "difficulty": "Medium"
+      },
+      {
+        "number": 37,
+        "skill": "Form, Structure, and Sense",
+        "question": "...ruled by a king, ______blank had once been an ally...",
+        "correct_answer": "Rabinal Achí tells the story of K’iche’ Achí, a military leader who",
+        "rationale": "Modifier placement keeps subject 'Rabinal Achí' next to the modifier it belongs to.",
+        "difficulty": "Hard"
+      },
+      {
+        "number": 38,
+        "skill": "Form, Structure, and Sense",
+        "question": "...Amplifying the voices and experiences of Black soldiers ______blank of particular importance to Chester...",
+        "correct_answer": "was",
+        "rationale": "Gerund phrase 'Amplifying...' is singular, requiring singular verb 'was.'",
+        "difficulty": "Hard"
+      },
+      {
+        "number": 39,
+        "skill": "Form, Structure, and Sense",
+        "question": "...Roosevelt ______blank to conserve the nation’s wilderness areas...",
+        "correct_answer": "vowed",
+        "rationale": "Past tense 'vowed' aligns with 'guided' and 'upheld.'",
+        "difficulty": "Easy"
+      },
+      {
+        "number": 40,
+        "skill": "Form, Structure, and Sense",
+        "question": "...killifish eggs ______blank a dormant state known as diapause...",
+        "correct_answer": "enter",
+        "rationale": "Finite verb 'enter' is needed to complete the main clause.",
+        "difficulty": "Easy"
+      },
+      {
+        "number": 41,
+        "skill": "Form, Structure, and Sense",
+        "question": "Some historians ______blank that this “tulip mania” was the first historical instance of an asset bubble...",
+        "correct_answer": "claim",
+        "rationale": "Finite present tense verb 'claim' agrees with the plural subject 'some historians' and is needed to complete the main clause.",
+        "difficulty": "Easy"
+      },
+      {
+        "number": 42,
+        "skill": "Form, Structure, and Sense",
+        "question": "...he came up with the idea for the Nerf football, which ______blank of the harder and heavier regulation football.",
+        "correct_answer": "is a smaller, foam version",
+        "rationale": "Singular subject 'Nerf football' matches the singular verb 'is' and singular noun 'version.'",
+        "difficulty": "Medium"
+      },
+      {
+        "number": 43,
+        "skill": "Form, Structure, and Sense",
+        "question": "By the end of the 1990s, the organization ______blank its initial membership.",
+        "correct_answer": "had doubled",
+        "rationale": "Past perfect 'had doubled' is appropriate for an action completed before a specific point in the past.",
+        "difficulty": "Easy"
+      },
+      {
+        "number": 44,
+        "skill": "Form, Structure, and Sense",
+        "question": "...until they ______blank a desired energy level, at which point they are diverted...",
+        "correct_answer": "reach",
+        "rationale": "Present tense 'reach' aligns with 'travel' and 'are diverted' for consistent tense.",
+        "difficulty": "Easy"
+      },
+      {
+        "number": 45,
+        "skill": "Form, Structure, and Sense",
+        "question": "...the Sherpas pack up their telescopes and ______blank ready.",
+        "correct_answer": "get",
+        "rationale": "Present tense 'get' matches the present narrative tense used in the passage.",
+        "difficulty": "Easy"
+      },
+      {
+        "number": 46,
+        "skill": "Form, Structure, and Sense",
+        "question": "Farouk El-Baz, a geologist and space scientist, ______blank part of the team that selected the lunar landing sites...",
+        "correct_answer": "was",
+        "rationale": "Singular subject 'Farouk El-Baz' matches with the singular past tense verb 'was.'",
+        "difficulty": "Easy"
+      },
+      {
+        "number": 47,
+        "skill": "Form, Structure, and Sense",
+        "question": "...that is home to nearly 1,000 species... ______blank instrumental in the government’s decision...",
+        "correct_answer": "was",
+        "rationale": "The subject 'survey' is singular, so the correct singular verb is 'was.'",
+        "difficulty": "Hard"
+      },
+      {
+        "number": 48,
+        "skill": "Form, Structure, and Sense",
+        "question": "You ______blank more about obsidian’s structure... in a later chapter.",
+        "correct_answer": "will learn",
+        "rationale": "Future tense 'will learn' aligns with the future time phrase 'in a later chapter.'",
+        "difficulty": "Easy"
+      },
+      {
+        "number": 49,
+        "skill": "Form, Structure, and Sense",
+        "question": "...Barbara Chase-Riboud... ______blank limited to the realm of prose...",
+        "correct_answer": "aren’t",
+        "rationale": "Plural subject 'talents' requires the plural verb 'aren’t.'",
+        "difficulty": "Hard"
+      },
+      {
+        "number": 50,
+        "question": "...cashiers were instructed to ask customers whether ______blank wanted a bag.",
+        "correct_answer": "they",
+        "rationale": "Plural pronoun 'they' matches the plural noun 'customers.'",
+        "difficulty": "Easy"
       }
   ]
   

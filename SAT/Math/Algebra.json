@@ -1118,7 +1118,7 @@
 },
 {
   "number": 81,
-  "skill": "Systems of two linear equations in two variables",
+  "skill": "Linear inequalities in one or two variables",
   "question": "If the system of equations\n\n4x + 5y = 100  \n5x + 4y = 62\n\nhas solution (x, y), what is the value of x + y?",
   "options": {
     "A": "0",
@@ -1129,11 +1129,471 @@
   "correct_answer": "C",
   "rationale": "Choice C is correct.  Adding the two equations gives\n\n(4x + 5y) + (5x + 4y) = 100 + 62  \n9x + 9y = 162\n\nDividing both sides by 9 yields x + y = 18.",
   "difficulty": "Medium"
+},
+{
+  "number": 82,
+  "skill": "Linear inequalities in one or two variables",
+  "question": "A cargo helicopter delivers only 100-pound packages and 120-pound packages. For each delivery trip, the helicopter must carry at least 10 packages, and the total weight of the packages can be at most 1,100 pounds. What is the maximum number of 120-pound packages that the helicopter can carry per trip?",
+  "options": [
+    "2",
+    "4",
+    "5",
+    "6"
+  ],
+  "correct_answer": "C",
+  "rationale": "Choice C is correct. Let a equal the number of 120-pound packages, and let b equal the number of 100-pound packages. It’s given that the total weight of the packages can be at most 1,100 pounds: the inequality 120a + 100b ≤ 1,100 represents this situation. It’s also given that the helicopter must carry at least 10 packages: the inequality a + b ≥ 10 represents this situation. To maximize a, we minimize b. Since b ≥ 10 - a, substitute into the weight inequality: 120a + 100(10 - a) ≤ 1,100 ⇒ 120a + 1,000 - 100a ≤ 1,100 ⇒ 20a ≤ 100 ⇒ a ≤ 5. Thus, the maximum number of 120-pound packages is 5.",
+  "difficulty": "Medium"
+},
+{
+  "number": 83,
+  "skill": "Linear inequalities in one or two variables",
+  "question": "The point (8, 2) in the xy-plane is a solution to which of the following systems of inequalities?",
+  "options": [
+    {
+      "label": "A",
+      "text": "x > 0\ny > 0"
+    },
+    {
+      "label": "B",
+      "text": "x > 0\ny < 0"
+    },
+    {
+      "label": "C",
+      "text": "x < 0\ny > 0"
+    },
+    {
+      "label": "D",
+      "text": "x < 0\ny < 0"
+    }
+  ],
+  "correct_answer": "A",
+  "rationale": "Choice A is correct. The given point, (8, 2), is located in the first quadrant in the xy-plane. The system of inequalities in choice A represents all the points in the first quadrant in the xy-plane. Therefore, (8, 2) is a solution to the system of inequalities in choice A.\n\nAlternate approach: Substituting 8 for x in the first inequality in choice A, x > 0, yields 8 > 0, which is true. Substituting 2 for y in the second inequality in choice A, y > 0, yields 2 > 0, which is true. Since the coordinates of the point (8, 2) make the inequalities x > 0 and y > 0 true, the point (8, 2) is a solution to the system of inequalities consisting of x > 0 and y > 0.\n\nChoice B is incorrect. This system of inequalities represents all the points in the fourth quadrant, not the first quadrant, in the xy-plane.\nChoice C is incorrect. This system of inequalities represents all the points in the second quadrant, not the first quadrant, in the xy-plane.\nChoice D is incorrect. This system of inequalities represents all the points in the third quadrant, not the first quadrant, in the xy-plane.",
+  "difficulty": "Easy"
+},
+{
+  "number": 84,
+  "skill": "Linear inequalities in one or two variables",
+  "question": "Adam’s school is a 20-minute walk or a 5-minute bus ride away from his house. The bus runs once every 30 minutes, and the number of minutes, w, that Adam waits for the bus varies between 0 and 30. Which of the following inequalities gives the values of w for which it would be faster for Adam to walk to school?",
+  "options": [
+    {
+      "label": "A",
+      "text": "w - 5 < 20"
+    },
+    {
+      "label": "B",
+      "text": "w - 5 > 20"
+    },
+    {
+      "label": "C",
+      "text": "w + 5 < 20"
+    },
+    {
+      "label": "D",
+      "text": "w + 5 > 20"
+    }
+  ],
+  "correct_answer": "D",
+  "rationale": "Choice D is correct. It is given that w is the number of minutes that Adam waits for the bus. The total time it takes Adam to get to school on a day he takes the bus is the sum of the minutes, w, he waits for the bus and the 5 minutes the bus ride takes; thus, this time, in minutes, is w + 5. It is also given that the total amount of time it takes Adam to get to school on a day that he walks is 20 minutes. Therefore, w + 5 > 20 gives the values of w for which it would be faster for Adam to walk to school.\n\nChoices A and B are incorrect because w − 5 is not the total length of time for Adam to wait for and then take the bus to school. Choice C is incorrect because the inequality should be true when walking 20 minutes is faster than the time it takes Adam to wait for and ride the bus, not less.",
+  "difficulty": "Hard"
+},
+{
+  "number": 85,
+  "skill": "Linear inequalities in one or two variables",
+  "question": "Marisa needs to hire at least 10 staff members for an upcoming project. The staff members will be made up of junior directors, who will be paid $640 per week, and senior directors, who will be paid $880 per week. Her budget for paying the staff members is no more than $9,700 per week. She must hire at least 3 junior directors and at least 1 senior director. Which of the following systems of inequalities represents the conditions described if x is the number of junior directors and y is the number of senior directors?",
+  "options": [
+    {
+      "label": "A",
+      "text": "640x + 880y ≥ 9,700\nx + y ≤ 10\nx ≥ 3\ny ≥ 1"
+    },
+    {
+      "label": "B",
+      "text": "640x + 880y ≤ 9,700\nx + y ≥ 10\nx ≥ 3\ny ≥ 1"
+    },
+    {
+      "label": "C",
+      "text": "640x + 880y ≥ 9,700\nx + y ≥ 10\nx ≤ 3\ny ≤ 1"
+    },
+    {
+      "label": "D",
+      "text": "640x + 880y ≤ 9,700\nx + y ≤ 10\nx ≤ 3\ny ≤ 1"
+    }
+  ],
+  "correct_answer": "B",
+  "rationale": "Choice B is correct. Marisa will hire x junior directors and y senior directors. Since she needs to hire at least 10 staff members, x + y ≥ 10. Each junior director will be paid $640 per week, and each senior director will be paid $880 per week. Marisa’s budget for paying the new staff is no more than $9,700 per week; in terms of x and y, this condition is 640x + 880y ≤ 9,700. Since Marisa must hire at least 3 junior directors and at least 1 senior director, it follows that x ≥ 3 and y ≥ 1. All four of these conditions are represented correctly in choice B.\n\nChoices A and C are incorrect. For example, the first condition, 640x + 880y ≥ 9,700, in each of these options implies that Marisa can pay the new staff members more than her budget of $9,700. Choice D is incorrect because Marisa needs to hire at least 10 staff members, not at most 10 staff members, as the inequality x + y ≤ 10 implies.",
+  "difficulty": "Medium"
+},
+{
+  "number": 86,
+  "skill": "Linear inequalities in one or two variables",
+  "question": "Valentina bought two containers of beads. In the first container 30% of the beads are red, and in the second container 70% of the beads are red. Together, the containers have at least 400 red beads. Which inequality shows this relationship, where x is the total number of beads in the first container and y is the total number of beads in the second container?",
+  "options": [
+    {
+      "label": "A",
+      "text": "0.3x + 0.7y ≥ 400"
+    },
+    {
+      "label": "B",
+      "text": "0.7x + 0.3y ≤ 400"
+    },
+    {
+      "label": "C",
+      "text": "x/3 + y/7 ≤ 400"
+    },
+    {
+      "label": "D",
+      "text": "30x + 70y ≥ 400"
+    }
+  ],
+  "correct_answer": "A",
+  "rationale": "Choice A is correct. It is given that x is the total number of beads in the first container and that 30% of those beads are red; therefore, the expression 0.3x represents the number of red beads in the first container. It is given that y is the total number of beads in the second container and that 70% of those beads are red; therefore, the expression 0.7y represents the number of red beads in the second container. It is also given that, together, the containers have at least 400 red beads, so the inequality that shows this relationship is 0.3x + 0.7y ≥ 400.\n\nChoice B is incorrect because it represents the containers having a total of at most, rather than at least, 400 red beads. Choice C is incorrect and may be the result of misunderstanding how to represent a percentage of beads in each container. Also, the inequality shows the containers having a combined total of at most, rather than at least, 400 red beads. Choice D is incorrect because the percentages were not converted to decimals.",
+  "difficulty": "Easy"
+},
+{
+  "number": 87,
+  "skill": "Linear inequalities in one variable",
+  "question": "The total cost, in dollars, to rent a surfboard consists of a $25 service fee and a $10 per hour rental fee. A person rents a surfboard for t hours and intends to spend a maximum of $75 to rent the surfboard. Which inequality represents this situation?",
+  "options": [
+    {
+      "label": "A",
+      "text": "10t ≤ 75"
+    },
+    {
+      "label": "B",
+      "text": "10 + 25t ≤ 75"
+    },
+    {
+      "label": "C",
+      "text": "25t ≤ 75"
+    },
+    {
+      "label": "D",
+      "text": "25 + 10t ≤ 75"
+    }
+  ],
+  "correct_answer": "D",
+  "rationale": "Choice D is correct. The cost of the rental consists of the rental fee plus the $25 service fee, which yields a total cost of 25 + 10t dollars. Since the person intends to spend a maximum of $75, the total cost must be at most $75. Therefore, the inequality 25 + 10t ≤ 75 represents this situation.\n\nChoice A is incorrect. This represents only the rental fee, not the total cost. Choices B and C are incorrect and result from conceptual or calculation errors.",
+  "difficulty": "Easy"
+},
+{
+  "number": 88,
+  "skill": "Linear inequalities in one variable",
+  "question": "In North America, the standard width of a parking space is at least 7.5 feet and no more than 9.0 feet. A restaurant owner recently resurfaced the restaurant’s parking lot and wants to determine the number of parking spaces, n, in the parking lot that could be placed perpendicular to a curb that is 135 feet long, based on the standard width of a parking space. Which of the following describes all the possible values of n?",
+  "options": [
+    {
+      "label": "A",
+      "text": "18 ≤ n ≤ 135"
+    },
+    {
+      "label": "B",
+      "text": "7.5 ≤ n ≤ 9"
+    },
+    {
+      "label": "C",
+      "text": "15 ≤ n ≤ 135"
+    },
+    {
+      "label": "D",
+      "text": "15 ≤ n ≤ 18"
+    }
+  ],
+  "correct_answer": "D",
+  "rationale": "Choice D is correct. Placing the parking spaces with the minimum width of 7.5 feet gives the maximum number of spaces: 135 ÷ 7.5 = 18. Using the maximum width of 9 feet gives the minimum number: 135 ÷ 9 = 15. So the range of possible values for n is 15 ≤ n ≤ 18.\n\nChoices A and C are incorrect because they treat the curb length as the max number of spaces. Choice B is incorrect because it gives the range of parking space widths, not the number of spaces.",
+  "difficulty": "Medium"
+},
+{
+  "number": 89,
+  "skill": "Systems of linear inequalities in two variables",
+  "question": "A laundry service is buying detergent and fabric softener from its supplier. The supplier will deliver no more than 300 pounds in a shipment. Each container of detergent weighs 7.35 pounds, and each container of fabric softener weighs 6.2 pounds. The service wants to buy at least twice as many containers of detergent as containers of fabric softener. Let d represent the number of containers of detergent, and let s represent the number of containers of fabric softener, where d and s are nonnegative integers. Which of the following systems of inequalities best represents this situation?",
+  "options": [
+    {
+      "label": "A",
+      "text": "7.35d + 6.2s ≤ 300\nd ≥ 2s"
+    },
+    {
+      "label": "B",
+      "text": "7.35d + 6.2s ≤ 300\n2d ≥ s"
+    },
+    {
+      "label": "C",
+      "text": "14.7d + 6.2s ≤ 300\nd ≥ 2s"
+    },
+    {
+      "label": "D",
+      "text": "14.7d + 6.2s ≤ 300\n2d ≥ s"
+    }
+  ],
+  "correct_answer": "A",
+  "rationale": "Choice A is correct. The total shipment weight must be no more than 300 pounds, and the total weight is 7.35 pounds per detergent container and 6.2 pounds per fabric softener container. That gives 7.35d + 6.2s ≤ 300. The laundry service wants at least twice as many containers of detergent as fabric softener, so d ≥ 2s. All of these are correctly captured in choice A.\n\nChoice B is incorrect because it flips the relationship between detergent and softener. Choice C and D are incorrect because they mistakenly double the detergent weight (14.7 instead of 7.35) and also misrepresent the relationship in D.",
+  "difficulty": "Hard"
+},
+{
+  "number": 90,
+  "skill": "Linear inequalities in one or two variables",
+  "question": "Which of the following ordered pairs (x, y) is a solution to the system of inequalities below?\n\ny ≤ x\ny ≤ −x",
+  "options": [
+    {
+      "label": "A",
+      "text": "(1, 0)"
+    },
+    {
+      "label": "B",
+      "text": "(−1, 0)"
+    },
+    {
+      "label": "C",
+      "text": "(0, 1)"
+    },
+    {
+      "label": "D",
+      "text": "(0, −1)"
+    }
+  ],
+  "correct_answer": "D",
+  "rationale": "Choice D is correct. The solutions to the given system of inequalities is the set of all ordered pairs (x, y) that satisfy both inequalities in the system. For an ordered pair to satisfy the inequality y ≤ x, the value of the ordered pair’s y-coordinate must be less than or equal to the value of the ordered pair’s x-coordinate. This is true of the ordered pair (0, −1), because −1 ≤ 0.\n\nTo satisfy the inequality y ≤ −x, the value of the ordered pair’s y-coordinate must be less than or equal to the additive inverse of the ordered pair’s x-coordinate. This is also true of the ordered pair (0, −1). Because 0 is its own additive inverse, −1 ≤ −(0) is the same as −1 ≤ 0. Therefore, the ordered pair (0, −1) is a solution to the given system of inequalities.\n\nChoice A is incorrect. This ordered pair satisfies only the inequality y ≤ x. Choice B is incorrect. This ordered pair satisfies only y ≤ −x. Choice C is incorrect. This ordered pair satisfies neither inequality.",
+  "difficulty": "Medium"
+},
+{
+  "number": 91,
+  "skill": "Linear inequalities in two variables",
+  "question": "On a car trip, Rhett and Jessica each drove for part of the trip, and the total distance they drove was under 220 miles. Rhett drove at an average speed of 35 miles per hour (mph), and Jessica drove at an average speed of 40 mph. Which of the following inequalities represents this situation, where r is the number of hours Rhett drove and j is the number of hours Jessica drove?",
+  "options": [
+    {
+      "label": "A",
+      "text": "35r + 40j > 220"
+    },
+    {
+      "label": "B",
+      "text": "35r + 40j < 220"
+    },
+    {
+      "label": "C",
+      "text": "40r + 35j > 220"
+    },
+    {
+      "label": "D",
+      "text": "40r + 35j < 220"
+    }
+  ],
+  "correct_answer": "B",
+  "rationale": "Choice B is correct. It’s given that Rhett drove at an average speed of 35 miles per hour and that he drove for r hours. Multiplying 35 miles per hour by r hours yields 35r miles. It’s also given that Jessica drove at an average speed of 40 miles per hour and that she drove for j hours. Multiplying 40 miles per hour by j hours yields 40j miles. The total distance in miles that Rhett and Jessica drove can be represented by the expression 35r + 40j. It’s given that the total distance was under 220 miles. Therefore, the inequality 35r + 40j < 220 correctly represents the situation.\n\nChoice A is incorrect because it shows a total distance greater than 220 miles. Choices C and D are incorrect because they swap the speeds of Rhett and Jessica.",
+  "difficulty": "Easy"
+},
+{
+  "number": 92,
+  "skill": "Linear inequalities in one or two variables",
+  "question": "A local transit company sells a monthly pass for $95 that allows an unlimited number of trips of any length. Tickets for individual trips cost $1.50, $2.50, or $3.50, depending on the length of the trip. What is the minimum number of trips per month for which a monthly pass could cost less than purchasing individual tickets for trips?",
+  "options": [
+    {
+      "label": "A",
+      "text": "25"
+    },
+    {
+      "label": "B",
+      "text": "26"
+    },
+    {
+      "label": "C",
+      "text": "27"
+    },
+    {
+      "label": "D",
+      "text": "28"
+    }
+  ],
+  "correct_answer": "D",
+  "rationale": "The correct answer is 28. The minimum number of individual trips for which the cost of the monthly pass is less than the cost of individual tickets can be found by assuming the maximum cost of the individual tickets, $3.50. If n tickets costing $3.50 each are purchased in one month, the inequality 95 < 3.50n represents this situation. Dividing both sides of the inequality by 3.50 yields 27.14 < n, which is equivalent to n > 27.14. Since only a whole number of tickets can be purchased, it follows that 28 is the minimum number of trips.",
+  "difficulty": "Hard"
+},
+{
+  "number": 93,
+  "skill": "Linear inequalities in one or two variables",
+  "question": "A bakery sells trays of cookies. Each tray contains at least 50 cookies but no more than 60. Which of the following could be the total number of cookies on 4 trays of cookies?",
+  "options": [
+    {
+      "label": "A",
+      "text": "165"
+    },
+    {
+      "label": "B",
+      "text": "205"
+    },
+    {
+      "label": "C",
+      "text": "245"
+    },
+    {
+      "label": "D",
+      "text": "285"
+    }
+  ],
+  "correct_answer": "B",
+  "rationale": "Choice B is correct. If each tray contains the least number of cookies possible, 50 cookies, then the least number of cookies on 4 trays is 50 × 4 = 200. If each tray contains the most, 60 cookies, then the greatest number of cookies on 4 trays is 60 × 4 = 240. Therefore, 205 could be the total because it lies within the range [200, 240]. Choices A, C, and D are outside this range and are not possible totals.",
+  "difficulty": "Easy"
+},
+{
+  "number": 94,
+  "skill": "Linear inequalities in one or two variables",
+  "question": "Which point (x, y) is a solution to the given system of inequalities in the xy-plane?\n\ny ≤ x + 7\ny ≥ −2x − 1",
+  "options": [
+    {
+      "label": "A",
+      "text": "(−14, 0)"
+    },
+    {
+      "label": "B",
+      "text": "(0, −14)"
+    },
+    {
+      "label": "C",
+      "text": "(0, 14)"
+    },
+    {
+      "label": "D",
+      "text": "(14, 0)"
+    }
+  ],
+  "correct_answer": "D",
+  "rationale": "Choice D is correct. A point (x, y) is a solution to a system of inequalities in the xy-plane if substituting the x-coordinate and y-coordinate makes both inequalities true.\n\nSubstituting (14, 0):\n- For y ≤ x + 7: 0 ≤ 14 + 7 → 0 ≤ 21 ✓\n- For y ≥ −2x − 1: 0 ≥ −2(14) − 1 → 0 ≥ −29 ✓\nBoth inequalities are satisfied, so (14, 0) is a solution.\n\nChoices A, B, and C are incorrect:\n- A: 0 ≤ −14 + 7 → 0 ≤ −7 ✗\n- B: −14 ≥ −2(0) − 1 → −14 ≥ −1 ✗\n- C: 14 ≤ 0 + 7 → 14 ≤ 7 ✗",
+  "difficulty": "Hard"
+},
+{
+  "number": 95,
+  "skill": "Linear inequalities in one or two variables",
+  "question": "Ty set a goal to walk at least 24 kilometers every day to prepare for a multiday hike. On a certain day, Ty plans to walk at an average speed of 4 kilometers per hour. What is the minimum number of hours Ty must walk on that day to fulfill the daily goal?",
+  "options": [
+    {
+      "label": "A",
+      "text": "4"
+    },
+    {
+      "label": "B",
+      "text": "6"
+    },
+    {
+      "label": "C",
+      "text": "20"
+    },
+    {
+      "label": "D",
+      "text": "24"
+    }
+  ],
+  "correct_answer": "B",
+  "rationale": "Choice B is correct. The number of kilometers Ty walks is represented by 4s, where s is the number of hours. The goal of at least 24 kilometers gives the inequality 4s ≥ 24. Dividing both sides by 4 gives s ≥ 6. So, the minimum number of hours Ty must walk is 6.\n\nChoices A, C, and D are incorrect and likely result from conceptual or calculation errors.",
+  "difficulty": "Easy"
+},
+{
+  "number": 96,
+  "skill": "Linear inequalities in one or two variables",
+  "question": "A number x is at most 2 less than 3 times the value of y. If the value of y is −4, what is the greatest possible value of x?",
+  "options": [],
+  "correct_answer": "-14",
+  "rationale": "The correct answer is −14. It's given that a number x is at most 2 less than 3 times the value of y. That means x ≤ 3y − 2. Substituting y = −4 gives x ≤ 3(−4) − 2 = −12 − 2 = −14. So, the greatest possible value of x is −14.",
+  "difficulty": "Hard"
+},
+{
+  "number": 97,
+  "skill": "Linear inequalities in one or two variables",
+  "question": "Tom scored 85, 78, and 98 on his first three exams in history class. Solving which inequality gives the score, G, on Tom’s fourth exam that will result in a mean score on all four exams of at least 90?",
+  "options": [
+    {
+      "label": "A",
+      "text": "90 − (85 + 78 + 98) ≤ 4G"
+    },
+    {
+      "label": "B",
+      "text": "4G + 85 + 78 + 98 ≥ 360"
+    },
+    {
+      "label": "C",
+      "text": "(G + 85 + 78 + 98) / 4 ≥ 90"
+    },
+    {
+      "label": "D",
+      "text": "(85 + 78 + 98) / 4 ≥ 90 − 4G"
+    }
+  ],
+  "correct_answer": "C",
+  "rationale": "Choice C is correct. The mean of the four scores (G, 85, 78, and 98) is (G + 85 + 78 + 98) / 4. To ensure the mean is at least 90, the correct inequality is (G + 85 + 78 + 98) / 4 ≥ 90.\n\nChoices A, B, and D are incorrect due to incorrect handling of the mean or misplacing G in the expression.",
+  "difficulty": "Easy"
+},
+{
+  "number": 98,
+  "skill": "Linear inequalities in one or two variables",
+  "question": "Which point (x, y) is a solution to the given inequality in the xy-plane?\n\ny < -4x + 4",
+  "options": [
+    {
+      "label": "A",
+      "text": "(−4, 0)"
+    },
+    {
+      "label": "B",
+      "text": "(0, 5)"
+    },
+    {
+      "label": "C",
+      "text": "(2, 1)"
+    },
+    {
+      "label": "D",
+      "text": "(2, −1)"
+    }
+  ],
+  "correct_answer": "A",
+  "rationale": "Choice A is correct. To test whether a point is a solution to the inequality y < −4x + 4, substitute the point into the inequality. For (−4, 0):\n0 < −4(−4) + 4 → 0 < 16 + 4 → 0 < 20, which is true.\n\nChoices B, C, and D are incorrect because substituting these values into the inequality results in false statements. Their y-values are not less than −4x + 4 for the given x-values.",
+  "difficulty": "Medium"
+},
+{
+  "number": 99,
+  "skill": "Modeling and solving compound inequalities",
+  "question": "A certain elephant weighs 200 pounds at birth and gains more than 2 but less than 3 pounds per day during its first year. Which of the following inequalities represents all possible weights w, in pounds, for the elephant 365 days after birth?",
+  "options": [
+    {
+      "label": "A",
+      "text": "400 < w < 600"
+    },
+    {
+      "label": "B",
+      "text": "565 < w < 930"
+    },
+    {
+      "label": "C",
+      "text": "730 < w < 1,095"
+    },
+    {
+      "label": "D",
+      "text": "930 < w < 1,295"
+    }
+  ],
+  "correct_answer": "D",
+  "rationale": "Choice D is correct. The elephant weighs 200 pounds at birth and gains between 2 and 3 pounds per day. The inequality 200 + 2d < w < 200 + 3d represents this. Substituting d = 365 gives 930 < w < 1,295.\n\nChoice A incorrectly uses 2 and 3 directly with 200 (ignoring the daily rate and duration). Choice B uses a rate between 1 and 2 pounds. Choice C misses the starting weight of 200 pounds when calculating the total.",
+  "difficulty": "Medium"
+},
+{
+  "number": 100,
+  "skill": "Translating variable bounds into inequality constraints",
+  "question": "The Karvonen formula above shows the relationship between Alice’s target heart rate H, in beats per minute (bpm), and the intensity level p of different activities: H = 120p + 60. When p = 0, Alice has a resting heart rate. When p = 1, Alice has her maximum heart rate. It is recommended that p be between 0.5 and 0.85 for Alice when she trains. Which of the following inequalities describes Alice’s target training heart rate?",
+  "options": [
+    {
+      "label": "A",
+      "text": "120 ≤ H ≤ 162"
+    },
+    {
+      "label": "B",
+      "text": "102 ≤ H ≤ 120"
+    },
+    {
+      "label": "C",
+      "text": "60 ≤ H ≤ 162"
+    },
+    {
+      "label": "D",
+      "text": "60 ≤ H ≤ 102"
+    }
+  ],
+  "correct_answer": "A",
+  "rationale": "Choice A is correct. For training, Alice's intensity level p is between 0.5 and 0.85. Plugging p = 0.5 into the formula gives H = 120(0.5) + 60 = 120. Plugging p = 0.85 gives H = 120(0.85) + 60 = 162. So, her training heart rate H must be between 120 and 162 bpm.\n\nChoices B, C, and D represent incorrect ranges corresponding to different values of p outside the recommended training zone.",
+  "difficulty": "Medium"
 }
-
-
-
-
-  
     
 ]
