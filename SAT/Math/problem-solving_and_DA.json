@@ -1,0 +1,775 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "options": "no option ",
+        "question": "A printer produces posters at a constant rate of 42 posters per minute. At what rate, in posters per hour, does the printer produce the posters?",
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": 2520,
+        "rationale": "The correct answer is 2520. There are 60 minutes in one hour. At a rate of 42 posters per minute, the number of posters produced in one hour can be determined by 42 × 60, which is 2520 posters per hour.",
+        "difficulty": "Easy",
+        "skill": "Ratios, rates, proportional relationships, and units"
+      },
+      {
+        "number": 2,
+        "question": "The International Space Station orbits Earth at an average speed of 4.76 miles per second. What is the space station’s average speed in miles per hour?",
+        "options": ["285.6", "571.2", "856.8", "17,136.0"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "17,136.0",
+        "rationale": "Choice D is correct. Since 1 minute = 60 seconds and 1 hour = 60 minutes, it follows that 1 hour = (60)(60), or 3,600 seconds. Using this conversion factor, the space station’s average speed of 4.76 miles per second is equal to an average speed of 4.76 × 3,600 = 17,136 miles per hour.",
+        "incorrect_choices_explanation": {
+          "285.6": "This is the space station’s average speed in miles per minute.",
+          "571.2": "This is double the space station’s average speed in miles per minute (in 2 minutes).",
+          "856.8": "This is triple the space station’s average speed in miles per minute (in 3 minutes)."
+        },
+        "difficulty": "Medium",
+        "skill": "Ratios, rates, proportional relationships, and units"
+      },
+      {
+        "number": 3,
+        "question": "For a person m miles from a flash of lightning, the length of the time interval from the moment the person sees the lightning to the moment the person hears the thunder is k seconds. The ratio of m to k can be estimated to be 1 to 5. According to this estimate, the person is how many miles from a flash of lightning if the time interval is 25 seconds?",
+        "options": ["10", "9", "6", "5"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "5",
+        "rationale": "Choice D is correct. It’s given that the ratio of m to k is estimated to be 1 to 5. Therefore, when k equals 25, the relationship between these ratios can be expressed by the proportion m/25 = 1/5. Multiplying both sides by 25 gives m = 5.",
+        "incorrect_choices_explanation": {
+          "10": "This results from misinterpreting the ratio as 5 to 1 instead of 1 to 5.",
+          "9": "This may come from rounding or estimation error.",
+          "6": "This results from dividing 25 by 4 instead of 5."
+        },
+        "difficulty": "Easy",
+        "skill": "Ratios, rates, proportional relationships, and units"
+      },
+      {
+        "number": 4,
+        "question": "The population density of Iceland, in people per square kilometer of land area, increased from 2.5 in 1990 to 3.3 in 2014. During this time period, the land area of Iceland was 100,250 square kilometers. By how many people did Iceland’s population increase from 1990 to 2014?",
+        "options": ["330,825", "132,330", "125,312", "80,200"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "80,200",
+        "rationale": "Choice D is correct. The increase in Iceland’s population can be found by multiplying the increase in population density, in people per square kilometer, by the area, in square kilometers. The increase in population density is 3.3 - 2.5 = 0.8. Thus, the increase in population is 0.8 × 100,250 = 80,200.",
+        "alternate_approach": "Population in 1990 = 2.5 × 100,250 = 250,625. Population in 2014 = 3.3 × 100,250 = 330,825. Increase = 330,825 - 250,625 = 80,200.",
+        "incorrect_choices_explanation": {
+          "330,825": "This is the total population of Iceland in 2014.",
+          "132,330": "This may result from dividing 3.3 by 2.5 instead of subtracting.",
+          "125,312": "This may result from dividing the 1990 population by 2."
+        },
+        "difficulty": "Medium",
+        "skill": "Ratios, rates, proportional relationships, and units"
+      },
+      {
+        "number": 5,
+        "question": "A customer spent $27 to purchase oranges at $3 per pound. How many pounds of oranges did the customer purchase?",
+        "options": ["6", "8", "9", "12"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "9",
+        "rationale": "The correct answer is 9. It’s given that the customer spent $27 to purchase oranges at $3 per pound. Therefore, the number of pounds of oranges the customer purchased is $27 × (1 pound / $3), or 9 pounds.",
+        "difficulty": "Easy",
+        "skill": "Ratios, rates, proportional relationships, and units"
+      },
+      {
+        "number": 6,
+        "question": "A group of monarch butterflies migrated from Chicago, Illinois, to Michoacán, Mexico, flying a total of 2,100 miles. It took a single butterfly in the group 120 days to travel this route one way. On average, how many miles did the butterfly travel per day?",
+        "options": ["0.057", "0.729", "17.5", "24"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "17.5",
+        "rationale": "Choice C is correct. If the butterfly traveled 2,100 miles in 120 days, then it traveled, on average, 2,100 ÷ 120 = 17.5 miles per day.",
+        "incorrect_choices_explanation": {
+          "0.057": "This is the average number of days it took the butterfly to travel one mile (120 ÷ 2,100).",
+          "0.729": "This may result from a miscalculation or confusion in units.",
+          "24": "This is the number of hours in a day, not the average distance flown."
+        },
+        "difficulty": "Easy",
+        "skill": "Ratios, rates, proportional relationships, and units"
+      },
+      {
+        "number": 7,
+        "options": "no option ",
+        "question": "If x/y = 4 and 24x/(ny) = 4, what is the value of n?",
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "24",
+        "rationale": "The correct answer is 24. The equation 24x/(ny) = 4 can be rewritten as (24/n)(x/y) = 4. It's given that x/y = 4. Substituting 4 for x/y in the equation (24/n)(4) = 4. Multiplying both sides of this equation by n yields (24)(4) = 4n. Dividing both sides by 4 yields 24 = n. Therefore, the value of n is 24.",
+        "difficulty": "Medium",
+        "skill": "Algebraic manipulation and rational expressions"
+      },
+      {
+        "number": 8,
+        "question": "In a box of pens, the ratio of black pens to red pens is 8 to 1. There are 40 black pens in the box. How many red pens are in the box?",
+        "options": ["5", "8", "40", "320"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "5",
+        "rationale": "Choice A is correct. It’s given that the ratio of black pens to red pens is 8 to 1. Therefore, there are 1/8 as many red pens as black pens in the box. It’s also given that there are 40 black pens. So, the number of red pens is 1/8 × 40 = 5.",
+        "incorrect_choices_explanation": {
+          "8": "This is the number of black pens in the box for every red pen.",
+          "40": "This is the number of black pens in the box.",
+          "320": "This is the number of red pens if the ratio were 1 to 8 instead of 8 to 1."
+        },
+        "difficulty": "Easy",
+        "skill": "Ratios, rates, proportional relationships, and units"
+      },
+      {
+        "number": 9,
+        "options": "no option ",
+        "question": "Pure beeswax has a density of 0.555 ounce per cubic inch. An online company sells pure beeswax at a price of $8.00 per ounce. What is the selling price, in dollars per cubic inch, for pure beeswax purchased from this company?",
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "4.44",
+        "rationale": "The correct answer is 4.44. The selling price in dollars per cubic inch is found by multiplying the density (in ounces per cubic inch) by the price (in dollars per ounce): (0.555 oz/in³) × ($8/oz) = $4.44/in³.",
+        "difficulty": "Medium",
+        "skill": "Ratios, rates, proportional relationships, and unit conversions"
+      },
+      {
+        "number": 10,
+        "question": "The population density of Worthington is 290 people per square mile. Worthington has a population of 92,800 people. What is the area, in square miles, of Worthington?",
+        "options": ["102,400", "93,090", "320", "32"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "320",
+        "rationale": "Choice C is correct. The population density is 290 people per square mile, and the population is 92,800. So, the area is 92,800 ÷ 290 = 320 square miles.",
+        "incorrect_choices_explanation": {
+          "102,400": "This may result from a conceptual or calculation error.",
+          "93,090": "This may result from a conceptual or calculation error.",
+          "32": "This may result from misunderstanding the ratio or misplacing the divisor."
+        },
+        "difficulty": "Easy",
+        "skill": "Ratios, rates, proportional relationships, and unit conversions"
+      },
+      {
+        "number": 11,
+        "question": "A wind turbine completes 900 revolutions in 50 minutes. At this rate, how many revolutions per minute does this turbine complete?",
+        "options": ["18", "850", "950", "1,400"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "18",
+        "rationale": "Choice A is correct. Dividing the number of revolutions by the number of minutes gives the number of revolutions per minute. 900 ÷ 50 = 18.",
+        "incorrect_choices_explanation": {
+          "850": "This may result from a conceptual or calculation error.",
+          "950": "This may result from a conceptual or calculation error.",
+          "1,400": "This may result from a conceptual or calculation error."
+        },
+        "difficulty": "Easy",
+        "skill": "Ratios, rates, and unit conversions"
+      },
+      {
+        "number": 12,
+        "question": "In the table above, the ratio of y to x for each ordered pair is constant. What is the value of k?",
+        "table": {
+          "x": [1, 3, 5, 40],
+          "y": [4, 12, 20, "k"]
+        },
+        "options": ["28", "36", "80", "160"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "160",
+        "rationale": "Choice D is correct. Since the ratio y/x is constant, and the first row gives y = 4 when x = 1, the ratio is 4 to 1. Using the proportion 4/1 = k/40, solving gives k = 160.",
+        "incorrect_choices_explanation": {
+          "28": "This is the value of y when x is 7, not 40.",
+          "36": "This may result from subtracting 4 from 40 instead of using the correct ratio.",
+          "80": "This may result from incorrectly setting up the proportion."
+        },
+        "difficulty": "Easy",
+        "skill": "Ratios, proportions, and data from tables"
+      },
+      {
+        "number": 13,
+        "question": "A white birch tree and a pin oak tree each now have a diameter of 1 foot (12 inches). A white birch has a growth factor of 5 and a pin oak has a growth factor of 3. Using the method where the age is the product of diameter and growth factor, what will be the approximate difference, in inches, of their diameters 10 years from now?",
+        "table": {
+          "columns": ["Species of tree", "Growth factor"],
+          "rows": [
+            ["Red maple", "4.5"],
+            ["River birch", "3.5"],
+            ["Cottonwood", "2.0"],
+            ["Black walnut", "4.5"],
+            ["White birch", "5.0"],
+            ["American elm", "4.0"],
+            ["Pin oak", "3.0"],
+            ["Shagbark hickory", "7.5"]
+          ]
+        },
+        "options": ["1.0", "1.2", "1.3", "1.4"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "1.3",
+        "rationale": "Choice C is correct. A white birch with a growth factor of 5 and a current diameter of 12 inches is 60 years old. A pin oak with a growth factor of 3 and diameter of 12 inches is 36 years old. In 10 years, the white birch will be 70 years old and the pin oak 46. Dividing these ages by their respective growth factors gives the new diameters: 14 inches for the birch and about 15 1/3 inches for the oak. The difference is 1.3 inches.",
+        "alternate_approach": "White birch grows at 1/5 inch per year. Pin oak grows at 1/3 inch per year. Difference in growth = 2/15 inch per year. In 10 years: (2/15) * 10 = 1.3 inches.",
+        "difficulty": "Hard",
+        "skill": "Proportional reasoning, interpreting tables, and multi-step unit analysis"
+      },
+      {
+        "number": 14,
+        "question": "The ratio of t to u is 1 to 2, and t = 10. What is the value of u?",
+        "options": ["2", "5", "10", "20"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "20",
+        "rationale": "Choice D is correct. Since the ratio of t to u is 1:2 and t = 10, we set up the proportion 10/u = 1/2. Solving gives u = 20.",
+        "incorrect_choices_explanation": {
+          "2": "This is the value of u when t = 1.",
+          "5": "This would be the value of u if the ratio of t to u were 2 to 1.",
+          "10": "This is the value of t, not u."
+        },
+        "difficulty": "Easy",
+        "skill": "Proportions and solving ratios"
+      },
+      {
+        "number": 15,
+        "question": "A special camera is used for underwater ocean research. When the camera is at a depth of 58 fathoms, what is the camera's depth in feet? (1 fathom = 6 feet)",
+        "tip": "Press CTRL/Command to toggle answer",
+        "options": "no option ",
+        "correct_answer": "348",
+        "rationale": "The correct answer is 348. Since 1 fathom = 6 feet, multiplying 58 fathoms by 6 gives 348 feet. So the camera's depth is 348 feet.",
+        "difficulty": "Easy",
+        "skill": "Unit conversions and proportional reasoning"
+      },
+      {
+        "number": 16,
+        "question": "A sample of oak has a density of 807 kilograms per cubic meter. The sample is in the shape of a cube, where each edge has a length of 0.90 meters. To the nearest whole number, what is the mass, in kilograms, of this sample?",
+        "options": ["588", "726", "897", "1,107"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "588",
+        "rationale": "Choice A is correct. The cube has volume 0.90³ = 0.729 cubic meters. Multiplying by the density: 0.729 × 807 = 588.303 kilograms. Rounded to the nearest whole number, the mass is 588 kilograms.",
+        "incorrect_choices_explanation": {
+          "726": "May result from a miscalculation or misunderstanding volume-to-mass conversion.",
+          "897": "May result from incorrect multiplication or use of density.",
+          "1,107": "Likely from misusing volume or misinterpreting cube edge length."
+        },
+        "difficulty": "Hard",
+        "skill": "Volume, unit conversions, and density-mass calculations"
+      },
+      {
+        "number": 17,
+        "options": "no option ",
+        "question": "On April 18, 1775, Paul Revere set off on his midnight ride from Charlestown to Lexington. If he had ridden straight to Lexington without stopping, he would have traveled 11 miles in 26 minutes. In such a ride, what would the average speed of his horse have been, to the nearest tenth of a mile per hour?",
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "25.4",
+        "rationale": "The correct answer is 25.4. Average speed is distance divided by time. 11 miles in 26 minutes gives 11/26 miles per minute. Convert to miles per hour by multiplying by 60: (11/26) × 60 = 660/26 ≈ 25.38. Rounded to the nearest tenth, the speed is 25.4 miles per hour.",
+        "difficulty": "Medium",
+        "skill": "Unit rate conversion (minutes to hours) and decimal rounding"
+      },
+      {
+        "number": 18,
+        "question": "How many yards are equivalent to 612 inches? (1 yard = 36 inches)",
+        "options": ["0.059", "17", "576", "22,032"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "17",
+        "rationale": "Choice B is correct. Since 1 yard = 36 inches, the number of yards in 612 inches is 612 ÷ 36 = 17.",
+        "incorrect_choices_explanation": {
+          "0.059": "This is the number of yards for 2.124 inches.",
+          "576": "This is the number of yards for 20,736 inches.",
+          "22,032": "This is the number of yards for 793,152 inches."
+        },
+        "difficulty": "Easy",
+        "skill": "Unit conversions and proportional reasoning"
+      },
+      {
+        "number": 19,
+        "question": "Rectangle A has length 15 and width w. Rectangle B has length 20 and the same length-to-width ratio as rectangle A. What is the width of rectangle B in terms of w?",
+        "options": ["(4/3)w", "w + 5", "(3/4)w", "w - 5"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "(4/3)w",
+        "rationale": "Choice A is correct. Rectangle A has a length-to-width ratio of 15:w. Rectangle B has a length of 20 and the same ratio, so set up the proportion 15/w = 20/x and solve for x: x = (20w)/15 = (4/3)w.",
+        "incorrect_choices_explanation": {
+          "w + 5": "This incorrectly treats the difference in lengths as the difference in widths.",
+          "w - 5": "This also incorrectly treats length difference as width difference.",
+          "(3/4)w": "This reverses the ratio, using w to 15 instead of 15 to w."
+        },
+        "difficulty": "Medium",
+        "skill": "Proportional reasoning and algebraic manipulation"
+      },
+      {
+        "number": 20,
+        "question": "Shaquan has 7 red cards and 28 blue cards. What is the ratio of red cards to blue cards that Shaquan has?",
+        "options": ["1 to 4", "4 to 1", "1 to 7", "7 to 1"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "1 to 4",
+        "rationale": "Choice A is correct. The ratio of 7 red cards to 28 blue cards simplifies to 1 to 4 by dividing both numbers by 7.",
+        "incorrect_choices_explanation": {
+          "4 to 1": "This is the ratio of blue cards to red cards, not red to blue.",
+          "1 to 7": "This may result from an incorrect reduction or misunderstanding of the original ratio.",
+          "7 to 1": "This reverses the ratio and implies red to total or some other misinterpretation."
+        },
+        "difficulty": "Easy",
+        "skill": "Ratios and simplification"
+      },
+      {
+        "number": 21,
+        "question": "Jennifer bought a box of Crunchy Grain cereal. The nutrition facts state that a serving size is 3/4 cup and provides 180 milligrams of potassium, which is 5% of the daily allowance for adults. If p percent of an adult’s daily allowance of potassium is provided by x servings per day, which of the following expresses p in terms of x?",
+        "options": ["p = 0.5x", "p = 5x", "p = (0.05)^x", "p = (1.05)^x"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "p = 5x",
+        "rationale": "Choice B is correct. Since each serving provides 5% of the daily allowance, x servings provide 5% × x = 5x percent. Thus, p = 5x. The others are incorrect due to unnecessary decimal conversion or treating the relationship as exponential instead of linear.",
+        "incorrect_choices_explanation": {
+          "p = 0.5x": "Incorrect decimal conversion of 5%.",
+          "p = (0.05)^x": "Incorrect exponential relationship instead of linear.",
+          "p = (1.05)^x": "Incorrect exponential growth, not applicable here."
+        },
+        "difficulty": "Hard",
+        "skill": "Percentages"
+      },
+      {
+        "number": 22,
+        "options": "no option ",
+        "question": "A school district is forming a committee to discuss plans for the construction of a new high school. Of those invited to join the committee, 15% are parents of students, 45% are teachers, 25% are school and district administrators, and the remaining 6 individuals are students. How many more teachers were invited than school and district administrators?",
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "8",
+        "rationale": "The correct answer is 8. The 6 students make up 15% of the group, so the total number of invitees is 6 ÷ 0.15 = 40. Of these, 45% were teachers (0.45 × 40 = 18) and 25% were administrators (0.25 × 40 = 10). The difference is 18 - 10 = 8.",
+        "difficulty": "Hard",
+        "skill": "Percentages"
+      },
+      {
+        "number": 23,
+        "question": "What was the percent increase of the US minimum wage from 1960 ($1.00) to 1970 ($1.60)?",
+        "options": ["30%", "60%", "62.5%", "120%"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "60%",
+        "rationale": "Choice B is correct. The percent increase from $1.00 to $1.60 is calculated as ((1.60 - 1.00) / 1.00) × 100 = 60%.",
+        "incorrect_choices_explanation": {
+          "30%": "May result from averaging or incorrect percent calculation.",
+          "62.5%": "This is the 1960 wage as a percentage of the 1970 wage.",
+          "120%": "Likely from a miscalculation using reversed or doubled values."
+        },
+        "difficulty": "Easy",
+        "skill": "Percentages"
+      },
+      {
+        "number": 24,
+        "question": "The manager of an online news service estimated that the percent increase from 2012 to 2013 would be double the percent increase from 2013 to 2014. Given that subscriptions sold were 5,600 in 2012 and 5,880 in 2013, how many subscriptions did the manager expect would be sold in 2014?",
+        "table": {
+          "columns": ["Year", "Subscriptions sold"],
+          "rows": [
+            ["2012", "5,600"],
+            ["2013", "5,880"]
+          ]
+        },
+        "options": ["6,020", "6,027", "6,440", "6,468"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "6,027",
+        "rationale": "Choice B is correct. The percent increase from 2012 to 2013 is (5,880 - 5,600)/5,600 = 0.05 or 5%. Since the percent increase to 2014 is half of that (2.5%), the expected subscriptions sold in 2014 is 5,880 × 1.025 = 6,027.",
+        "incorrect_choices_explanation": {
+          "6,020": "Incorrectly adds half the increase value instead of applying the percent.",
+          "6,440": "Adds twice the increase instead of half.",
+          "6,468": "Mistakenly treats 5% as the smaller increase and doubles it for 2014."
+        },
+        "difficulty": "Hard",
+        "skill": "Percentages"
+      },
+      {
+        "number": 25,
+        "question": "The line graph shows the total amount of snow (in inches) recorded each year in Washington, DC, from 2003 to 2015. If p% is the percent decrease in the annual snowfall from 2003 to 2007, what is the value of p?",
+        "graph_data": {
+          "2003": 40,
+          "2007": 10
+        },
+        "tip": "Press CTRL/Command to toggle answer",
+        "img" : "img_06.png",
+        "correct_answer": "75",
+        "rationale": "The snowfall dropped from 40 inches in 2003 to 10 inches in 2007. The percent decrease is ((40 - 10) / 40) × 100 = 75%. Thus, p = 75.",
+        "difficulty": "Hard",
+        "skill": "Percentages"
+      },
+      {
+        "number": 26,
+        "question": "The cost of a certain shirt is $20 before a 5% sales tax is added. What is the total cost, including sales tax, to purchase the shirt?",
+        "options": ["$20.05", "$20.50", "$21.00", "$25.00"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "$21.00",
+        "rationale": "Choice C is correct. 5% of $20 is 0.05 × 20 = $1. The total cost including tax is $20 + $1 = $21.",
+        "incorrect_choices_explanation": {
+          "$20.05": "Neglects to multiply 0.05 by $20.",
+          "$20.50": "May result from dividing by 10 instead of 100, then forgetting to apply to $20.",
+          "$25.00": "Interprets 5% of $20 incorrectly as $5."
+        },
+        "difficulty": "Easy",
+        "skill": "Percentages"
+      },
+      {
+        "number": 27,
+        "question": "For the finale of a TV show, 10% of viewers voted, 30% via social media. Contestant 2 earned 70% of social media votes and 40% of text message votes. Based on this information, which of the following is an accurate conclusion?",
+        "options": [
+          "If all viewers had voted, Contestant 2 would have won.",
+          "Viewers voting by social media were likely to be younger than viewers voting by text message.",
+          "If all viewers who voted had voted by social media instead of by text message, Contestant 2 would have won.",
+          "Viewers voting by social media were more likely to prefer Contestant 2 than were viewers voting by text message."
+        ],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "Viewers voting by social media were more likely to prefer Contestant 2 than were viewers voting by text message.",
+        "rationale": "Choice D is correct. Contestant 2 received 70% of social media votes and 40% of text votes, so social media voters were more likely to support Contestant 2. The other choices go beyond the provided data.",
+        "incorrect_choices_explanation": {
+          "If all viewers had voted, Contestant 2 would have won.": "There's not enough data about all viewers’ preferences.",
+          "Viewers voting by social media were likely to be younger than viewers voting by text message.": "Age demographics are not provided.",
+          "If all viewers who voted had voted by social media instead of by text message, Contestant 2 would have won.": "There is no calculation or proof provided for this assumption."
+        },
+        "difficulty": "Medium",
+        "skill": "Percentages"
+      },
+      {
+        "number": 28,
+        "question": "During the first month of sales, a company sold 1,300,000 units of a smartphone. If 15% of the units sold were returned and this rate continues for 6 months, how many total units will be returned during this period?",
+        "options": ["195,000", "975,000", "1,170,000", "6,630,000"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "1,170,000",
+        "rationale": "Choice C is correct. 15% of 1,300,000 is 195,000 units returned per month. Over 6 months: 195,000 × 6 = 1,170,000 units returned.",
+        "incorrect_choices_explanation": {
+          "195,000": "Only accounts for returns in the first month.",
+          "975,000": "Only accounts for returns over 5 months.",
+          "6,630,000": "This is the total number of units sold over 6 months, not returned."
+        },
+        "difficulty": "Medium",
+        "skill": "Percentages"
+      },
+      {
+        "number": 29,
+        "question": "Last year, 200 students enrolled in an interior design program. This year, the number of students enrolled is 147% of last year’s number. How many students are enrolled in the interior design program this year?",
+        "options": ["247", "294", "347", "394"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "294",
+        "rationale": "Choice B is correct. 147% of 200 students is 1.47 × 200 = 294 students. So, this year 294 students are enrolled.",
+        "incorrect_choices_explanation": {
+          "247": "May result from subtracting 47 instead of adding 47% to 200.",
+          "347": "May come from rounding or applying the percentage incorrectly.",
+          "394": "Likely a miscalculation involving 1.94 × 200 or similar."
+        },
+        "difficulty": "Easy",
+        "skill": "Percentages"
+      },
+      {
+        "number": 30,
+        "options":"No options",
+        "question": "Last year, Cedric had 35 plants in his garden. This year, the number of plants in Cedric’s garden is 60% greater than the number of plants in his garden last year. How many plants does Cedric have in his garden this year?",
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "56",
+        "rationale": "Cedric had 35 plants last year. A 60% increase means he has 35 + 35 × 0.6 = 35 + 21 = 56 plants this year.",
+        "difficulty": "Medium",
+        "skill": "Percentages"
+      },
+      {
+        "number": 31,
+        "question": "What is 23% of 100?",
+        "options": ["23", "46", "77", "123"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "23",
+        "rationale": "Choice A is correct. 23% of 100 is (23/100) × 100 = 23.",
+        "incorrect_choices_explanation": {
+          "46": "This is 46%, not 23%, of 100.",
+          "77": "This is 23% less than 100, not 23% of 100.",
+          "123": "This is 23% more than 100, not 23% of 100."
+        },
+        "difficulty": "Easy",
+        "skill": "Percentages"
+      },
+      {
+        "number": 32,
+        "question": "Which expression represents the result of increasing a positive quantity w by 43%?",
+        "options": ["1.43w", "0.57w", "43w", "0.43w"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "1.43w",
+        "rationale": "Choice A is correct. Increasing a value by 43% is the same as multiplying it by (1 + 43/100), which is 1.43. So, 1.43w is the correct expression.",
+        "incorrect_choices_explanation": {
+          "0.57w": "This represents a 43% decrease, not an increase.",
+          "43w": "This is a 4,200% increase, not 43%.",
+          "0.43w": "This represents only 43% of w, not w increased by 43%."
+        },
+        "difficulty": "Medium",
+        "skill": "Percentages"
+      },
+      {
+        "number": 32,
+        "question": "The population of City A increased by 7% from 2015 to 2016. If the 2016 population is k times the 2015 population, what is the value of k?",
+        "options": ["0.07", "0.7", "1.07", "1.7"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "1.07",
+        "rationale": "Choice C is correct. A 7% increase means the population becomes 107% of the original, or 1.07 times the 2015 population.",
+        "incorrect_choices_explanation": {
+          "0.07": "This would be true if the 2016 population was only 7% of the 2015 population.",
+          "0.7": "This would be true if the population in 2016 was 70% of the 2015 population.",
+          "1.7": "This would be true if the increase was 70%, not 7%."
+        },
+        "difficulty": "Medium",
+        "skill": "Percentages"
+      },
+      {
+        "number": 33,
+        "question": "What is 10% of 470?",
+        "options": ["37", "47", "423", "460"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "47",
+        "rationale": "10% of 470 is calculated as (10/100) × 470 = 47. Therefore, the correct answer is 47.",
+        "incorrect_choices_explanation": {
+          "37": "This is 10% of 370, not 470.",
+          "423": "This is 90% of 470, not 10%.",
+          "460": "This is 470 - 10, not 10% of 470."
+        },
+        "difficulty": "Easy",
+        "skill": "Percentages"
+      },
+      {
+        "number": 34,
+        "question": "Which of the following represents the result of increasing the quantity x by 9%, where x > 0?",
+        "options": ["1.09x", "0.09x", "x + 9", "x + 0.09"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "1.09x",
+        "rationale": "Increasing the quantity x by 9% means adding 9% of x to x, which is x + 0.09x = 1.09x.",
+        "incorrect_choices_explanation": {
+          "0.09x": "This is just 9% of x, not x increased by 9%.",
+          "x + 9": "This increases x by 9, not by 9%.",
+          "x + 0.09": "This increases x by 0.09, not by 9%."
+        },
+        "difficulty": "Medium",
+        "skill": "Percentages"
+      },
+      {
+        "number": 35,
+        "question": "The number k is 36% greater than 50. If k is the product of 50 and r, what is the value of r?",
+        "options": ["36", "3.6", "1.36", "0.36"],
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "1.36",
+        "rationale": "The number k is 36% greater than 50, so k = 50 + 0.36 × 50 = 68. Since k is also 50r, setting 68 = 50r gives r = 68 ÷ 50 = 1.36.",
+        "incorrect_choices_explanation": {
+          "36": "This is the percentage increase, not the value of r.",
+          "3.6": "May result from misplacing the decimal.",
+          "0.36": "This would be r if k were 36% of 50, not 36% greater."
+        },
+        "difficulty": "Medium",
+        "skill": "Percentages"
+      },
+      {
+        "number": 36,
+        "question": "The number a is 70% less than the positive number b. The number c is 80% greater than a. The number c is how many times b?",
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "0.54",
+        "alternate_correct_answers": ["27/50"],
+        "rationale": "a is 70% less than b, so a = 0.30b. c is 80% greater than a, so c = 1.80a = 1.80 × 0.30b = 0.54b. Therefore, c is 0.54 times b.",
+        "difficulty": "Hard",
+        "skill": "Percentages",
+        "options": "no options "
+      },
+      {
+        "number": 37,
+        "question": "210 is p% greater than 30. What is the value of p?",
+        "tip": "Press CTRL/Command to toggle answer",
+        "correct_answer": "600",
+        "rationale": "210 = (1 + p/100) × 30. Divide both sides by 30 to get 7 = 1 + p/100. Subtract 1 from both sides to get 6 = p/100. Multiply both sides by 100 to get p = 600.",
+        "difficulty": "Hard",
+        "skill": "Percentages"
+      },
+      {
+        "number": 38,
+        "question": "The value of z is 1.13 times 100. The value of z is what percent greater than 100?",
+        "options": {
+          "A": "11.3",
+          "B": "13",
+          "C": "130",
+          "D": "213"
+        },
+        "correct_answer": "B",
+        "rationale": "The value of z is 1.13 × 100 = 113. This is 13 more than 100, so it is 13% greater than 100.",
+        "difficulty": "Medium",
+        "skill": "Percentages"
+      },
+      {
+        "number": 39,
+        "question": "The length of the base of a certain parallelogram is 89% of the height of the parallelogram. Which expression represents the length of the base of the parallelogram, where h is the height of the parallelogram?",
+        "options": {
+          "A": "89h",
+          "B": "0.089h",
+          "C": "8.9h",
+          "D": "0.89h"
+        },
+        "correct_answer": "D",
+        "rationale": "The correct expression for 89% of h is 0.89h. The other options incorrectly represent the percentage, being too large or too small.",
+        "difficulty": "Easy",
+        "skill": "Percentages"
+      },
+      {
+        "number": 40,
+        "source": "Modded SAT Question Bank by Abdullah Mallik",
+        "question": "What is the median of the seven data values shown?",
+        "data_values": [2, 2, 2, 3, 4, 4, 11],
+        "options": {
+          "A": 2,
+          "B": 3,
+          "C": 4,
+          "D": 9
+        },
+        "correct_answer": "B",
+        "rationale": "Choice B is correct. When a data set has an odd number of values, the median can be found by ordering the values from least to greatest and determining the value in the middle. Since the values are already presented in order from least to greatest and there are 7 values, the median is the fourth value in the list. Therefore, the median is 3. Choice A is incorrect. This is the mode. Choice C is incorrect. This is the mean. Choice D is incorrect. This is the range.",
+        "difficulty": "Easy",
+        "skill": "One-variable data: Distributions and measures of center and spread"
+      },
+      {
+        "number": 41,
+        "img" : "img_07.png",
+        "source": "Modded SAT Question Bank by Abdullah Mallik",
+        "question": "The box plots summarize the masses, in kilograms, of two groups of gazelles. Based on the box plots, which of the following statements must be true?",
+        "box_plots": {
+          "group_1": {
+            "min": 22,
+            "q1": 24,
+            "median": 25,
+            "q3": 28,
+            "max": 30
+          },
+          "group_2": {
+            "min": 22,
+            "q1": 23,
+            "median": 24,
+            "q3": 25,
+            "max": 26
+          }
+        },
+        "options": {
+          "A": "The mean mass of group 1 is greater than the mean mass of group 2.",
+          "B": "The mean mass of group 1 is less than the mean mass of group 2.",
+          "C": "The median mass of group 1 is greater than the median mass of group 2.",
+          "D": "The median mass of group 1 is less than the median mass of group 2."
+        },
+        "correct_answer": "C",
+        "rationale": "Choice C is correct. The median of a data set represented in a box plot is represented by the vertical line within the box. It follows that the median mass of the gazelles in group 1 is 25 kilograms, and the median mass of the gazelles in group 2 is 24 kilograms. Since 25 kilograms is greater than 24 kilograms, the median mass of group 1 is greater than the median mass of group 2. Choice A is incorrect. The mean mass of each of the two groups cannot be determined from the box plots. Choice B is incorrect. The mean mass of each of the two groups cannot be determined from the box plots. Choice D is incorrect and may result from conceptual or calculation errors.",
+        "difficulty": "Hard",
+                "skill": "One-variable data: Distributions and measures of center and spread"
+      },
+      {
+        "number": 42,
+        "source": "Modded SAT Question Bank by Abdullah Mallik",
+        "question": "The table above shows the distribution of ages of the 20 students enrolled in a college class. Which of the following gives the correct order of the mean, median, and mode of the ages?",
+        "table": {
+          "18": 6,
+          "19": 5,
+          "20": 4,
+          "21": 2,
+          "22": 1,
+          "23": 1,
+          "30": 1
+        },
+        "options": {
+          "A": "mode < median < mean",
+          "B": "mode < mean < median",
+          "C": "median < mode < mean",
+          "D": "mean < mode < median"
+        },
+        "correct_answer": "A",
+        "rationale": "Choice A is correct. The mode is the data value with the highest frequency. So for the data shown, the mode is 18. The median is the middle data value when the data values are sorted from least to greatest. Since there are 20 ages ordered, the median is the average of the two middle values, the 10th and 11th, which for these data are both 19. Therefore, the median is 19. The mean is the sum of the data values divided by the number of the data values. So for these data, the mean is (18×6 + 19×5 + 20×4 + 21×2 + 22×1 + 23×1 + 30×1) / 20 = 20. Since the mode is 18, the median is 19, and the mean is 20, mode < median < mean. Choices B and D are incorrect because the mean is greater than the median. Choice C is incorrect because the median is greater than the mode.",
+        "difficulty": "Medium",
+        "skill": "One-variable data: Distributions and measures of center and spread"
+      },
+      {
+        "number": 43,
+        "source": "Modded SAT Question Bank by Abdullah Mallik",
+        "question": "Data set A and data set B each contain 5 numbers. If the mean of data set A is equal to the mean of data set B, what is the value of x?",
+        "data_sets": {
+          "A": [72, 73, 73, 76, 76],
+          "B": [61, 64, 74, 85, "x"]
+        },
+        "options": {
+          "A": 77,
+          "B": 85,
+          "C": 86,
+          "D": 95
+        },
+        "correct_answer": "C",
+        "rationale": "Choice C is correct. The mean of a data set is found by dividing the sum of the values in the data set by the number of values in the data set. Therefore, the mean of data set A is (72 + 73 + 73 + 76 + 76) / 5 = 74. The mean of data set B is (61 + 64 + 74 + 85 + x) / 5 = (284 + x) / 5. Setting the two means equal gives 74 = (284 + x) / 5. Multiplying both sides by 5 gives 370 = 284 + x. Solving for x gives x = 86.",
+        "difficulty": "Easy",
+        "skill": "One-variable data: Distributions and measures of center and spread"
+      },
+      {
+        "number": 44,
+        "question": "For a school fund-raiser, 10 students sold a total of 90 boxes of cookies. Which of the following can be calculated from this information?",
+        "choices": {
+          "A": "The average number of boxes sold per student",
+          "B": "The median number of boxes sold per student",
+          "C": "The greatest number of boxes sold by one student",
+          "D": "The least number of boxes sold by one student"
+        },
+        "correct_answer": "A",
+        "rationale": "Choice A is correct. The average can be found by dividing the total number of boxes sold by the number of students, which is 90 ÷ 10 = 9. Choices B, C, and D are incorrect because they require individual data points which are not provided.",
+        "difficulty": "Easy",
+        "skill": "One-variable data: Distributions and measures of center and spread"
+      },
+      {
+        "number": 45,
+        "question": "15, 14, 18, 17, x\nThe mean and the median of the five numbers above are equal. Which of the following is NOT a possible value of x?",
+        "choices": {
+          "A": 6,
+          "B": 11,
+          "C": 16,
+          "D": 21
+        },
+        "correct_answer": "A",
+        "rationale": "Choice A is correct. If x is 6, then the five numbers are 15, 14, 18, 17, 6. Their sum is 70, so the mean is 70 ÷ 5 = 14. When ordered, the list becomes 6, 14, 15, 17, 18 and the median is 15. Since the mean and median are not equal (14 ≠ 15), x = 6 is not valid. Choices B, C, and D result in sets where the mean and median are equal, so they are not correct answers.",
+        "difficulty": "Medium",
+        "skill": "One-variable data: Distributions and measures of center and spread"
+      },
+      {
+        "number": 46,
+        "source": "Modded SAT Question Bank by Abdullah Mallik",
+        "question": "Data set A consists of 10 positive integers less than 60. The list shown gives 9 of the integers from data set A.\n43, 45, 44, 43, 38, 39, 40, 46, 40\nThe mean of these 9 integers is 42. If the mean of data set A is an integer that is greater than 42, what is the value of the largest integer from data set A?",
+        "options": "no option",
+        "correct_answer": 52,
+        "rationale": "The correct answer is 52. The mean of a data set is calculated by dividing the sum of the data values by the number of values. It’s given that data set A consists of 10 values, 9 of which are shown. Let x represent the 10th data value. The sum of the 9 shown numbers is 378, so the mean of all 10 values is (378 + x) / 10. Since the mean is greater than 42 and must be an integer, x must satisfy the condition that (378 + x) is divisible by 10, x > 42, and x < 60. The only such value of x is 52, which also turns out to be the largest value in the list.",
+        "difficulty": "Hard",
+        "skill": "One-variable data: Distributions and measures of center and spread"
+      },
+      {
+       "number": 47,
+        "source": "Modded SAT Question Bank by Abdullah Mallik",
+        "question": "A data set of 27 different numbers has a mean of 33 and a median of 33. A new data set is created by adding 7 to each number in the original data set that is greater than the median and subtracting 7 from each number in the original data set that is less than the median. Which of the following measures does NOT have the same value in both the original and new data sets?",
+        "choices": {
+          "A": "Median",
+          "B": "Mean",
+          "C": "Sum of the numbers",
+          "D": "Standard deviation"
+        },
+        "correct_answer": "D",
+        "rationale": "Choice D is correct. With an odd number of elements (27), the median is the 14th value when ordered. Subtracting 7 from the 13 values below the median and adding 7 to the 13 values above it spreads the values out from the center (mean and median). This increases the standard deviation, which measures the spread of the data. Choices A, B, and C are incorrect: The median value remains unchanged (33), and the net sum change is zero, so the mean and sum also stay the same.",
+        "difficulty": "Hard",
+        "skill": "One-variable data: Distributions and measures of center and spread"
+      },
+      {
+        "number": 48,
+        "source": "Modded SAT Question Bank by Abdullah Mallik",
+        "question": "What is the median of the data shown?\n73, 74, 75, 77, 79, 82, 84, 85, 91",
+        "data": [73, 74, 75, 77, 79, 82, 84, 85, 91],
+        "correct_answer": 79,
+        "rationale": "The correct answer is 79. The median of a data set with an odd number of values is the middle value when the values are ordered from least to greatest. Since there are nine values, the fifth one is the median. The fifth value is 79, so the median of the data set is 79.",
+        "difficulty": "Easy",
+        "skill": "One-variable data: Distributions and measures of center and spread"
+      },
+      {
+       "number": 49,
+        "source": "Modded SAT Question Bank by Abdullah Mallik",
+        "question": "Two data sets of 23 integers each are summarized in the histograms shown. For each of the histograms, the first interval represents the frequency of integers greater than or equal to 10, but less than 20. The second interval represents the frequency of integers greater than or equal to 20, but less than 30, and so on. What is the smallest possible difference between the mean of data set A and the mean of data set B?",
+        "choices": {
+          "A": 0,
+          "B": 1,
+          "C": 10,
+          "D": 23
+        },
+        "correct_answer": "B",
+        "rationale": "Choice B is correct. The histograms have the same shape, but the values in data set A range from 20 to 60 while data set B ranges from 10 to 50. The smallest possible mean for data set A is calculated by taking the lowest values in each bin (e.g., 20, 30, 40, 50), and the largest possible mean for data set B is calculated using the highest values in each bin (e.g., 19, 29, 39, 49). When computed, the smallest possible difference between the mean of A and B equals 1. Other choices refer to differences in range or sums, not the means.",
+        "difficulty": "Hard",
+        "skill": "One-variable data: Distributions and measures of center and spread"
+      },
+      {
+        "number": 50,
+        "source": "Modded SAT Question Bank by Abdullah Mallik",
+        "question": "What is the mean of the data shown?\n2, 9, 14, 23, 32",
+        "data": [2, 9, 14, 23, 32],
+        "choices": {
+          "A": 14,
+          "B": 16,
+          "C": 17,
+          "D": 32
+        },
+        "correct_answer": "B",
+        "rationale": "Choice B is correct. The mean is the sum of all the data values divided by the number of values. The sum is 2 + 9 + 14 + 23 + 32 = 80, and there are 5 values. So the mean is 80 ÷ 5 = 16. Choice A is incorrect; it represents the median. Choice C is incorrect and may result from calculation errors. Choice D is incorrect; it is the maximum value, not the mean.",
+        "difficulty": "Easy",
+        "skill": "One-variable data: Distributions and measures of center and spread"
+      }
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+  
+    ]
+  }
+  

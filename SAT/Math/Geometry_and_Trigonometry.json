@@ -1,0 +1,259 @@
+[
+    {
+      "number": 1,
+      "question": "A right circular cylinder has a volume of 45π. If the height of the cylinder is 5, what is the radius of the cylinder?",
+      "options": {
+        "A": 3,
+        "B": 4.5,
+        "C": 9,
+        "D": 40
+      },
+      "correct_answer": "A",
+      "rationale": "Choice A is correct. The volume of a right circular cylinder is given by the formula V = πr²h. Given V = 45π and h = 5, substitute into the formula: 45π = πr² × 5. Divide both sides by 5π to get r² = 9. Taking the square root of both sides gives r = 3. Since radius cannot be negative, the radius is 3. Other answer choices result from incorrect interpretations or missteps in solving the equation.",
+      "difficulty": "Medium",
+      "skill" :"Area and volume"
+    },
+    {
+      "number": 2,
+      "question": "Square A has side lengths that are 166 times the side lengths of square B. The area of square A is k times the area of square B. What is the value of k?",
+      "Options": "No options",
+      "correct_answer": 27556,
+      "rationale": "The area of a square is s². Let x represent the side length of square B. Then the area of square B is x². Since square A’s side is 166x, its area is (166x)² = 27,556x². Since square A’s area is k times that of square B, we set up the equation 27,556x² = kx². Dividing both sides by x² yields k = 27,556.",
+      "difficulty": "Hard"
+    },
+    {
+        "number": 3,
+        "question": "The side length of a square is 55 centimeters (cm). What is the area, in cm², of the square?",
+        "options": {
+          "A": 110,
+          "B": 220,
+          "C": 3025,
+          "D": 12100
+        },
+        "correct_answer": "C",
+        "rationale": "Choice C is correct. The area of a square is given by the formula A = s². Since the side length s is 55 cm, the area is 55² = 3,025 cm². Choice A is incorrect and likely comes from a conceptual or arithmetic error. Choice B is the perimeter, not the area. Choice D is also incorrect and likely a result of miscalculation.",
+        "difficulty": "Easy",
+        "skill" :"Area and volume"
+      },
+      {
+        "number": 4,
+        "question": "What is the length of one side of a square that has the same area as a circle with radius 2?",
+        "options": {
+          "A": "2",
+          "B": "√(2π)",
+          "C": "2√π",
+          "D": "2π"
+        },
+        "correct_answer": "C",
+        "rationale": "Choice C is correct. The area of a circle with radius 2 is π × 2² = 4π. The area of a square with side length s is s². Setting these equal gives s² = 4π. Taking the square root of both sides yields s = √(4π) = 2√π. Thus, the side length of the square is 2√π. Choices A, B, and D result from conceptual or simplification errors.",
+        "difficulty": "Medium",
+        "skill" :"Area and volume"
+      },
+      {
+        "number": 5,
+        "question": "Square X has a side length of 12 centimeters. The perimeter of square Y is 2 times the perimeter of square X. What is the length, in centimeters, of one side of square Y?",
+        "options": {
+          "A": 6,
+          "B": 10,
+          "C": 14,
+          "D": 24
+        },
+        "correct_answer": "D",
+        "rationale": "Choice D is correct. The perimeter of square X is 4 × 12 = 48 cm. Since square Y’s perimeter is twice that, it's 2 × 48 = 96 cm. Using the formula P = 4s to solve for s: 96 = 4s, divide both sides by 4 to get s = 24. So one side of square Y is 24 cm.",
+        "difficulty": "Medium",
+        "skill" :"Area and volume"
+      },
+      {
+        "number": 6,
+        "question": "The area of a square is 64 square inches. What is the side length, in inches, of this square?",
+        "options": {
+          "A": 8,
+          "B": 16,
+          "C": 64,
+          "D": 128
+        },
+        "correct_answer": "A",
+        "rationale": "Choice A is correct. The area of a square is given by A = s². If the area is 64 square inches, then s² = 64. Taking the square root of both sides yields s = 8. Therefore, the side length of the square is 8 inches. Other choices result from misunderstanding the relationship between area and side length.",
+        "difficulty": "Easy",
+        "skill" :"Area and volume"
+      },
+      {
+        "number": 7,
+        "question": "What is the volume, in cubic centimeters, of a right rectangular prism that has a length of 4 centimeters, a width of 9 centimeters, and a height of 10 centimeters?",
+        "options": "no options",
+        "correct_answer": 360,
+        "rationale": "The correct answer is 360. The volume of a right rectangular prism is found by multiplying its length, width, and height. So, Volume = 4 × 9 × 10 = 360 cubic centimeters.",
+        "difficulty": "Medium",
+        "skill" :"Area and volume"
+      },
+      {
+        "number": 8,
+        "question": "A cube has an edge length of 68 inches. A solid sphere with a radius of 34 inches is inside the cube, such that the sphere touches the center of each face of the cube. To the nearest cubic inch, what is the volume of the space in the cube not taken up by the sphere?",
+        "options": {
+          "A": 149796,
+          "B": 164500,
+          "C": 190955,
+          "D": 310800
+        },
+        "correct_answer": "A",
+        "rationale": "Choice A is correct. Volume of the cube: 68³ = 314,432 cubic inches. Volume of the sphere: (4/3)π(34)³ ≈ 164,636 cubic inches. Subtracting gives the space not taken by the sphere: 314,432 - 164,636 = 149,796 cubic inches. Other answer choices stem from calculation or conceptual errors.",
+        "difficulty": "Hard",
+        "skill" :"Area and volume"
+      },
+      {
+        "number": 9,
+        "question": "A cube has an edge length of 41 inches. What is the volume, in cubic inches, of the cube?",
+        "options": {
+          "A": 164,
+          "B": 1681,
+          "C": 10086,
+          "D": 68921
+        },
+        "correct_answer": "D",
+        "rationale": "Choice D is correct. The volume of a cube is given by the formula V = s³, where s is the side length. Substituting s = 41, we get V = 41³ = 68,921 cubic inches. Choices A, B, and C correspond to the perimeter, face area, and surface area of the cube, respectively, not the volume.",
+        "difficulty": "Medium",
+        "skill" :"Area and volume"
+      },
+      {
+        "number": 10,
+        "question": "A cylinder has a diameter of 8 inches and a height of 12 inches. What is the volume, in cubic inches, of the cylinder?",
+        "options": {
+          "A": "16π",
+          "B": "96π",
+          "C": "192π",
+          "D": "768π"
+        },
+        "correct_answer": "C",
+        "rationale": "Choice C is correct. Radius is half the diameter, so r = 4. Area of the base = πr² = π(4²) = 16π. Volume of the cylinder = base area × height = 16π × 12 = 192π. Choices A, B, and D result from errors in calculating r² or using incorrect radius or height values.",
+        "difficulty": "Medium",
+        "skill" :"Area and volume"
+      },
+      {
+        "number": 11,
+        "question": "A manufacturing company produces two sizes of cylindrical containers that each have a height of 50 centimeters. The radius of container A is 16 centimeters, and the radius of container B is 25% longer than the radius of container A. What is the volume, in cubic centimeters, of container B?",
+        "options": {
+          "A": "16,000π",
+          "B": "20,000π",
+          "C": "25,000π",
+          "D": "31,250π"
+        },
+        "correct_answer": "B",
+        "rationale": "Choice B is correct. Radius of container A is 16 cm, so the radius of container B is 16 + 0.25×16 = 20 cm. Volume of a cylinder is πr²h. Substituting r = 20 and h = 50 gives π(20²)(50) = 20,000π. Other choices result from misusing radius values or misapplying the formula.",
+        "difficulty": "Medium",
+        "skill" :"Area and volume"
+      },
+      {
+       "number": 12,
+        "question": "A rectangle has an area of 63 square meters and a length of 9 meters. What is the width, in meters, of the rectangle?",
+        "options": {
+          "A": 7,
+          "B": 54,
+          "C": 81,
+          "D": 567
+        },
+        "correct_answer": "A",
+        "rationale": "Choice A is correct. Area of a rectangle is A = lw. Given A = 63 and l = 9, solve for w: 63 = 9w → w = 7. So the width is 7 meters. Other choices stem from misinterpretations of area-related operations (e.g., subtraction, squaring, or multiplying).",
+        "difficulty": "Easy",
+        "skill" :"Area and volume"
+      },
+      {
+        "number": 13,
+        "question": "A cube has a volume of 474,552 cubic units. What is the surface area, in square units, of the cube?",
+        "options": "no options",
+        "correct_answer": 36504,
+        "rationale": "The volume of the cube is V = s³. Solving 474,552 = s³ gives s = 78. The surface area of a cube is 6s². So surface area = 6 × 78² = 6 × 6,084 = 36,504 square units.",
+        "difficulty": "Hard",
+        "skill" :"Area and volume"
+      },
+      {
+        "number": 14,
+        "question": "A right circular cone has a height of 22 centimeters (cm) and a base with a diameter of 6 cm. The volume of this cone is nπ cm³. What is the value of n?",
+        "options": "no options",
+        "correct_answer": 66,
+        "rationale": "The formula for the volume of a right circular cone is V = (1/3)πr²h. The diameter is 6 cm, so the radius r = 3 cm, and the height h = 22 cm. Substituting gives V = (1/3)π(3²)(22) = (1/3)π(9)(22) = 66π. Therefore, the value of n is 66.",
+        "difficulty": "Hard",
+        "skill" :"Area and volume"
+      },
+      {
+        "number": 15,
+        "question": "A circle has a circumference of 31π centimeters. What is the diameter, in centimeters, of the circle?",
+        "options": "no options",
+        "correct_answer": 31,
+        "rationale": "The circumference of a circle is given by the formula C = 2πr, where r is the radius. Therefore, the diameter is 2r. Given 31π = 2πr, dividing both sides by π gives 31 = 2r, and solving for the diameter (2r) gives 31.",
+        "difficulty": "Medium",
+        "skill" :"Area and volume"
+      },
+      {
+        "number": 16,
+        "question": "A manufacturer determined that right cylindrical containers with a height that is 4 inches longer than the radius offer the optimal number of containers to be displayed on a shelf. Which of the following expresses the volume, V, in cubic inches, of such containers, where r is the radius, in inches?",
+        "options": {
+          "A": "V = 4πr³",
+          "B": "V = π(2r)³",
+          "C": "V = πr² + 4πr",
+          "D": "V = πr³ + 4πr²"
+        },
+        "correct_answer": "D",
+        "rationale": "The volume of a right cylinder is given by V = πr²h. Since the height is 4 inches more than the radius, we substitute h = r + 4 into the formula to get V = πr²(r + 4). Distributing yields V = πr³ + 4πr². Other choices misrepresent height or misapply the volume formula.",
+        "difficulty": "Hard",
+        "skill" :"Area and volume"
+      },
+      {
+        "number": 17,
+        "question": "Triangle ABC and triangle DEF are similar triangles, where AB and DE are corresponding sides. If DE = 2AB and the perimeter of triangle ABC is 20, what is the perimeter of triangle DEF?",
+        "options": {
+          "A": 10,
+          "B": 40,
+          "C": 80,
+          "D": 120
+        },
+        "correct_answer": "B",
+        "rationale": "Since the triangles are similar and DE = 2AB, all sides of triangle DEF are twice those of triangle ABC. Therefore, the perimeter of DEF is 2 × 20 = 40.",
+        "difficulty": "Easy",
+        "skill" :"Area and volume"
+      },
+      {
+        "number": 18,
+        "question": "A rectangular poster has an area of 360 square inches. A copy of the poster is made in which the length and width of the original poster are each increased by 20%. What is the area of the copy, in square inches?",
+        "options": "no options",
+        "correct_answer": 518.4,
+        "rationale": "Let l and w be the length and width of the original poster. Then lw = 360. A 20% increase in both dimensions makes the new dimensions 1.2l and 1.2w. The area of the copy is (1.2)(1.2)(lw) = 1.44 × 360 = 518.4 square inches.",
+        "difficulty": "Hard",
+        "skill" :"Area and volume"
+      },
+      {
+        "number": 19,
+        "question": "A right rectangular prism has a length of 28 centimeters (cm), a width of 15 cm, and a height of 16 cm. What is the surface area, in cm², of the right rectangular prism?",
+        "options": "no option",
+        "correct_answer": 2216,
+        "rationale": "The surface area of a right rectangular prism is the sum of the areas of all its six faces. With dimensions 28, 15, and 16 cm, the surface area is 2(lw + lh + wh) = 2(28×15 + 28×16 + 15×16) = 2216 cm².",
+        "difficulty": "Hard",
+        "skill" :"Area and volume"
+      },
+      {
+        "number": 20,
+        "source": "Modded SAT Question Bank by Abdullah Mallik",
+        "question": "What is the area, in square centimeters, of a rectangle with a length of 34 centimeters (cm) and a width of 29 cm?",
+        "choices": [],
+        "correct_answer": 986,
+        "rationale": "The area of a rectangle is given by A = lw, where l is the length and w is the width. Substituting l = 34 and w = 29 gives A = 34 × 29 = 986 square centimeters.",
+        "difficulty": "Easy",
+        "skill" :"Area and volume"
+      }
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+  ]
+  
