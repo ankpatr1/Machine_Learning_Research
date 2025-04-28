@@ -602,7 +602,6 @@
       {
         "number": 47,
         "img": "img32.png",
-        "domain": "Geometry and Trigonometry",
         "skill": "Right triangles and trigonometry",
         "difficulty": "Hard",
         "question": "A graphic designer is creating a logo for a company. The logo is shown in the figure above. The logo is in the shape of a trapezoid and consists of three congruent equilateral triangles. If the perimeter of the logo is 20 centimeters, what is the combined area of the shaded regions, in square centimeters, of the logo?",
@@ -614,7 +613,45 @@
         ],
         "correct_answer": "8√3",
         "rationale": "The logo consists of three congruent equilateral triangles forming a trapezoid. With a perimeter of 20 cm and five equal sides (3 sides of triangles + 2 bases), each side is 4 cm. Splitting a triangle gives a 30°-60°-90° triangle with sides 2 cm, 2√3 cm, and 4 cm. Area of one triangle: (1/2)(4)(2√3) = 4√3 cm². Two triangles are shaded: 2×(4√3) = 8√3 cm². Alternatively, trapezoid area is (1/2)(b₁+b₂)h = 12√3/2 = 6√3, two-thirds of it is 8√3 cm²."
-      } 
+      },
+      {
+        "number": 48,
+        "img": "img33.png",
+        "skill": "Right triangles and trigonometry",
+        "difficulty": "Easy",
+        "question": "In the triangle shown, what is the value of tan(x°)?",
+        "options": [
+          "1/26",
+          "19/26",
+          "26/7",
+          "33/7"
+        ],
+        "correct_answer": "26/7",
+        "rationale": "The tangent of an acute angle in a right triangle is the ratio of the length of the side opposite the angle to the length of the adjacent side. Here, the side opposite x° is 26 units and the adjacent side is 7 units. Therefore, tan(x°) = 26/7."
+      },
+      {
+        "number": 49,
+        "skill": "Right triangles and trigonometry",
+        "difficulty": "Hard",
+        "question": "The perimeter of an equilateral triangle is 624 centimeters. The height of this triangle is k√3 centimeters, where k is a constant. What is the value of k?",
+        "options": "no options",
+        "correct_answer": "104",
+        "rationale": "An equilateral triangle has all sides equal. The height splits it into two 30-60-90 triangles. In each, the altitude is k√3, and the side opposite the 30° angle is k. Thus, the hypotenuse (side of equilateral triangle) is 2k. The perimeter is 3 sides, so 3(2k) = 6k = 624. Solving gives k = 104."
+      },
+      {
+        "number": 50,
+        "skill": "Right triangles and trigonometry",
+        "difficulty": "Hard",
+        "question": "An isosceles right triangle has a hypotenuse of length 58 inches. What is the perimeter, in inches, of this triangle?",
+        "options": [
+          "29√2",
+          "58√2",
+          "58 + 58√2",
+          "58 + 116√2"
+        ],
+        "correct_answer": "58 + 58√2",
+        "rationale": "Since the triangle is isosceles right, both legs are equal. Using the Pythagorean theorem: x² + x² = 58² → 2x² = 58² → x = (58√2)/2 = 29√2. Thus, perimeter = 58 + 2(29√2) = 58 + 58√2."
+      }    
       
   ]
   
