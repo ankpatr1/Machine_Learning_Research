@@ -651,7 +651,22 @@
         ],
         "correct_answer": "58 + 58√2",
         "rationale": "Since the triangle is isosceles right, both legs are equal. Using the Pythagorean theorem: x² + x² = 58² → 2x² = 58² → x = (58√2)/2 = 29√2. Thus, perimeter = 58 + 2(29√2) = 58 + 58√2."
-      }    
+      },
+      {
+        "number": 51,
+        "skill": "Right triangles and trigonometry",
+        "difficulty": "Hard",
+        "question": "An isosceles right triangle has a hypotenuse of length 58 inches. What is the perimeter, in inches, of this triangle?",
+        "choices": [
+          "29√2",
+          "58√2",
+          "58 + 58√2",
+          "58 + 116√2"
+        ],
+        "correct_answer": "58 + 58√2",
+        "rationale": "Since the triangle is isosceles right, both legs are equal. Using the Pythagorean theorem: x² + x² = 58² → 2x² = 58² → x = (58√2)/2 = 29√2. Thus, perimeter = 58 + 2(29√2) = 58 + 58√2."
+      }
+         
       
   ]
   
