@@ -231,27 +231,393 @@
       },
       {
         "number": 20,
-        "source": "Modded SAT Question Bank by Abdullah Mallik",
         "question": "What is the area, in square centimeters, of a rectangle with a length of 34 centimeters (cm) and a width of 29 cm?",
-        "choices": [],
+       "options": "no option",
         "correct_answer": 986,
         "rationale": "The area of a rectangle is given by A = lw, where l is the length and w is the width. Substituting l = 34 and w = 29 gives A = 34 × 29 = 986 square centimeters.",
         "difficulty": "Easy",
         "skill" :"Area and volume"
+      },
+      {
+        "number": 21,
+        "img":"img7.png",
+        "question": "In the figure, AC = CD. The measure of angle EBC is 45°, and the measure of angle ACD is 104°. What is the value of x?",
+        "options": "no option",
+        "correct_answer": 83,
+        "rationale": "Since AC = CD, triangle ACD is isosceles, and angles CAD and CDA are equal. The sum of angles in triangle ACD is 180°, so the two equal angles add up to 180° - 104° = 76°, and each is 38°. In triangle BDE, angle BDE is 38°, angle EBC is 45°, and angle DEB is found by 180° - 45° - 38° = 97°. Since angles DEB and AEB form a straight line (180°), we have 97° + x = 180°, so x = 83°.",
+        "difficulty": "Hard",
+        "skill" :"Lines, angles, and triangles"
+      },
+      {
+        "number": 22,
+        "img":"img8.png",
+        "question": "In the figure shown, points Q, R, S, and T lie on line segment PV, and line segment RU intersects line segment SX at point W. The measure of ∠SQX is 48°, the measure of ∠SXQ is 86°, the measure of ∠SWU is 85°, and the measure of ∠VTU is 162°. What is the measure, in degrees, of ∠TUR?",
+        "options": "no option",
+        "correct_answer": 123,
+        "rationale": "Using the triangle sum theorem and supplementary angles: ∠QSX = 180° - 48° - 86° = 46°. ∠SWR = 180° - 85° = 95°. In triangle RSW, ∠WRS = 180° - 46° - 95° = 39°. ∠STU = 180° - 162° = 18°. In triangle TUR, since ∠URT = ∠WRS, the measure of ∠TUR is 180° - 39° - 18° = 123°.",
+        "difficulty": "Hard",
+        "skill" :"Lines, angles, and triangles"
+      },
+      {
+        "number": 23,
+        "img":"img9.png",
+        "question": "What is the value of x?",
+        "options": "no option",
+        "correct_answer": 97,
+        "rationale": "The value of x is found using the exterior angle theorem. The two nonadjacent interior angles are 23° and 74°, where 74° is calculated as 180° - 106°. Thus, x = 23° + 74° = 97°.",
+        "difficulty": "Hard",
+        "skill" :"Lines, angles, and triangles"
+      },
+      {
+        "number": 24,
+        "img" :"img10",
+        "question": "In the figure, line m is parallel to line n. What is the value of w?",
+        "options": {
+          "A": 17,
+          "B": 30,
+          "C": 70,
+          "D": 170
+        },
+        "correct_answer": "D",
+        "rationale": "Since lines m and n are parallel and cut by a transversal, corresponding angles are congruent. Given that the corresponding angle is 170°, it follows that w° = 170°. Therefore, the value of w is 170.",
+        "difficulty": "Easy",
+        "skill" :"Lines, angles, and triangles"
+      },
+      {
+        "number": 25,
+        "img":"img15.png",
+        "question": "In the figure above, line segment MQ and line segment NR intersect at point P, NP equals QP, and MP equals PR. What is the measure, in degrees, of angle QMR? (Disregard the degree symbol when gridding your answer.)",
+        "options": "no option",
+        "correct_answer": 30,
+        "rationale": "The correct answer is 30. It is given that the measure of angle QPR is 60 degrees. Angle MPR and angle QPR are collinear and therefore supplementary, meaning they add up to 180 degrees. Thus, the measure of angle MPR is 120 degrees. In triangle MPR, the sum of angles must be 180 degrees. Subtracting 120 degrees from 180 degrees leaves 60 degrees. Since MP = PR, triangle MPR is isosceles, making angles QMR and NRM congruent. Therefore, each has a measure of 30 degrees.",
+        "difficulty": "Hard",
+        "skill" :"Lines, angles, and triangles"
+      },
+      {
+        "number": 26,
+        "img":"img16.png",
+        "question": "Right triangles PQR and STU are similar, where P corresponds to S. If the measure of angle Q is 18°, what is the measure of angle S?",
+        "Options": {
+          "A": "18°",
+          "B": "72°",
+          "C": "82°",
+          "D": "162°"
+        },
+        "correct_answer": "B",
+        "rationale": "Choice B is correct. In similar triangles, corresponding angles are congruent. Since P corresponds to S, angle P is congruent to angle S. Angles R and U are both right angles, so they are congruent. Angles Q and T correspond and are congruent too. Given that angle Q measures 18°, angle T also measures 18°. Since triangle STU is a triangle, the sum of the angles must be 180°. Let s represent the measure of angle S. Then, s + 18 + 90 = 180. Simplifying, s + 108 = 180, so s = 72. Thus, the measure of angle S is 72°.",
+        "difficulty": "Easy",
+        "skill" :"Lines, angles, and triangles"
+      },
+      {
+        "number": 27,
+        "img":"img17.png",
+        "question": "In the figure, line q is parallel to line r, and both lines are intersected by line s. If y = 2x + 8, what is the value of x?",
+        "options": "no options",
+        "correct_answer": "57",
+        "rationale": "The correct answer is 57. Based on the figure, the angle with measure y° and the angle vertical to the angle with measure 58° are same-side interior angles. Since vertical angles are congruent, the angle vertical to the angle with measure 58° also has measure 58°. Since lines q and r are parallel, same-side interior angles are supplementary. Thus, y + 58 = 180. Substituting y = 2x + 8 into the equation gives (2x + 8) + 58 = 180, or 2x + 66 = 180. Subtracting 66 from both sides gives 2x = 114. Dividing by 2 yields x = 57.",
+        "difficulty": "Medium",
+        "skill" :"Lines, angles, and triangles"
+      },
+      {
+        "number": 28,
+        "img":"img18.png",
+        "question": "In the figure above, lines ℓ and m are parallel, y = 20, and z = 60. What is the value of x?",
+        "options": {
+          "A": 120,
+          "B": 100,
+          "C": 90,
+          "D": 80
+        },
+        "correct_answer": "B",
+        "rationale": "Choice B is correct. Since lines ℓ and m are parallel and cut by transversals, corresponding angles are congruent. Thus a° = y° = 20°. The sum of the interior angles of a triangle is 180°, so a + x + z = 180. Substituting gives 20 + x + 60 = 180. Solving for x gives x = 180 - 80 = 100.",
+        "difficulty": "Easy",
+        "skill" :"Lines, angles, and triangles"
+      },
+      {
+        "number": 29,
+        "img":"img19.png",
+        "question": "In the figure above, side AF, line segment BE, and side CD are parallel. Points B and E lie on sides AC and FD, respectively. If the length of line segment AB equals 9, the length of line segment BC equals 18.5, and the length of line segment FE equals 8.5, what is the length of line segment ED, to the nearest tenth?",
+        "Options": {
+          "A": 16.8,
+          "B": 17.5,
+          "C": 18.4,
+          "D": 19.6
+        },
+        "correct_answer": "C",
+        "rationale": "Since AB/BC = FE/ED by the properties of parallel lines and proportional segments, set up the proportion: 9/18.5 = 8.5/x. Cross-multiplying gives 9x = 18.5(8.5). Solving gives 9x = 157.25, so x ≈ 17.472. Dividing 157.25 ÷ 9 ≈ 17.472, and 8.5 + 17.472 ≈ 25.972. Thus, ED ≈ 18.4 to the nearest tenth.",
+        "difficulty": "Medium",
+        "skill" :"Lines, angles, and triangles"
+      },
+      {
+        "number": 30,
+        "question": "In triangle ABC, the measure of angle B is 90° and BD is an altitude of the triangle. The length of AB is 15 and the length of AC is 23 greater than the length of AB. What is the value of BC/BD?",
+        "options": {
+          "A": "15/38",
+          "B": "15/23",
+          "C": "23/15",
+          "D": "38/15"
+        },
+        "correct_answer": "D",
+        "rationale": "Choice D is correct. It's given that in triangle ABC, the measure of angle B is 90°, and BD is an altitude of the triangle. Therefore, the measure of angle BDC is 90°. It follows that angle B is congruent to angle D and angle C is congruent to angle C. By the angle-angle similarity postulate, triangle ABC is similar to triangle BDC. Since triangles ABC and BDC are similar, it follows that AC/AB = BC/BD. It's given that AB = 15 and AC = 15 + 23 = 38. Substituting these into the proportion yields 38/15 = BC/BD. Therefore, BC/BD = 38/15.",
+        "difficulty": "Hard",
+        "skill" :"Lines, angles, and triangles"
+      },
+      {
+       "number": 31,
+        "question": "In triangle XYZ, the measure of angle X is 24° and the measure of angle Y is 98°. What is the measure of angle Z?",
+        "options": {
+          "A": "58°",
+          "B": "74°",
+          "C": "122°",
+          "D": "212°"
+        },
+        "correct_answer": "A",
+        "rationale": "Choice A is correct. The triangle angle sum theorem states that the sum of the measures of the interior angles of a triangle is 180°. It's given that in triangle XYZ, the measure of angle X is 24° and the measure of angle Y is 98°. It follows that the measure of angle Z is (180 - 24 - 98)°, or 58°.\nChoice B is incorrect and may result from conceptual or calculation errors.\nChoice C is incorrect. This is the sum of the measures of angles X and Y, not the measure of Z.\nChoice D is incorrect and may result from conceptual or calculation errors.",
+        "difficulty": "Easy",
+        "skill" :"Lines, angles, and triangles"
+      },
+      {
+        "number": 32,
+        "question": "Two nearby trees are perpendicular to the ground, which is flat. One of these trees is 10 feet tall and has a shadow that is 5 feet long. At the same time, the shadow of the other tree is 2 feet long. How tall, in feet, is the other tree?",
+        "options": {
+          "A": "3",
+          "B": "4",
+          "C": "8",
+          "D": "27"
+        },
+        "correct_answer": "B",
+        "rationale": "Choice B is correct. Each tree and its shadow can be modeled using a right triangle, where the height of the tree and the length of its shadow are the legs of the triangle. At a given point in time, the right triangles formed by two nearby trees and their respective shadows will be similar. Therefore, if the height of the other tree is x, in feet, the value of x can be calculated by solving the proportional relationship 10/5 = x/2. This equation is equivalent to 2 = x/2. Multiplying each side of the equation 2 = x/2 by 2 yields 4 = x. Therefore, the other tree is 4 feet tall.\nChoice A is incorrect and may result from calculating the difference between the lengths of the shadows, rather than the height of the other tree.\nChoice C is incorrect and may result from calculating the difference between the height of the 10-foot-tall tree and the length of the shadow of the other tree, rather than calculating the height of the other tree.\nChoice D is incorrect and may result from a conceptual or calculation error.",
+        "difficulty": "Medium",
+        "skill" :"Lines, angles, and triangles"
+      },
+      {
+        "number": 33,
+        "question": "In triangles ABC and DEF, angles B and E each have measure 27° and angles C and F each have measure 41°. Which additional piece of information is sufficient to determine whether triangle ABC is congruent to triangle DEF?",
+        "options": {
+          "A": "The measure of angle A",
+          "B": "The length of side AB",
+          "C": "The lengths of sides BC and EF",
+          "D": "No additional information is necessary."
+        },
+        "correct_answer": "C",
+        "rationale": "Choice C is correct. Since angles B and E each have the same measure and angles C and F each have the same measure, triangles ABC and DEF are similar, where side BC corresponds to side EF. To determine whether two similar triangles are congruent, it is sufficient to determine whether one pair of corresponding sides are congruent. Therefore, to determine whether triangles ABC and DEF are congruent, it is sufficient to determine whether sides BC and EF have equal length. Thus, the lengths of BC and EF are sufficient to determine whether triangle ABC is congruent to triangle DEF.\nChoice A is incorrect and may result from conceptual errors.\nChoice B is incorrect and may result from conceptual errors.\nChoice D is incorrect. The given information is sufficient to determine that triangles ABC and DEF are similar, but not whether they are congruent.",
+        "difficulty": "Hard",
+        "skill" :"Lines, angles, and triangles"
+      },
+      {
+       "number": 34,
+        "question": "In triangles LMN and RST, angles L and R each have measure 60°, LN = 10, and RT = 30. Which additional piece of information is sufficient to prove that triangle LMN is similar to triangle RST?",
+        "options": {
+          "A": "MN = 7 and ST = 7",
+          "B": "MN = 7 and ST = 21",
+          "C": "The measures of angles M and S are 70° and 60°, respectively.",
+          "D": "The measures of angles M and T are 70° and 50°, respectively."
+        },
+        "correct_answer": "D",
+        "rationale": "Choice D is correct. Two triangles are similar if they have three pairs of congruent corresponding angles. It's given that angles L and R each measure 60°, and so these corresponding angles are congruent. If angle M is 70°, then angle N must be 50° so that the sum of the angles in triangle LMN is 180°. If angle T is 50°, then angle S must be 70° so that the sum of the angles in triangle RST is 180°. Therefore, if the measures of angles M and T are 70° and 50°, respectively, then corresponding angles M and S are both 70°, and corresponding angles N and T are both 50°. It follows that triangles LMN and RST have three pairs of congruent corresponding angles, and so the triangles are similar. Therefore, the additional piece of information that is sufficient to prove that triangle LMN is similar to triangle RST is that the measures of angles M and T are 70° and 50°, respectively.\nChoice A is incorrect. The two sides given are not proportional and the angle given is not included by the given sides.\nChoice B is incorrect. The angle given is not included between the proportional sides.\nChoice C is incorrect and may result from conceptual or calculation errors.",
+        "difficulty": "Hard",
+        "skill" :"Lines, angles, and triangles"
+      },
+      {
+        "number": 35,
+        "img":"img20",
+        "question": "Triangles ABC and DEF are shown above. Which of the following is equal to the ratio BC/AB?",
+        "options": {
+          "A": "DE/DF",
+          "B": "DF/DE",
+          "C": "DF/EF",
+          "D": "EF/DE"
+        },
+        "correct_answer": "B",
+        "rationale": "Choice B is correct. In right triangle ABC, the measure of angle B must be 58° because the sum of the measures of angles A (32°) and B must add to 90°. Angle D in triangle DEF also measures 58°, making the triangles similar by angle-angle similarity. Since BC is the side opposite angle A and AB is the hypotenuse, the ratio BC/AB corresponds to DF/DE in triangle DEF.\n\nAlternate approach: Using trigonometric ratios, in triangle ABC, BC/AB = sin(32°). Similarly, in triangle DEF, DF/DE = sin(32°), confirming that BC/AB = DF/DE.\n\nChoice A is incorrect because DE/DF is the reciprocal. Choice C is incorrect because it compares the wrong sides (DF/EF corresponds to BC/AC). Choice D is incorrect because EF/DE corresponds to AC/AB, not BC/AB.",
+        "difficulty": "Medium",
+        "skill" :"Lines, angles, and triangles"
+      },
+      {
+        "number": 36,
+        "img": "img21.png",
+        "question": "In the figure above, what is the length of NQ?",
+        "options": {
+          "A": "2.2",
+          "B": "2.3",
+          "C": "2.4",
+          "D": "2.5"
+        },
+        "correct_answer": "C",
+        "rationale": "Choice C is correct. MP is the hypotenuse of right triangle MNP, with legs 3 and 4. Thus, MP = 5 by the Pythagorean theorem. Because triangle MNP is similar to triangle NQP, the ratio of corresponding sides is constant. Using proportions, we find that NQ = 2.4.",
+        "difficulty": "Hard",
+        "skill": "Lines, angles, and triangles"
+      },      
+      {
+        "number": 37,
+        "question": "Triangle XYZ is similar to triangle RST such that X, Y, and Z correspond to R, S, and T, respectively. The measure of ∠Z is 20° and 2XY = RS. What is the measure of ∠T?",
+        "options": {
+          "A": "2°",
+          "B": "10°",
+          "C": "20°",
+           "D": "40°"
+        },
+        "correct_answer": "C",
+        "rationale": "Choice C is correct. Since triangle XYZ is similar to triangle RST and corresponding angles of similar triangles are congruent, the measure of ∠T is congruent to the measure of ∠Z. Given that the measure of ∠Z is 20°, the measure of ∠T is also 20°.\n\nChoices A, B, and D are incorrect and may result from conceptual errors.",
+        "difficulty": "Hard",
+        "skill": "Lines, angles, and triangles"
+      },
+      {
+        "number": 38,
+        "img": "img22.png",
+        "question": "In the figure shown, lines r and s are parallel, and line m intersects both lines. If y < 65, which of the following must be true?",
+        "choices": {
+          "A": "x < 115",
+          "B": "x > 115",
+          "C": "x + y < 180",
+          "D": "x + y > 180"
+        },
+        "correct_answer": "B",
+        "rationale": "Choice B is correct. In the figure shown, the angle measuring y° is congruent to its vertical angle formed by lines s and m, so the measure of the vertical angle is also y°. The vertical angle forms a same-side interior angle pair with the angle measuring x°. Since lines r and s are parallel, same-side interior angles are supplementary: x + y = 180°. Solving for x under the condition y < 65 results in x > 115.",
+        "difficulty": "Medium",
+        "skill": "Lines, angles, and triangles"
+      },
+      {
+        "number": 39,
+        "question": "Triangle ABC is similar to triangle XYZ, such that A, B, and C correspond to X, Y, and Z respectively. The length of each side of triangle XYZ is 2 times the length of its corresponding side in triangle ABC. The measure of side AB is 16. What is the measure of side XY?",
+        "options": {
+          "A": "14",
+          "B": "16",
+          "C": "18",
+          "D": "32"
+        },
+        "correct_answer": "D",
+        "rationale": "Choice D is correct. Triangle ABC is similar to triangle XYZ. Each side of XYZ is 2 times the length of the corresponding side in ABC. Since side AB is 16, side XY is 2 × 16 = 32. Thus, the correct answer is 32.",
+        "difficulty": "Medium",
+        "skill": "Lines, angles, and triangles"
+      },
+      {
+        "number": 40,
+        "question": "In triangle XYZ, the measure of angle X is 23° and the measure of angle Y is 66°. What is the measure of angle Z?",
+        "options": {
+          "A": "43°",
+          "B": "89°",
+          "C": "91°",
+          "D": "179°"
+        },
+        "correct_answer": "C",
+        "rationale": "Choice C is correct. The triangle angle sum theorem states that the sum of the measures of the interior angles of a triangle is 180°. Given that the measure of angle X is 23° and the measure of angle Y is 66°, it follows that the measure of angle Z is (180 - 23 - 66) = 91°.",
+        "difficulty": "Easy",
+        "skill": "Lines, angles, and triangles"
+      },
+      {
+        "number": 41,
+        "img": "img24.png",
+        "question": "In the figure, line m is parallel to line n, and line t intersects both lines. What is the value of x?",
+        "options": {
+          "A": "33",
+          "B": "57",
+          "C": "123",
+          "D": "147"
+        },
+        "correct_answer": "D",
+        "rationale": "Choice D is correct. It's given that line m is parallel to line n, and line t intersects both lines. It follows that line t is a transversal. When two lines are parallel and intersected by a transversal, exterior angles on the same side of the transversal are supplementary. Thus, x + 33 = 180. Subtracting 33 from both sides yields x = 147. Therefore, the value of x is 147.",
+        "difficulty": "Easy",
+        "skill": "Lines, angles, and triangles"
+      },
+      {
+        "number": 41,
+        "skill": "Right triangles and trigonometry",
+        "difficulty": "Medium",
+        "question": "Triangle FGH is similar to triangle JKL, where angle F corresponds to angle J and angles G and K are right angles. If sin(F) = 308/317, what is the value of sin(J)?",
+        "options": {
+          "A": "75/317",
+          "B": "308/317",
+          "C": "317/308",
+          "D": "317/75"
+        },
+        "correct_answer": "B",
+        "rationale": "Choice B is correct. If two triangles are similar, then their corresponding angles are congruent. It's given that right triangle FGH is similar to right triangle JKL and that angle F corresponds to angle J. It follows that angle F is congruent to angle J. The sine ratios of angles of equal measure are equal. Since the measure of angle F is equal to the measure of angle J, sin(F) = sin(J). It's given that sin(F) = 308/317. Therefore, sin(J) = 308/317.\nChoice A is incorrect. This is the value of cos(J), not the value of sin(J).\nChoice C is incorrect. This is the reciprocal of the value of sin(J), not the value of sin(J).\nChoice D is incorrect. This is the reciprocal of the value of cos(J), not the value of sin(J)."
+      },
+      {
+        "number": 42,
+        "skill": "Right triangles and trigonometry",
+        "difficulty": "Medium",
+        "question": "In right triangle RST, the sum of the measures of angle R and angle S is 90 degrees. The value of sin(R) is √15/4. What is the value of cos(S)?",
+        "options": {
+          "A": "√15/15",
+          "B": "√15/4",
+          "C": "4√15/15",
+          "D": "√15"
+        },
+        "correct_answer": "B",
+        "rationale": "Choice B is correct. The sine of any acute angle is equal to the cosine of its complement. It’s given that in right triangle RST, the sum of the measures of angle R and angle S is 90 degrees. Therefore, angle R and angle S are complementary, and the value of sin(R) is equal to the value of cos(S). It's given that the value of sin(R) is √15/4, so the value of cos(S) is also √15/4.\nChoice A is incorrect. This is the value of tan(S).\nChoice C is incorrect. This is the value of 1/cos(S).\nChoice D is incorrect. This is the value of 1/tan(S)."
+      },
+      {
+        "number": 43,
+        "img": "img28.png",
+        "skill": "Right triangles and trigonometry",
+        "difficulty": "Medium",
+        "question": "In the figure above, what is the value of tan(A)?",
+        "options": {
+          "A": "20/29",
+          "B": "21/29",
+          "C": "20/21",
+          "D": "21/20"
+        },
+        "correct_answer": "C",
+        "rationale": "Choice C is correct. Angle A is an acute angle in a right triangle, so the value of tan(A) is equivalent to the ratio of the length of the side opposite angle A (20) to the length of the nonhypotenuse side adjacent to angle A (21). Therefore, tan(A) = 20/21.\nChoice A is incorrect. This is the value of sin(A).\nChoice B is incorrect. This is the value of cos(A).\nChoice D is incorrect. This is the value of tan(B)."
+      },
+      {
+        "number": 44,
+        "img": "img30.png",
+        "skill": "Right triangles and trigonometry",
+        "difficulty": "Hard",
+        "question": "Triangle ABC above is a right triangle, and sin(B) = 5/13. What is the length of side BC?",
+        "options": "no options",
+        "correct_answer": "24",
+        "rationale": "The correct answer is 24. The sine of an acute angle in a right triangle is equal to the ratio of the length of the side opposite the angle to the length of the hypotenuse. In the triangle shown, the sine of angle B, or sin(B), is equal to the ratio of the length of side AC to the length of side AB. It’s given that the length of side AB is 26 and that sin(B) = 5/13. Therefore, 5/13 = AC/26. Multiplying both sides of this equation by 26 yields AC = 10.\n\nBy the Pythagorean Theorem, the relationship between the lengths of the sides of triangle ABC is as follows: 26² = 10² + BC², or 676 = 100 + BC². Subtracting 100 from both sides of 676 = 100 + BC² yields 576 = BC². Taking the square root of both sides of 576 = BC² yields 24 = BC."
+      },
+      {
+        "number": 45,
+        "img": "img31.png",
+        
+        "skill": "Right triangles and trigonometry",
+        "difficulty": "Easy",
+        "question": "Which equation shows the relationship between the side lengths of the given triangle?",
+        "choices": {
+          "A": "4b = 19",
+          "B": "4 + b = 19",
+          "C": "4² + b² = 19²",
+          "D": "4² − b² = 19²"
+        },
+        "correct_answer": "C",
+        "rationale": "Choice C is correct. The Pythagorean theorem states that in a right triangle, the sum of the squares of the lengths of the two legs is equal to the square of the length of the hypotenuse. Therefore, a² + b² = c², where a and b are the lengths of the legs and c is the length of the hypotenuse. For the given right triangle, the lengths of the legs are 4 and b, and the length of the hypotenuse is 19. Substituting 4 for a and 19 for c in the equation a² + b² = c² yields 4² + b² = 19². Thus, the relationship between the side lengths of the given triangle is 4² + b² = 19².\n\nChoice A is incorrect and may result from conceptual or calculation errors.\nChoice B is incorrect and may result from conceptual or calculation errors.\nChoice D is incorrect and may result from conceptual or calculation errors."
+      },
+      {
+        "number": 46,
+        "img": "img32.png",
+        "skill": "Right triangles and trigonometry",
+        "difficulty": "Hard",
+        "question": "In the triangle shown, what is the value of sin(x°)?",
+        "choices": "no option",
+        "correct_answer": ["0.6956", "0.6957", "0.695", "0.696", "16/23"],
+        "rationale": "The correct answer is 16/23. In a right triangle, the sine of an acute angle is defined as the ratio of the length of the side opposite the angle to the length of the hypotenuse. In the triangle shown, the length of the side opposite the angle with measure x° is 16 units and the length of the hypotenuse is 23 units. Therefore, the value of sin(x°) is 16/23. Note that 16/23, 0.6956, 0.6957, 0.695, and 0.696 are acceptable correct forms."
+      },
+      {
+        "number": 47,
+        "img": "img32.png",
+        "domain": "Geometry and Trigonometry",
+        "skill": "Area and perimeter",
+        "difficulty": "Hard",
+        "question": "A graphic designer is creating a logo for a company. The logo is shown in the figure above. The logo is in the shape of a trapezoid and consists of three congruent equilateral triangles. If the perimeter of the logo is 20 centimeters, what is the combined area of the shaded regions, in square centimeters, of the logo?",
+        "choices": [
+          "2√3",
+          "4√3",
+          "8√3",
+          "16"
+        ],
+        "correct_answer": "8√3",
+        "rationale": "The logo consists of three congruent equilateral triangles forming a trapezoid. With a perimeter of 20 cm and five equal sides (3 sides of triangles + 2 bases), each side is 4 cm. Splitting a triangle gives a 30°-60°-90° triangle with sides 2 cm, 2√3 cm, and 4 cm. Area of one triangle: (1/2)(4)(2√3) = 4√3 cm². Two triangles are shaded: 2×(4√3) = 8√3 cm². Alternatively, trapezoid area is (1/2)(b₁+b₂)h = 12√3/2 = 6√3, two-thirds of it is 8√3 cm²."
       }
       
       
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+
       
       
       
