@@ -466,7 +466,7 @@
         "number": 38,
         "img": "img22.png",
         "question": "In the figure shown, lines r and s are parallel, and line m intersects both lines. If y < 65, which of the following must be true?",
-        "choices": {
+        "options": {
           "A": "x < 115",
           "B": "x > 115",
           "C": "x + y < 180",
@@ -580,7 +580,7 @@
         "skill": "Right triangles and trigonometry",
         "difficulty": "Easy",
         "question": "Which equation shows the relationship between the side lengths of the given triangle?",
-        "choices": {
+        "options": {
           "A": "4b = 19",
           "B": "4 + b = 19",
           "C": "4² + b² = 19²",
@@ -595,7 +595,7 @@
         "skill": "Right triangles and trigonometry",
         "difficulty": "Hard",
         "question": "In the triangle shown, what is the value of sin(x°)?",
-        "choices": "no option",
+        "options": "no option",
         "correct_answer": ["0.6956", "0.6957", "0.695", "0.696", "16/23"],
         "rationale": "The correct answer is 16/23. In a right triangle, the sine of an acute angle is defined as the ratio of the length of the side opposite the angle to the length of the hypotenuse. In the triangle shown, the length of the side opposite the angle with measure x° is 16 units and the length of the hypotenuse is 23 units. Therefore, the value of sin(x°) is 16/23. Note that 16/23, 0.6956, 0.6957, 0.695, and 0.696 are acceptable correct forms."
       },
@@ -605,7 +605,7 @@
         "skill": "Right triangles and trigonometry",
         "difficulty": "Hard",
         "question": "A graphic designer is creating a logo for a company. The logo is shown in the figure above. The logo is in the shape of a trapezoid and consists of three congruent equilateral triangles. If the perimeter of the logo is 20 centimeters, what is the combined area of the shaded regions, in square centimeters, of the logo?",
-        "choices": [
+        "options": [
           "2√3",
           "4√3",
           "8√3",
@@ -657,7 +657,7 @@
         "skill": "Right triangles and trigonometry",
         "difficulty": "Hard",
         "question": "An isosceles right triangle has a hypotenuse of length 58 inches. What is the perimeter, in inches, of this triangle?",
-        "choices": [
+        "options": [
           "29√2",
           "58√2",
           "58 + 58√2",
@@ -665,7 +665,104 @@
         ],
         "correct_answer": "58 + 58√2",
         "rationale": "Since the triangle is isosceles right, both legs are equal. Using the Pythagorean theorem: x² + x² = 58² → 2x² = 58² → x = (58√2)/2 = 29√2. Thus, perimeter = 58 + 2(29√2) = 58 + 58√2."
+      },
+      {
+        "number": 52,
+        "skill": "Right triangles and trigonometry",
+        "question": "A triangle with angle measures 30°, 60°, and 90° has a perimeter of 18 plus 6 times the square root of 3. What is the length of the longest side of the triangle?",
+        "options": [ "No Options"],
+        "correct_answer": "12",
+        "rationale": "The correct answer is 12. It is given that the triangle has angle measures of 30°, 60°, and 90°, and so the triangle is a special right triangle. The side measures of this type of special triangle are in the ratio 2:1:√3. If x is the measure of the shortest leg, then the measure of the other leg is √3·x and the measure of the hypotenuse is 2x. The perimeter of the triangle is given to be 18 + 6√3, so the equation for the perimeter is: 2x + x + √3·x = 18 + 6√3. Combining like terms gives (3 + √3)x = 18 + 6√3. Factoring out 6 on the right-hand side gives (3 + √3)x = 6(3 + √3). Dividing both sides by (3 + √3) gives x = 6. The hypotenuse, or longest side, is 2x = 12.",
+        "difficulty": "Hard",
+        "topic": "Geometry",
+        "type": "Short Answer"
+      },
+      {
+        "number": 53,
+        "skill": "Right triangles and trigonometry",
+        "question": "In triangle JKL, cos(K) = 24/51 and angle J is a right angle. What is the value of cos(L)?",
+        "correct_answer": "15/17",
+        "options": [ "No Options"],
+        "alternate_answers": ["0.8823", "0.8824"],
+        "rationale": "The correct answer is 15/17. It's given that angle J is the right angle in triangle JKL. Therefore, the acute angles of triangle JKL are angle K and angle L. The hypotenuse of a right triangle is the side opposite its right angle. Therefore, the hypotenuse of triangle JKL is side KL. The cosine of an acute angle in a right triangle is the ratio of the length of the side adjacent to the angle to the length of the hypotenuse. It's given that cos(K) = 24/51. This can be written as cos(K) = 8/17. Since the cosine of angle K is a ratio, it follows that the length of the side adjacent to angle K is 8n and the length of the hypotenuse is 17n, where n is a constant. Therefore, JK = 8n and KL = 17n. The Pythagorean theorem states that in a right triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the lengths of the other two sides. For triangle JKL, it follows that (JK)^2 + (JL)^2 = (KL)^2. Substituting 8n for JK and 17n for KL yields (8n)^2 + (JL)^2 = (17n)^2. This is equivalent to 64n^2 + (JL)^2 = 289n^2. Subtracting 64n^2 from each side of this equation yields (JL)^2 = 225n^2. Taking the square root of each side yields JL = 15n. Since cos(L) = JL / KL, it follows that cos(L) = 15n / 17n = 15/17. Note that 15/17, 0.8823, and 0.8824 are all acceptable answers.",
+        "difficulty": "Hard",
+        "topic": "Trigonometry",
+        "type": "Short Answer"
+      },
+      {
+        "number": 54,
+        "options": [ "No Options"],
+        "img": "img36.png",
+        "skill": "Right triangles and trigonometry",
+        "question": "In the figure above, BD is parallel to AE. What is the length of CE?",
+        "correct_answer": "30",
+        "rationale": "The correct answer is 30. In the figure given, since BD is parallel to AE and both segments are intersected by CE, angle BDC and angle AEC are corresponding angles and therefore congruent. Angle BCD and angle ACE are also congruent because they are the same angle. Therefore, triangle BCD and triangle ACE are similar by the AA similarity criterion. Since triangle ACE and triangle BCD are similar, their corresponding sides are proportional. So BD corresponds to AE and CD corresponds to CE. Since triangle BCD is a right triangle, we use the Pythagorean theorem to find CD: 6² + 8² = CD² → CD = 10. Using the proportion BD/CD = AE/CE gives 6/10 = 18/CE. Solving for CE yields CE = 30.",
+        "difficulty": "Hard",
+        "topic": "Geometry",
+        "type": "Short Answer"
+      },
+      {
+        "number": 55,
+        "options": [ "No Options"],
+        "img": "img37.png",
+        "skill": "Right triangles and trigonometry",
+        "question": "In the right triangle shown above, what is the length of PQ?",
+        "correct_answer": "4",
+        "rationale": "The correct answer is 4. Triangle PQR has angle measures of 30° and 90°, so the third angle must be 60° because the sum of the angles in a triangle is 180°. This is a 30°-60°-90° special triangle, where the hypotenuse is twice the length of the shorter leg (opposite the 30° angle). Segment PQ is opposite the 30° angle, and PR (the hypotenuse) is 8. Therefore, 2(PQ) = 8, which means PQ = 4.",
+        "difficulty": "Medium",
+        "topic": "Geometry",
+        "type": "Short Answer"
+      },
+      {
+        "number": 56,
+        "question": "In a right triangle, the tangent of one of the two acute angles is √3/3. What is the tangent of the other acute angle?",
+        "options": {
+          "A": "-√3/3",
+          "B": "-3/√3",
+          "C": "√3/3",
+          "D": "3/√3"
+        },
+        "correct_answer": "D",
+        "rationale": "Choice D is correct. The tangent of a non-right angle in a right triangle is defined as the ratio of the leg opposite the angle to the leg adjacent to the angle. For a triangle with legs of lengths a and b, the tangent of one acute angle is a/b and the other is b/a. Therefore, the tangents of the acute angles are reciprocals. The reciprocal of √3/3 is 3/√3, which is choice D. Choices A and B are incorrect due to sign errors, and choice C is incorrect because it repeats the original tangent instead of taking the reciprocal.",
+        "difficulty": "Hard",
+        "skill": "Right triangles and trigonometry",
+        "topic": "Trigonometry",
+        "type": "Multiple Choice"
+      },
+      {
+        "number": 57,
+        "question": "Triangle ABC is similar to triangle DEF, where angle A corresponds to angle D and angles C and F are right angles. The length of AB is 2.9 times the length of DE. If tan A = 21/20, what is the value of sin D?",
+        "correct_answer": "21/29",
+        "alternate_answers": [".7241", "0.724"],
+        "rationale": "The correct answer is 21/29. Since triangle ABC is similar to triangle DEF and angle A corresponds to angle D, tan D = tan A = 21/20. This means the ratio of the opposite side (EF) to the adjacent side (DF) is 21 to 20. Using the Pythagorean theorem, the hypotenuse DE is √(21² + 20²) = √841 = 29. Since sin D is opposite/hypotenuse, it equals 21/29. Equivalent decimal answers like .7241 and 0.724 are also acceptable.",
+        "difficulty": "Hard",
+        "topic": "Trigonometry",
+        "options": [ "No Options"],
+        "skill": "Right triangles and trigonometry",
+        "type": "Short Answer"
+      },
+      {
+        "number": 58,
+        "question": "The length of a rectangle’s diagonal is 5√17, and the length of the rectangle’s shorter side is 5. What is the length of the rectangle’s longer side?",
+        "options": {
+          "A": "√17",
+          "B": "20",
+          "C": "15√2",
+          "D": "400"
+        },
+        "correct_answer": "B",
+        "rationale": "Choice B is correct. A rectangle’s diagonal divides it into two congruent right triangles, where the diagonal is the hypotenuse. Given a diagonal of 5√17 and a shorter side of 5, use the Pythagorean theorem: a² + b² = c². Substituting, 5² + b² = (5√17)² → 25 + b² = 425 → b² = 400 → b = 20. So, the longer side is 20. Choices A, C, and D reflect common misconceptions or miscalculations: A divides the diagonal incorrectly, C misuses the diagonal as a leg, and D mistakenly squares the longer side.",
+        "difficulty": "Medium",
+        "topic": "Geometry",
+        "skill": "Right triangles and trigonometry",
+        "type": "Multiple Choice"
       }
+      
+      
+      
+      
+
+      
          
       
   ]

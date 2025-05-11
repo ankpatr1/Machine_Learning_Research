@@ -1,0 +1,3296 @@
+{
+  "total_questions": 51,
+  "questions": [
+    {
+      "number": 1,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": 2520,
+      "is_correct": false
+    },
+    {
+      "number": 2,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "17,136.0",
+      "correct_answer": "17,136.0",
+      "is_correct": true
+    },
+    {
+      "number": 3,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "5",
+      "correct_answer": "5",
+      "is_correct": true
+    },
+    {
+      "number": 4,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "80,200",
+      "correct_answer": "80,200",
+      "is_correct": true
+    },
+    {
+      "number": 5,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "9",
+      "correct_answer": "9",
+      "is_correct": true
+    },
+    {
+      "number": 6,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "**17.5**",
+      "correct_answer": "17.5",
+      "is_correct": false
+    },
+    {
+      "number": 7,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "24",
+      "correct_answer": "24",
+      "is_correct": true
+    },
+    {
+      "number": 8,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "5",
+      "correct_answer": "5",
+      "is_correct": true
+    },
+    {
+      "number": 9,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "4.44",
+      "is_correct": false
+    },
+    {
+      "number": 10,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "320",
+      "correct_answer": "320",
+      "is_correct": true
+    },
+    {
+      "number": 11,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "18",
+      "correct_answer": "18",
+      "is_correct": true
+    },
+    {
+      "number": 12,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "160",
+      "is_correct": false
+    },
+    {
+      "number": 13,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1.3",
+      "is_correct": false
+    },
+    {
+      "number": 14,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "20",
+      "correct_answer": "20",
+      "is_correct": true
+    },
+    {
+      "number": 15,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "n",
+      "correct_answer": "348",
+      "is_correct": false
+    },
+    {
+      "number": 16,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "588",
+      "correct_answer": "588",
+      "is_correct": true
+    },
+    {
+      "number": 17,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "25.4",
+      "is_correct": false
+    },
+    {
+      "number": 18,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "17",
+      "correct_answer": "17",
+      "is_correct": true
+    },
+    {
+      "number": 19,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "(4/3)w",
+      "correct_answer": "(4/3)w",
+      "is_correct": true
+    },
+    {
+      "number": 20,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1 to 4",
+      "is_correct": false
+    },
+    {
+      "number": 21,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "p = 5x",
+      "is_correct": false
+    },
+    {
+      "number": 22,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "n",
+      "correct_answer": "8",
+      "is_correct": false
+    },
+    {
+      "number": 23,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "60%",
+      "correct_answer": "60%",
+      "is_correct": true
+    },
+    {
+      "number": 24,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "6,027",
+      "is_correct": false
+    },
+    {
+      "number": 25,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "C (assuming C is the choice corresponding to 33.33%)",
+      "correct_answer": "75",
+      "is_correct": false
+    },
+    {
+      "number": 26,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "$21.00",
+      "correct_answer": "$21.00",
+      "is_correct": true
+    },
+    {
+      "number": 27,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "Viewers voting by social media were more likely to prefer Contestant 2 than were viewers voting by text message.",
+      "is_correct": false
+    },
+    {
+      "number": 28,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "1,170,000",
+      "correct_answer": "1,170,000",
+      "is_correct": true
+    },
+    {
+      "number": 29,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "294",
+      "correct_answer": "294",
+      "is_correct": true
+    },
+    {
+      "number": 30,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "56",
+      "correct_answer": "56",
+      "is_correct": true
+    },
+    {
+      "number": 31,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "23",
+      "is_correct": false
+    },
+    {
+      "number": 32,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "1.43w",
+      "correct_answer": "1.43w",
+      "is_correct": true
+    },
+    {
+      "number": 32,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "1.07",
+      "correct_answer": "1.07",
+      "is_correct": true
+    },
+    {
+      "number": 33,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "47",
+      "correct_answer": "47",
+      "is_correct": true
+    },
+    {
+      "number": 34,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "1.09x",
+      "correct_answer": "1.09x",
+      "is_correct": true
+    },
+    {
+      "number": 35,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "**1.36**",
+      "correct_answer": "1.36",
+      "is_correct": false
+    },
+    {
+      "number": 36,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "o",
+      "correct_answer": "0.54",
+      "is_correct": false
+    },
+    {
+      "number": 37,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "600",
+      "correct_answer": "600",
+      "is_correct": true
+    },
+    {
+      "number": 38,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "**A**",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 39,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "<choice>",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 40,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 41,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 42,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "**A** (assuming that the most reasonable order for a symmetric distribution of ages is mode = median = mean).",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 43,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "A",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 44,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "The average number of boxes sold per student can be calculated.",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 45,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 46,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": 52,
+      "is_correct": false
+    },
+    {
+      "number": 47,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 48,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "79",
+      "correct_answer": 79,
+      "is_correct": true
+    },
+    {
+      "number": 49,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 50,
+      "model": "gpt-4",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 1,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "option (No specific choice to select, as only \"option\" is listed. If you clarify or repost the answer options, I can pick the correct one.)",
+      "correct_answer": 2520,
+      "is_correct": false
+    },
+    {
+      "number": 2,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "17,136.0",
+      "correct_answer": "17,136.0",
+      "is_correct": true
+    },
+    {
+      "number": 3,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "5",
+      "is_correct": false
+    },
+    {
+      "number": 4,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "80,200",
+      "correct_answer": "80,200",
+      "is_correct": true
+    },
+    {
+      "number": 5,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "9",
+      "correct_answer": "9",
+      "is_correct": true
+    },
+    {
+      "number": 6,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "17.5",
+      "correct_answer": "17.5",
+      "is_correct": true
+    },
+    {
+      "number": 7,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "24",
+      "correct_answer": "24",
+      "is_correct": true
+    },
+    {
+      "number": 8,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "5",
+      "correct_answer": "5",
+      "is_correct": true
+    },
+    {
+      "number": 9,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "4.44",
+      "is_correct": false
+    },
+    {
+      "number": 10,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "320",
+      "is_correct": false
+    },
+    {
+      "number": 11,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "18",
+      "correct_answer": "18",
+      "is_correct": true
+    },
+    {
+      "number": 12,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "160",
+      "is_correct": false
+    },
+    {
+      "number": 13,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "1.3",
+      "correct_answer": "1.3",
+      "is_correct": true
+    },
+    {
+      "number": 14,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "20",
+      "correct_answer": "20",
+      "is_correct": true
+    },
+    {
+      "number": 15,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "348 feet",
+      "correct_answer": "348",
+      "is_correct": false
+    },
+    {
+      "number": 16,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "588",
+      "correct_answer": "588",
+      "is_correct": true
+    },
+    {
+      "number": 17,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "25.4 miles per hour",
+      "correct_answer": "25.4",
+      "is_correct": false
+    },
+    {
+      "number": 18,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "17",
+      "correct_answer": "17",
+      "is_correct": true
+    },
+    {
+      "number": 19,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "(4/3)w",
+      "correct_answer": "(4/3)w",
+      "is_correct": true
+    },
+    {
+      "number": 20,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "1 to 4",
+      "correct_answer": "1 to 4",
+      "is_correct": true
+    },
+    {
+      "number": 21,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "p = 5x",
+      "correct_answer": "p = 5x",
+      "is_correct": true
+    },
+    {
+      "number": 22,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "8",
+      "is_correct": false
+    },
+    {
+      "number": 23,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "60%",
+      "correct_answer": "60%",
+      "is_correct": true
+    },
+    {
+      "number": 24,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "6,027",
+      "is_correct": false
+    },
+    {
+      "number": 25,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "50",
+      "correct_answer": "75",
+      "is_correct": false
+    },
+    {
+      "number": 26,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "$21.00",
+      "correct_answer": "$21.00",
+      "is_correct": true
+    },
+    {
+      "number": 27,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "Viewers voting by social media were more likely to prefer Contestant 2 than were viewers voting by text message.",
+      "is_correct": false
+    },
+    {
+      "number": 28,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "1,170,000",
+      "correct_answer": "1,170,000",
+      "is_correct": true
+    },
+    {
+      "number": 29,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "294",
+      "correct_answer": "294",
+      "is_correct": true
+    },
+    {
+      "number": 30,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "56",
+      "correct_answer": "56",
+      "is_correct": true
+    },
+    {
+      "number": 31,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "23",
+      "correct_answer": "23",
+      "is_correct": true
+    },
+    {
+      "number": 32,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "1.43w",
+      "correct_answer": "1.43w",
+      "is_correct": true
+    },
+    {
+      "number": 32,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "1.07",
+      "correct_answer": "1.07",
+      "is_correct": true
+    },
+    {
+      "number": 33,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "47",
+      "correct_answer": "47",
+      "is_correct": true
+    },
+    {
+      "number": 34,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "1.09x",
+      "correct_answer": "1.09x",
+      "is_correct": true
+    },
+    {
+      "number": 35,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "1.36",
+      "correct_answer": "1.36",
+      "is_correct": true
+    },
+    {
+      "number": 36,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "0.54",
+      "is_correct": false
+    },
+    {
+      "number": 37,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "600",
+      "correct_answer": "600",
+      "is_correct": true
+    },
+    {
+      "number": 38,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "A",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 39,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "C (assuming C corresponds to 0.89h or (89/100)h)",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 40,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 41,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 42,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 43,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 44,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "The average (mean) number of boxes per student.",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 45,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 46,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": 52,
+      "is_correct": false
+    },
+    {
+      "number": 47,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 48,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "79",
+      "correct_answer": 79,
+      "is_correct": true
+    },
+    {
+      "number": 49,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 50,
+      "model": "gpt-4o",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 1,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "no option",
+      "correct_answer": 2520,
+      "is_correct": false
+    },
+    {
+      "number": 2,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "17,136.0",
+      "is_correct": false
+    },
+    {
+      "number": 3,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "5",
+      "is_correct": false
+    },
+    {
+      "number": 4,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "80,200",
+      "correct_answer": "80,200",
+      "is_correct": true
+    },
+    {
+      "number": 5,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "9",
+      "is_correct": false
+    },
+    {
+      "number": 6,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "17.5",
+      "correct_answer": "17.5",
+      "is_correct": true
+    },
+    {
+      "number": 7,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "24",
+      "is_correct": false
+    },
+    {
+      "number": 8,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "5",
+      "is_correct": false
+    },
+    {
+      "number": 9,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "4.44",
+      "is_correct": false
+    },
+    {
+      "number": 10,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "320",
+      "correct_answer": "320",
+      "is_correct": true
+    },
+    {
+      "number": 11,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "18",
+      "correct_answer": "18",
+      "is_correct": true
+    },
+    {
+      "number": 12,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "160",
+      "is_correct": false
+    },
+    {
+      "number": 13,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1.3",
+      "is_correct": false
+    },
+    {
+      "number": 14,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "20",
+      "correct_answer": "20",
+      "is_correct": true
+    },
+    {
+      "number": 15,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "348 feet",
+      "correct_answer": "348",
+      "is_correct": false
+    },
+    {
+      "number": 16,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "588",
+      "is_correct": false
+    },
+    {
+      "number": 17,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "25.4",
+      "is_correct": false
+    },
+    {
+      "number": 18,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "17",
+      "is_correct": false
+    },
+    {
+      "number": 19,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "(4/3)w",
+      "correct_answer": "(4/3)w",
+      "is_correct": true
+    },
+    {
+      "number": 20,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "1 to 4",
+      "correct_answer": "1 to 4",
+      "is_correct": true
+    },
+    {
+      "number": 21,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "5x",
+      "correct_answer": "p = 5x",
+      "is_correct": false
+    },
+    {
+      "number": 22,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "8",
+      "is_correct": false
+    },
+    {
+      "number": 23,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "60%",
+      "is_correct": false
+    },
+    {
+      "number": 24,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "6,027",
+      "is_correct": false
+    },
+    {
+      "number": 25,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "75",
+      "is_correct": false
+    },
+    {
+      "number": 26,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "$21.00",
+      "correct_answer": "$21.00",
+      "is_correct": true
+    },
+    {
+      "number": 27,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "Viewers voting by social media were more likely to prefer Contestant 2 than were viewers voting by text message.",
+      "is_correct": false
+    },
+    {
+      "number": 28,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1,170,000",
+      "is_correct": false
+    },
+    {
+      "number": 29,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "294",
+      "correct_answer": "294",
+      "is_correct": true
+    },
+    {
+      "number": 30,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "56",
+      "correct_answer": "56",
+      "is_correct": true
+    },
+    {
+      "number": 31,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "23",
+      "correct_answer": "23",
+      "is_correct": true
+    },
+    {
+      "number": 32,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1.43w",
+      "is_correct": false
+    },
+    {
+      "number": 32,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "1.07",
+      "correct_answer": "1.07",
+      "is_correct": true
+    },
+    {
+      "number": 33,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "47",
+      "correct_answer": "47",
+      "is_correct": true
+    },
+    {
+      "number": 34,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "1.09x",
+      "correct_answer": "1.09x",
+      "is_correct": true
+    },
+    {
+      "number": 35,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "1.36",
+      "correct_answer": "1.36",
+      "is_correct": true
+    },
+    {
+      "number": 36,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "0.54 (not matching any letter option, so answer is numeric 0.54)",
+      "correct_answer": "0.54",
+      "is_correct": false
+    },
+    {
+      "number": 37,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "600",
+      "is_correct": false
+    },
+    {
+      "number": 38,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 39,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 40,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 41,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 42,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 43,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 44,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "Average boxes sold per student.",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 45,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 46,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "52",
+      "correct_answer": 52,
+      "is_correct": true
+    },
+    {
+      "number": 47,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 48,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "79",
+      "correct_answer": 79,
+      "is_correct": true
+    },
+    {
+      "number": 49,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 50,
+      "model": "gpt-4o-mini",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 1,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "option",
+      "correct_answer": 2520,
+      "is_correct": false
+    },
+    {
+      "number": 2,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "17,136.0",
+      "is_correct": false
+    },
+    {
+      "number": 3,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "5",
+      "is_correct": false
+    },
+    {
+      "number": 4,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "80,200",
+      "is_correct": false
+    },
+    {
+      "number": 5,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "9",
+      "correct_answer": "9",
+      "is_correct": true
+    },
+    {
+      "number": 6,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "17.5",
+      "correct_answer": "17.5",
+      "is_correct": true
+    },
+    {
+      "number": 7,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "24",
+      "is_correct": false
+    },
+    {
+      "number": 8,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "5",
+      "correct_answer": "5",
+      "is_correct": true
+    },
+    {
+      "number": 9,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "4.44",
+      "is_correct": false
+    },
+    {
+      "number": 10,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "320",
+      "is_correct": false
+    },
+    {
+      "number": 11,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "18",
+      "correct_answer": "18",
+      "is_correct": true
+    },
+    {
+      "number": 12,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "160",
+      "is_correct": false
+    },
+    {
+      "number": 13,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1.3",
+      "is_correct": false
+    },
+    {
+      "number": 14,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "20",
+      "is_correct": false
+    },
+    {
+      "number": 15,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "p",
+      "correct_answer": "348",
+      "is_correct": false
+    },
+    {
+      "number": 16,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "588",
+      "is_correct": false
+    },
+    {
+      "number": 17,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "o",
+      "correct_answer": "25.4",
+      "is_correct": false
+    },
+    {
+      "number": 18,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "17",
+      "is_correct": false
+    },
+    {
+      "number": 19,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "(4/3)w",
+      "correct_answer": "(4/3)w",
+      "is_correct": true
+    },
+    {
+      "number": 20,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1 to 4",
+      "is_correct": false
+    },
+    {
+      "number": 21,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "p = 5x",
+      "is_correct": false
+    },
+    {
+      "number": 22,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "8",
+      "is_correct": false
+    },
+    {
+      "number": 23,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "60%",
+      "is_correct": false
+    },
+    {
+      "number": 24,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "6,027",
+      "is_correct": false
+    },
+    {
+      "number": 25,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "C",
+      "correct_answer": "75",
+      "is_correct": false
+    },
+    {
+      "number": 26,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "$21.00",
+      "correct_answer": "$21.00",
+      "is_correct": true
+    },
+    {
+      "number": 27,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "Viewers voting by social media were more likely to prefer Contestant 2 than were viewers voting by text message.",
+      "is_correct": false
+    },
+    {
+      "number": 28,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1,170,000",
+      "is_correct": false
+    },
+    {
+      "number": 29,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "294",
+      "is_correct": false
+    },
+    {
+      "number": 30,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "N o n s",
+      "correct_answer": "56",
+      "is_correct": false
+    },
+    {
+      "number": 31,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "23",
+      "is_correct": false
+    },
+    {
+      "number": 32,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1.43w",
+      "is_correct": false
+    },
+    {
+      "number": 32,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1.07",
+      "is_correct": false
+    },
+    {
+      "number": 33,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "47",
+      "correct_answer": "47",
+      "is_correct": true
+    },
+    {
+      "number": 34,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1.09x",
+      "is_correct": false
+    },
+    {
+      "number": 35,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1.36",
+      "is_correct": false
+    },
+    {
+      "number": 36,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "0.54",
+      "is_correct": false
+    },
+    {
+      "number": 37,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "600",
+      "is_correct": false
+    },
+    {
+      "number": 38,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 39,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "B",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 40,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 41,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "D",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 42,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 43,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 44,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 45,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 46,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "o",
+      "correct_answer": 52,
+      "is_correct": false
+    },
+    {
+      "number": 47,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "A",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 48,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "79",
+      "correct_answer": 79,
+      "is_correct": true
+    },
+    {
+      "number": 49,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 50,
+      "model": "llama-3.1-8b",
+      "style": "tree_of_thought",
+      "predicted": "16",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 1,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": 2520,
+      "is_correct": false
+    },
+    {
+      "number": 2,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "17,136.0",
+      "is_correct": false
+    },
+    {
+      "number": 3,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "5",
+      "is_correct": false
+    },
+    {
+      "number": 4,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "80,200",
+      "is_correct": false
+    },
+    {
+      "number": 5,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "9",
+      "is_correct": false
+    },
+    {
+      "number": 6,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "17.5",
+      "is_correct": false
+    },
+    {
+      "number": 7,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "24",
+      "is_correct": false
+    },
+    {
+      "number": 8,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "5",
+      "is_correct": false
+    },
+    {
+      "number": 9,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "4.44",
+      "is_correct": false
+    },
+    {
+      "number": 10,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "320",
+      "is_correct": false
+    },
+    {
+      "number": 11,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "18",
+      "is_correct": false
+    },
+    {
+      "number": 12,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "160",
+      "is_correct": false
+    },
+    {
+      "number": 13,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1.3",
+      "is_correct": false
+    },
+    {
+      "number": 14,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "20",
+      "is_correct": false
+    },
+    {
+      "number": 15,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "348",
+      "is_correct": false
+    },
+    {
+      "number": 16,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "588",
+      "is_correct": false
+    },
+    {
+      "number": 17,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "25.4",
+      "is_correct": false
+    },
+    {
+      "number": 18,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "17",
+      "is_correct": false
+    },
+    {
+      "number": 19,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "(4/3)w",
+      "is_correct": false
+    },
+    {
+      "number": 20,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1 to 4",
+      "is_correct": false
+    },
+    {
+      "number": 21,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "p = 5x",
+      "is_correct": false
+    },
+    {
+      "number": 22,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "8",
+      "is_correct": false
+    },
+    {
+      "number": 23,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "60%",
+      "is_correct": false
+    },
+    {
+      "number": 24,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "6,027",
+      "is_correct": false
+    },
+    {
+      "number": 25,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "75",
+      "is_correct": false
+    },
+    {
+      "number": 26,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "$21.00",
+      "is_correct": false
+    },
+    {
+      "number": 27,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "Viewers voting by social media were more likely to prefer Contestant 2 than were viewers voting by text message.",
+      "is_correct": false
+    },
+    {
+      "number": 28,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1,170,000",
+      "is_correct": false
+    },
+    {
+      "number": 29,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "294",
+      "is_correct": false
+    },
+    {
+      "number": 30,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "56",
+      "is_correct": false
+    },
+    {
+      "number": 31,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "23",
+      "is_correct": false
+    },
+    {
+      "number": 32,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1.43w",
+      "is_correct": false
+    },
+    {
+      "number": 32,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1.07",
+      "is_correct": false
+    },
+    {
+      "number": 33,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "47",
+      "is_correct": false
+    },
+    {
+      "number": 34,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1.09x",
+      "is_correct": false
+    },
+    {
+      "number": 35,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1.36",
+      "is_correct": false
+    },
+    {
+      "number": 36,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "0.54",
+      "is_correct": false
+    },
+    {
+      "number": 37,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "600",
+      "is_correct": false
+    },
+    {
+      "number": 38,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 39,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 40,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 41,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 42,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 43,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 44,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 45,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 46,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": 52,
+      "is_correct": false
+    },
+    {
+      "number": 47,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 48,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": 79,
+      "is_correct": false
+    },
+    {
+      "number": 49,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 50,
+      "model": "llama-3.1-70b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 1,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": 2520,
+      "is_correct": false
+    },
+    {
+      "number": 2,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "17,136.0",
+      "is_correct": false
+    },
+    {
+      "number": 3,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "5",
+      "is_correct": false
+    },
+    {
+      "number": 4,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "80,200",
+      "is_correct": false
+    },
+    {
+      "number": 5,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "9",
+      "is_correct": false
+    },
+    {
+      "number": 6,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "17.5",
+      "is_correct": false
+    },
+    {
+      "number": 7,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "24",
+      "is_correct": false
+    },
+    {
+      "number": 8,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "5",
+      "is_correct": false
+    },
+    {
+      "number": 9,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "4.44",
+      "is_correct": false
+    },
+    {
+      "number": 10,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "320",
+      "is_correct": false
+    },
+    {
+      "number": 11,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "18",
+      "is_correct": false
+    },
+    {
+      "number": 12,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "160",
+      "is_correct": false
+    },
+    {
+      "number": 13,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1.3",
+      "is_correct": false
+    },
+    {
+      "number": 14,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "20",
+      "is_correct": false
+    },
+    {
+      "number": 15,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "348",
+      "is_correct": false
+    },
+    {
+      "number": 16,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "588",
+      "is_correct": false
+    },
+    {
+      "number": 17,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "25.4",
+      "is_correct": false
+    },
+    {
+      "number": 18,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "17",
+      "is_correct": false
+    },
+    {
+      "number": 19,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "(4/3)w",
+      "is_correct": false
+    },
+    {
+      "number": 20,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1 to 4",
+      "is_correct": false
+    },
+    {
+      "number": 21,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "p = 5x",
+      "is_correct": false
+    },
+    {
+      "number": 22,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "8",
+      "is_correct": false
+    },
+    {
+      "number": 23,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "60%",
+      "is_correct": false
+    },
+    {
+      "number": 24,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "6,027",
+      "is_correct": false
+    },
+    {
+      "number": 25,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "75",
+      "is_correct": false
+    },
+    {
+      "number": 26,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "$21.00",
+      "is_correct": false
+    },
+    {
+      "number": 27,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "Viewers voting by social media were more likely to prefer Contestant 2 than were viewers voting by text message.",
+      "is_correct": false
+    },
+    {
+      "number": 28,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1,170,000",
+      "is_correct": false
+    },
+    {
+      "number": 29,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "294",
+      "is_correct": false
+    },
+    {
+      "number": 30,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "56",
+      "is_correct": false
+    },
+    {
+      "number": 31,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "23",
+      "is_correct": false
+    },
+    {
+      "number": 32,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1.43w",
+      "is_correct": false
+    },
+    {
+      "number": 32,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1.07",
+      "is_correct": false
+    },
+    {
+      "number": 33,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "47",
+      "is_correct": false
+    },
+    {
+      "number": 34,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1.09x",
+      "is_correct": false
+    },
+    {
+      "number": 35,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1.36",
+      "is_correct": false
+    },
+    {
+      "number": 36,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "0.54",
+      "is_correct": false
+    },
+    {
+      "number": 37,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "600",
+      "is_correct": false
+    },
+    {
+      "number": 38,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 39,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 40,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 41,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 42,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 43,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 44,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 45,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 46,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": 52,
+      "is_correct": false
+    },
+    {
+      "number": 47,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 48,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": 79,
+      "is_correct": false
+    },
+    {
+      "number": 49,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 50,
+      "model": "llama-3.1-405b",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 1,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "**t**",
+      "correct_answer": 2520,
+      "is_correct": false
+    },
+    {
+      "number": 2,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "17,136.0",
+      "is_correct": false
+    },
+    {
+      "number": 3,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "5",
+      "correct_answer": "5",
+      "is_correct": true
+    },
+    {
+      "number": 4,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "80,200",
+      "correct_answer": "80,200",
+      "is_correct": true
+    },
+    {
+      "number": 5,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "9",
+      "correct_answer": "9",
+      "is_correct": true
+    },
+    {
+      "number": 6,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "17.5",
+      "correct_answer": "17.5",
+      "is_correct": true
+    },
+    {
+      "number": 7,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "24",
+      "correct_answer": "24",
+      "is_correct": true
+    },
+    {
+      "number": 8,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "5",
+      "correct_answer": "5",
+      "is_correct": true
+    },
+    {
+      "number": 9,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "**<not provided in the choices>**",
+      "correct_answer": "4.44",
+      "is_correct": false
+    },
+    {
+      "number": 10,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "320",
+      "is_correct": false
+    },
+    {
+      "number": 11,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "18",
+      "is_correct": false
+    },
+    {
+      "number": 12,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "160",
+      "is_correct": false
+    },
+    {
+      "number": 13,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1.3",
+      "is_correct": false
+    },
+    {
+      "number": 14,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "20",
+      "correct_answer": "20",
+      "is_correct": true
+    },
+    {
+      "number": 15,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "348",
+      "is_correct": false
+    },
+    {
+      "number": 16,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "588",
+      "is_correct": false
+    },
+    {
+      "number": 17,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "o",
+      "correct_answer": "25.4",
+      "is_correct": false
+    },
+    {
+      "number": 18,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "17",
+      "correct_answer": "17",
+      "is_correct": true
+    },
+    {
+      "number": 19,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "(4/3)w",
+      "correct_answer": "(4/3)w",
+      "is_correct": true
+    },
+    {
+      "number": 20,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1 to 4",
+      "is_correct": false
+    },
+    {
+      "number": 21,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "p = 5x",
+      "correct_answer": "p = 5x",
+      "is_correct": true
+    },
+    {
+      "number": 22,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "8",
+      "is_correct": false
+    },
+    {
+      "number": 23,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "60%",
+      "correct_answer": "60%",
+      "is_correct": true
+    },
+    {
+      "number": 24,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "6,468",
+      "correct_answer": "6,027",
+      "is_correct": false
+    },
+    {
+      "number": 25,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "75",
+      "is_correct": false
+    },
+    {
+      "number": 26,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "$21.00",
+      "correct_answer": "$21.00",
+      "is_correct": true
+    },
+    {
+      "number": 27,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "Viewers voting by social media were more likely to prefer Contestant 2 than were viewers voting by text message.",
+      "correct_answer": "Viewers voting by social media were more likely to prefer Contestant 2 than were viewers voting by text message.",
+      "is_correct": true
+    },
+    {
+      "number": 28,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "1,170,000",
+      "is_correct": false
+    },
+    {
+      "number": 29,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "294",
+      "correct_answer": "294",
+      "is_correct": true
+    },
+    {
+      "number": 30,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "56",
+      "correct_answer": "56",
+      "is_correct": true
+    },
+    {
+      "number": 31,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "23",
+      "correct_answer": "23",
+      "is_correct": true
+    },
+    {
+      "number": 32,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "1.43w",
+      "correct_answer": "1.43w",
+      "is_correct": true
+    },
+    {
+      "number": 32,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "1.07",
+      "correct_answer": "1.07",
+      "is_correct": true
+    },
+    {
+      "number": 33,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "47",
+      "is_correct": false
+    },
+    {
+      "number": 34,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "1.09x",
+      "correct_answer": "1.09x",
+      "is_correct": true
+    },
+    {
+      "number": 35,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "1.36",
+      "correct_answer": "1.36",
+      "is_correct": true
+    },
+    {
+      "number": 36,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "o",
+      "correct_answer": "0.54",
+      "is_correct": false
+    },
+    {
+      "number": 37,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "600",
+      "is_correct": false
+    },
+    {
+      "number": 38,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "C",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 39,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "<D>",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 40,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 41,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 42,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 43,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "A",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 44,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "The average number of boxes sold per student.",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 45,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "C) 17",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 46,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "",
+      "correct_answer": 52,
+      "is_correct": false
+    },
+    {
+      "number": 47,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "Standard deviation",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 48,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "79",
+      "correct_answer": 79,
+      "is_correct": true
+    },
+    {
+      "number": 49,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "<choice>",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 50,
+      "model": "gemini-1.5-flash",
+      "style": "tree_of_thought",
+      "predicted": "16",
+      "correct_answer": "B",
+      "is_correct": false
+    }
+  ],
+  "accuracy": {
+    "tree_of_thought": {
+      "gpt-4": {
+        "correct": 23,
+        "total": 51
+      },
+      "gpt-4o": {
+        "correct": 27,
+        "total": 51
+      },
+      "gpt-4o-mini": {
+        "correct": 17,
+        "total": 51
+      },
+      "llama-3.1-8b": {
+        "correct": 8,
+        "total": 51
+      },
+      "llama-3.1-70b": {
+        "correct": 0,
+        "total": 51
+      },
+      "llama-3.1-405b": {
+        "correct": 0,
+        "total": 51
+      },
+      "gemini-1.5-flash": {
+        "correct": 22,
+        "total": 51
+      }
+    }
+  },
+  "overall_accuracy": {
+    "gpt-4-tree_of_thought": {
+      "correct": 23,
+      "total": 51,
+      "accuracy": 45.1
+    },
+    "gpt-4o-tree_of_thought": {
+      "correct": 27,
+      "total": 51,
+      "accuracy": 52.94
+    },
+    "gpt-4o-mini-tree_of_thought": {
+      "correct": 17,
+      "total": 51,
+      "accuracy": 33.33
+    },
+    "llama-3.1-8b-tree_of_thought": {
+      "correct": 8,
+      "total": 51,
+      "accuracy": 15.69
+    },
+    "llama-3.1-70b-tree_of_thought": {
+      "correct": 0,
+      "total": 51,
+      "accuracy": 0.0
+    },
+    "llama-3.1-405b-tree_of_thought": {
+      "correct": 0,
+      "total": 51,
+      "accuracy": 0.0
+    },
+    "gemini-1.5-flash-tree_of_thought": {
+      "correct": 22,
+      "total": 51,
+      "accuracy": 43.14
+    }
+  },
+  "answers": {
+    "gpt-4": {
+      "1": "",
+      "2": "17,136.0",
+      "3": "5",
+      "4": "80,200",
+      "5": "9",
+      "6": "**17.5**",
+      "7": "24",
+      "8": "5",
+      "9": "",
+      "10": "320",
+      "11": "18",
+      "12": "",
+      "13": "",
+      "14": "20",
+      "15": "n",
+      "16": "588",
+      "17": "",
+      "18": "17",
+      "19": "(4/3)w",
+      "20": "",
+      "21": "",
+      "22": "n",
+      "23": "60%",
+      "24": "",
+      "25": "C (assuming C is the choice corresponding to 33.33%)",
+      "26": "$21.00",
+      "27": "",
+      "28": "1,170,000",
+      "29": "294",
+      "30": "56",
+      "31": "",
+      "32": "1.07",
+      "33": "47",
+      "34": "1.09x",
+      "35": "**1.36**",
+      "36": "o",
+      "37": "600",
+      "38": "**A**",
+      "39": "<choice>",
+      "40": "",
+      "41": "",
+      "42": "**A** (assuming that the most reasonable order for a symmetric distribution of ages is mode = median = mean).",
+      "43": "A",
+      "44": "The average number of boxes sold per student can be calculated.",
+      "45": "",
+      "46": "",
+      "47": "",
+      "48": "79",
+      "49": "",
+      "50": ""
+    },
+    "gpt-4o": {
+      "1": "option (No specific choice to select, as only \"option\" is listed. If you clarify or repost the answer options, I can pick the correct one.)",
+      "2": "17,136.0",
+      "3": "",
+      "4": "80,200",
+      "5": "9",
+      "6": "17.5",
+      "7": "24",
+      "8": "5",
+      "9": "",
+      "10": "",
+      "11": "18",
+      "12": "",
+      "13": "1.3",
+      "14": "20",
+      "15": "348 feet",
+      "16": "588",
+      "17": "25.4 miles per hour",
+      "18": "17",
+      "19": "(4/3)w",
+      "20": "1 to 4",
+      "21": "p = 5x",
+      "22": "",
+      "23": "60%",
+      "24": "",
+      "25": "50",
+      "26": "$21.00",
+      "27": "",
+      "28": "1,170,000",
+      "29": "294",
+      "30": "56",
+      "31": "23",
+      "32": "1.07",
+      "33": "47",
+      "34": "1.09x",
+      "35": "1.36",
+      "36": "",
+      "37": "600",
+      "38": "A",
+      "39": "C (assuming C corresponds to 0.89h or (89/100)h)",
+      "40": "",
+      "41": "",
+      "42": "",
+      "43": "",
+      "44": "The average (mean) number of boxes per student.",
+      "45": "",
+      "46": "",
+      "47": "",
+      "48": "79",
+      "49": "",
+      "50": ""
+    },
+    "gpt-4o-mini": {
+      "1": "no option",
+      "2": "",
+      "3": "",
+      "4": "80,200",
+      "5": "",
+      "6": "17.5",
+      "7": "",
+      "8": "",
+      "9": "",
+      "10": "320",
+      "11": "18",
+      "12": "",
+      "13": "",
+      "14": "20",
+      "15": "348 feet",
+      "16": "",
+      "17": "",
+      "18": "",
+      "19": "(4/3)w",
+      "20": "1 to 4",
+      "21": "5x",
+      "22": "",
+      "23": "",
+      "24": "",
+      "25": "",
+      "26": "$21.00",
+      "27": "",
+      "28": "",
+      "29": "294",
+      "30": "56",
+      "31": "23",
+      "32": "1.07",
+      "33": "47",
+      "34": "1.09x",
+      "35": "1.36",
+      "36": "0.54 (not matching any letter option, so answer is numeric 0.54)",
+      "37": "",
+      "38": "",
+      "39": "",
+      "40": "",
+      "41": "",
+      "42": "",
+      "43": "",
+      "44": "Average boxes sold per student.",
+      "45": "",
+      "46": "52",
+      "47": "",
+      "48": "79",
+      "49": "",
+      "50": ""
+    },
+    "llama-3.1-8b": {
+      "1": "option",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "9",
+      "6": "17.5",
+      "7": "",
+      "8": "5",
+      "9": "",
+      "10": "",
+      "11": "18",
+      "12": "",
+      "13": "",
+      "14": "",
+      "15": "p",
+      "16": "",
+      "17": "o",
+      "18": "",
+      "19": "(4/3)w",
+      "20": "",
+      "21": "",
+      "22": "",
+      "23": "",
+      "24": "",
+      "25": "C",
+      "26": "$21.00",
+      "27": "",
+      "28": "",
+      "29": "",
+      "30": "N o n s",
+      "31": "",
+      "32": "",
+      "33": "47",
+      "34": "",
+      "35": "",
+      "36": "",
+      "37": "",
+      "38": "",
+      "39": "B",
+      "40": "",
+      "41": "D",
+      "42": "",
+      "43": "",
+      "44": "",
+      "45": "",
+      "46": "o",
+      "47": "A",
+      "48": "79",
+      "49": "",
+      "50": "16"
+    },
+    "llama-3.1-70b": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": "",
+      "9": "",
+      "10": "",
+      "11": "",
+      "12": "",
+      "13": "",
+      "14": "",
+      "15": "",
+      "16": "",
+      "17": "",
+      "18": "",
+      "19": "",
+      "20": "",
+      "21": "",
+      "22": "",
+      "23": "",
+      "24": "",
+      "25": "",
+      "26": "",
+      "27": "",
+      "28": "",
+      "29": "",
+      "30": "",
+      "31": "",
+      "32": "",
+      "33": "",
+      "34": "",
+      "35": "",
+      "36": "",
+      "37": "",
+      "38": "",
+      "39": "",
+      "40": "",
+      "41": "",
+      "42": "",
+      "43": "",
+      "44": "",
+      "45": "",
+      "46": "",
+      "47": "",
+      "48": "",
+      "49": "",
+      "50": ""
+    },
+    "llama-3.1-405b": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": "",
+      "9": "",
+      "10": "",
+      "11": "",
+      "12": "",
+      "13": "",
+      "14": "",
+      "15": "",
+      "16": "",
+      "17": "",
+      "18": "",
+      "19": "",
+      "20": "",
+      "21": "",
+      "22": "",
+      "23": "",
+      "24": "",
+      "25": "",
+      "26": "",
+      "27": "",
+      "28": "",
+      "29": "",
+      "30": "",
+      "31": "",
+      "32": "",
+      "33": "",
+      "34": "",
+      "35": "",
+      "36": "",
+      "37": "",
+      "38": "",
+      "39": "",
+      "40": "",
+      "41": "",
+      "42": "",
+      "43": "",
+      "44": "",
+      "45": "",
+      "46": "",
+      "47": "",
+      "48": "",
+      "49": "",
+      "50": ""
+    },
+    "gemini-1.5-flash": {
+      "1": "**t**",
+      "2": "",
+      "3": "5",
+      "4": "80,200",
+      "5": "9",
+      "6": "17.5",
+      "7": "24",
+      "8": "5",
+      "9": "**<not provided in the choices>**",
+      "10": "",
+      "11": "",
+      "12": "",
+      "13": "",
+      "14": "20",
+      "15": "",
+      "16": "",
+      "17": "o",
+      "18": "17",
+      "19": "(4/3)w",
+      "20": "",
+      "21": "p = 5x",
+      "22": "",
+      "23": "60%",
+      "24": "6,468",
+      "25": "",
+      "26": "$21.00",
+      "27": "Viewers voting by social media were more likely to prefer Contestant 2 than were viewers voting by text message.",
+      "28": "",
+      "29": "294",
+      "30": "56",
+      "31": "23",
+      "32": "1.07",
+      "33": "",
+      "34": "1.09x",
+      "35": "1.36",
+      "36": "o",
+      "37": "",
+      "38": "C",
+      "39": "<D>",
+      "40": "",
+      "41": "",
+      "42": "A",
+      "43": "A",
+      "44": "The average number of boxes sold per student.",
+      "45": "C) 17",
+      "46": "",
+      "47": "Standard deviation",
+      "48": "79",
+      "49": "<choice>",
+      "50": "16"
+    }
+  }
+}
