@@ -1,0 +1,8 @@
+Model,Correct,Total,Accuracy (%)
+gpt-4,23,51,45.1
+gpt-4o,27,51,52.94
+gpt-4o-mini,17,51,33.33
+llama-3.1-8b,8,51,15.69
+llama-3.1-70b,0,51,0.0
+llama-3.1-405b,0,51,0.0
+gemini-1.5-flash,22,51,43.14
