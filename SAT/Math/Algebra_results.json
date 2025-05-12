@@ -1,0 +1,5162 @@
+{
+  "file": "Algebra.json",
+  "total_questions": 102,
+  "questions": [
+    {
+      "number": 1,
+      "model": "gpt-4",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 2,
+      "model": "gpt-4",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 3,
+      "model": "gpt-4",
+      "predicted": "x = 40",
+      "correct_answer": 40,
+      "is_correct": false
+    },
+    {
+      "number": 4,
+      "model": "gpt-4",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 5,
+      "model": "gpt-4",
+      "predicted": "\\( 21 \\)",
+      "correct_answer": 21,
+      "is_correct": false
+    },
+    {
+      "number": 6,
+      "model": "gpt-4",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 7,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 8,
+      "model": "gpt-4",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 9,
+      "model": "gpt-4",
+      "predicted": "**B**",
+      "correct_answer": 2,
+      "is_correct": false
+    },
+    {
+      "number": 10,
+      "model": "gpt-4",
+      "predicted": "\\(\\boxed{\\frac{1}{5}}\\)",
+      "correct_answer": "1/5",
+      "is_correct": false
+    },
+    {
+      "number": 11,
+      "model": "gpt-4",
+      "predicted": "35",
+      "correct_answer": 35,
+      "is_correct": true
+    },
+    {
+      "number": 12,
+      "model": "gpt-4",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 13,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 14,
+      "model": "gpt-4",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 15,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "16/17",
+      "is_correct": false
+    },
+    {
+      "number": 16,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 17,
+      "model": "gpt-4",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 18,
+      "model": "gpt-4",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 19,
+      "model": "gpt-4",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 20,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 21,
+      "model": "gpt-4",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 21,
+      "model": "gpt-4",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 22,
+      "model": "gpt-4",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 23,
+      "model": "gpt-4",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 24,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 25,
+      "model": "gpt-4",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 26,
+      "model": "gpt-4",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 27,
+      "model": "gpt-4",
+      "predicted": "2.6",
+      "correct_answer": "2.6",
+      "is_correct": true
+    },
+    {
+      "number": 28,
+      "model": "gpt-4",
+      "predicted": "C",
+      "correct_answer": "The object is moving at a rate of 16 inches per second.",
+      "is_correct": false
+    },
+    {
+      "number": 29,
+      "model": "gpt-4",
+      "predicted": "B",
+      "correct_answer": "x: 0 \u2192 39; 1 \u2192 39; 2 \u2192 39",
+      "is_correct": false
+    },
+    {
+      "number": 30,
+      "model": "gpt-4",
+      "predicted": "9",
+      "correct_answer": "9",
+      "is_correct": true
+    },
+    {
+      "number": 31,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 32,
+      "model": "gpt-4",
+      "predicted": "y = x - 84",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 33,
+      "model": "gpt-4",
+      "predicted": "30",
+      "correct_answer": "30",
+      "is_correct": true
+    },
+    {
+      "number": 34,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "241",
+      "is_correct": false
+    },
+    {
+      "number": 35,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "8",
+      "is_correct": false
+    },
+    {
+      "number": 36,
+      "model": "gpt-4",
+      "predicted": "2",
+      "correct_answer": "2",
+      "is_correct": true
+    },
+    {
+      "number": 37,
+      "model": "gpt-4",
+      "predicted": "$2 per mile.",
+      "correct_answer": "2.00",
+      "is_correct": false
+    },
+    {
+      "number": 38,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 39,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 39,
+      "model": "gpt-4",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 40,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": 11,
+      "is_correct": false
+    },
+    {
+      "number": 41,
+      "model": "gpt-4",
+      "predicted": "\\(\\frac{3}{17}\\)",
+      "correct_answer": "3/17",
+      "is_correct": false
+    },
+    {
+      "number": 42,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": 33,
+      "is_correct": false
+    },
+    {
+      "number": 43,
+      "model": "gpt-4",
+      "predicted": "\\( k = -2 \\)",
+      "correct_answer": -2,
+      "is_correct": false
+    },
+    {
+      "number": 44,
+      "model": "gpt-4",
+      "predicted": "(waiting for data to provide final answer; if you have the table, paste it and I'll finish!)",
+      "correct_answer": {
+        "x": -17,
+        "y": 0
+      },
+      "is_correct": false
+    },
+    {
+      "number": 45,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": 5,
+      "is_correct": false
+    },
+    {
+      "number": 46,
+      "model": "gpt-4",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 47,
+      "model": "gpt-4",
+      "predicted": "A",
+      "correct_answer": {
+        "choice": "A",
+        "value": "\u22121/3"
+      },
+      "is_correct": false
+    },
+    {
+      "number": 48,
+      "model": "gpt-4",
+      "predicted": "\\(\\frac{1}{2}\\)",
+      "correct_answer": [
+        "1/2",
+        "0.5"
+      ],
+      "is_correct": false
+    },
+    {
+      "number": 49,
+      "model": "gpt-4",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 50,
+      "model": "gpt-4",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 51,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 52,
+      "model": "gpt-4",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 53,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 54,
+      "model": "gpt-4",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 55,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 56,
+      "model": "gpt-4",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 57,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 58,
+      "model": "gpt-4",
+      "predicted": "74",
+      "correct_answer": 74,
+      "is_correct": true
+    },
+    {
+      "number": 59,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 60,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 61,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 62,
+      "model": "gpt-4",
+      "predicted": "1.5",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 63,
+      "model": "gpt-4",
+      "predicted": "\\(1.5\\)",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 64,
+      "model": "gpt-4",
+      "predicted": "1.5",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 65,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 66,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 67,
+      "model": "gpt-4",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 68,
+      "model": "gpt-4",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 69,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 70,
+      "model": "gpt-4",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 71,
+      "model": "gpt-4",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 72,
+      "model": "gpt-4",
+      "predicted": "\\( \\text{C. 8} \\)",
+      "correct_answer": "8",
+      "is_correct": false
+    },
+    {
+      "number": 73,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 74,
+      "model": "gpt-4",
+      "predicted": "B",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 75,
+      "model": "gpt-4",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 76,
+      "model": "gpt-4",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 77,
+      "model": "gpt-4",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 78,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 79,
+      "model": "gpt-4",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 80,
+      "model": "gpt-4",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 81,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 82,
+      "model": "gpt-4",
+      "predicted": "5",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 83,
+      "model": "gpt-4",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 84,
+      "model": "gpt-4",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 85,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 86,
+      "model": "gpt-4",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 87,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 88,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 89,
+      "model": "gpt-4",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 90,
+      "model": "gpt-4",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 91,
+      "model": "gpt-4",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 92,
+      "model": "gpt-4",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 93,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 94,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 95,
+      "model": "gpt-4",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 96,
+      "model": "gpt-4",
+      "predicted": "\u221214",
+      "correct_answer": "-14",
+      "is_correct": false
+    },
+    {
+      "number": 97,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 98,
+      "model": "gpt-4",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 99,
+      "model": "gpt-4",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 100,
+      "model": "gpt-4",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 1,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 2,
+      "model": "gpt-4o",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 3,
+      "model": "gpt-4o",
+      "predicted": "x = 40",
+      "correct_answer": 40,
+      "is_correct": false
+    },
+    {
+      "number": 4,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 5,
+      "model": "gpt-4o",
+      "predicted": "21",
+      "correct_answer": 21,
+      "is_correct": true
+    },
+    {
+      "number": 6,
+      "model": "gpt-4o",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 7,
+      "model": "gpt-4o",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 8,
+      "model": "gpt-4o",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 9,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": 2,
+      "is_correct": false
+    },
+    {
+      "number": 10,
+      "model": "gpt-4o",
+      "predicted": "\\(\\boxed{\\frac{1}{5}}\\)",
+      "correct_answer": "1/5",
+      "is_correct": false
+    },
+    {
+      "number": 11,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": 35,
+      "is_correct": false
+    },
+    {
+      "number": 12,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 13,
+      "model": "gpt-4o",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 14,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 15,
+      "model": "gpt-4o",
+      "predicted": "\\(\\frac{16}{17}\\)",
+      "correct_answer": "16/17",
+      "is_correct": false
+    },
+    {
+      "number": 16,
+      "model": "gpt-4o",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 17,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 18,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 19,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 20,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 21,
+      "model": "gpt-4o",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 21,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 22,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 23,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 24,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 25,
+      "model": "gpt-4o",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 26,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 27,
+      "model": "gpt-4o",
+      "predicted": "2.6",
+      "correct_answer": "2.6",
+      "is_correct": true
+    },
+    {
+      "number": 28,
+      "model": "gpt-4o",
+      "predicted": "C",
+      "correct_answer": "The object is moving at a rate of 16 inches per second.",
+      "is_correct": false
+    },
+    {
+      "number": 29,
+      "model": "gpt-4o",
+      "predicted": "B",
+      "correct_answer": "x: 0 \u2192 39; 1 \u2192 39; 2 \u2192 39",
+      "is_correct": false
+    },
+    {
+      "number": 30,
+      "model": "gpt-4o",
+      "predicted": "9",
+      "correct_answer": "9",
+      "is_correct": true
+    },
+    {
+      "number": 31,
+      "model": "gpt-4o",
+      "predicted": "\\( y = 4x + 3 \\)",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 32,
+      "model": "gpt-4o",
+      "predicted": "\\( y = x - 84 \\)",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 33,
+      "model": "gpt-4o",
+      "predicted": "30",
+      "correct_answer": "30",
+      "is_correct": true
+    },
+    {
+      "number": 34,
+      "model": "gpt-4o",
+      "predicted": "241",
+      "correct_answer": "241",
+      "is_correct": true
+    },
+    {
+      "number": 35,
+      "model": "gpt-4o",
+      "predicted": "D",
+      "correct_answer": "8",
+      "is_correct": false
+    },
+    {
+      "number": 36,
+      "model": "gpt-4o",
+      "predicted": "x = 2",
+      "correct_answer": "2",
+      "is_correct": false
+    },
+    {
+      "number": 37,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "2.00",
+      "is_correct": false
+    },
+    {
+      "number": 38,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 39,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 39,
+      "model": "gpt-4o",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 40,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": 11,
+      "is_correct": false
+    },
+    {
+      "number": 41,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "3/17",
+      "is_correct": false
+    },
+    {
+      "number": 42,
+      "model": "gpt-4o",
+      "predicted": "33",
+      "correct_answer": 33,
+      "is_correct": true
+    },
+    {
+      "number": 43,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": -2,
+      "is_correct": false
+    },
+    {
+      "number": 44,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": {
+        "x": -17,
+        "y": 0
+      },
+      "is_correct": false
+    },
+    {
+      "number": 45,
+      "model": "gpt-4o",
+      "predicted": "5",
+      "correct_answer": 5,
+      "is_correct": true
+    },
+    {
+      "number": 46,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 47,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": {
+        "choice": "A",
+        "value": "\u22121/3"
+      },
+      "is_correct": false
+    },
+    {
+      "number": 48,
+      "model": "gpt-4o",
+      "predicted": "1/2",
+      "correct_answer": [
+        "1/2",
+        "0.5"
+      ],
+      "is_correct": false
+    },
+    {
+      "number": 49,
+      "model": "gpt-4o",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 50,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 51,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 52,
+      "model": "gpt-4o",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 53,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 54,
+      "model": "gpt-4o",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 55,
+      "model": "gpt-4o",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 56,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 57,
+      "model": "gpt-4o",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 58,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": 74,
+      "is_correct": false
+    },
+    {
+      "number": 59,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 60,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 61,
+      "model": "gpt-4o",
+      "predicted": "1.5",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 62,
+      "model": "gpt-4o",
+      "predicted": "\\(1.5\\)",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 63,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 64,
+      "model": "gpt-4o",
+      "predicted": "\\(1.5\\)",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 65,
+      "model": "gpt-4o",
+      "predicted": "\\(1.5\\)",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 66,
+      "model": "gpt-4o",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 67,
+      "model": "gpt-4o",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 68,
+      "model": "gpt-4o",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 69,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 70,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 71,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 72,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "8",
+      "is_correct": false
+    },
+    {
+      "number": 73,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 74,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 75,
+      "model": "gpt-4o",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 76,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 77,
+      "model": "gpt-4o",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 78,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 79,
+      "model": "gpt-4o",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 80,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 81,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 82,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 83,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 84,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 85,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 86,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 87,
+      "model": "gpt-4o",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 88,
+      "model": "gpt-4o",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 89,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 90,
+      "model": "gpt-4o",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 91,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 92,
+      "model": "gpt-4o",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 93,
+      "model": "gpt-4o",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 94,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 95,
+      "model": "gpt-4o",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 96,
+      "model": "gpt-4o",
+      "predicted": "\u201314",
+      "correct_answer": "-14",
+      "is_correct": false
+    },
+    {
+      "number": 97,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 98,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 99,
+      "model": "gpt-4o",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 100,
+      "model": "gpt-4o",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 1,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 2,
+      "model": "gpt-4o-mini",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 3,
+      "model": "gpt-4o-mini",
+      "predicted": "\\(x = 40\\)",
+      "correct_answer": 40,
+      "is_correct": false
+    },
+    {
+      "number": 4,
+      "model": "gpt-4o-mini",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 5,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": 21,
+      "is_correct": false
+    },
+    {
+      "number": 6,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 7,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 8,
+      "model": "gpt-4o-mini",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 9,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": 2,
+      "is_correct": false
+    },
+    {
+      "number": 10,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "1/5",
+      "is_correct": false
+    },
+    {
+      "number": 11,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": 35,
+      "is_correct": false
+    },
+    {
+      "number": 12,
+      "model": "gpt-4o-mini",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 13,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 14,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 15,
+      "model": "gpt-4o-mini",
+      "predicted": "\\( \\boxed{\\frac{16}{17}} \\)",
+      "correct_answer": "16/17",
+      "is_correct": false
+    },
+    {
+      "number": 16,
+      "model": "gpt-4o-mini",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 17,
+      "model": "gpt-4o-mini",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 18,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 19,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 20,
+      "model": "gpt-4o-mini",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 21,
+      "model": "gpt-4o-mini",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 21,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 22,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 23,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 24,
+      "model": "gpt-4o-mini",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 25,
+      "model": "gpt-4o-mini",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 26,
+      "model": "gpt-4o-mini",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 27,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "2.6",
+      "is_correct": false
+    },
+    {
+      "number": 28,
+      "model": "gpt-4o-mini",
+      "predicted": "C",
+      "correct_answer": "The object is moving at a rate of 16 inches per second.",
+      "is_correct": false
+    },
+    {
+      "number": 29,
+      "model": "gpt-4o-mini",
+      "predicted": "B",
+      "correct_answer": "x: 0 \u2192 39; 1 \u2192 39; 2 \u2192 39",
+      "is_correct": false
+    },
+    {
+      "number": 30,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "9",
+      "is_correct": false
+    },
+    {
+      "number": 31,
+      "model": "gpt-4o-mini",
+      "predicted": "\\( y = 4x + 3 \\)",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 32,
+      "model": "gpt-4o-mini",
+      "predicted": "\\( y = x - 84 \\)",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 33,
+      "model": "gpt-4o-mini",
+      "predicted": "30",
+      "correct_answer": "30",
+      "is_correct": true
+    },
+    {
+      "number": 34,
+      "model": "gpt-4o-mini",
+      "predicted": "241",
+      "correct_answer": "241",
+      "is_correct": true
+    },
+    {
+      "number": 35,
+      "model": "gpt-4o-mini",
+      "predicted": "D",
+      "correct_answer": "8",
+      "is_correct": false
+    },
+    {
+      "number": 36,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "2",
+      "is_correct": false
+    },
+    {
+      "number": 37,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "2.00",
+      "is_correct": false
+    },
+    {
+      "number": 38,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 39,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 39,
+      "model": "gpt-4o-mini",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 40,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": 11,
+      "is_correct": false
+    },
+    {
+      "number": 41,
+      "model": "gpt-4o-mini",
+      "predicted": "\\(\\frac{3}{17}\\)",
+      "correct_answer": "3/17",
+      "is_correct": false
+    },
+    {
+      "number": 42,
+      "model": "gpt-4o-mini",
+      "predicted": "33",
+      "correct_answer": 33,
+      "is_correct": true
+    },
+    {
+      "number": 43,
+      "model": "gpt-4o-mini",
+      "predicted": "\\(-2\\)",
+      "correct_answer": -2,
+      "is_correct": false
+    },
+    {
+      "number": 44,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": {
+        "x": -17,
+        "y": 0
+      },
+      "is_correct": false
+    },
+    {
+      "number": 45,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": 5,
+      "is_correct": false
+    },
+    {
+      "number": 46,
+      "model": "gpt-4o-mini",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 47,
+      "model": "gpt-4o-mini",
+      "predicted": "A",
+      "correct_answer": {
+        "choice": "A",
+        "value": "\u22121/3"
+      },
+      "is_correct": false
+    },
+    {
+      "number": 48,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": [
+        "1/2",
+        "0.5"
+      ],
+      "is_correct": false
+    },
+    {
+      "number": 49,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 50,
+      "model": "gpt-4o-mini",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 51,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 52,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 53,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 54,
+      "model": "gpt-4o-mini",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 55,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 56,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 57,
+      "model": "gpt-4o-mini",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 58,
+      "model": "gpt-4o-mini",
+      "predicted": "74",
+      "correct_answer": 74,
+      "is_correct": true
+    },
+    {
+      "number": 59,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 60,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 61,
+      "model": "gpt-4o-mini",
+      "predicted": "1.5",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 62,
+      "model": "gpt-4o-mini",
+      "predicted": "\\(y = 1.5\\)",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 63,
+      "model": "gpt-4o-mini",
+      "predicted": "1.5",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 64,
+      "model": "gpt-4o-mini",
+      "predicted": "1.5",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 65,
+      "model": "gpt-4o-mini",
+      "predicted": "\\(1.5\\)",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 66,
+      "model": "gpt-4o-mini",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 67,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 68,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 69,
+      "model": "gpt-4o-mini",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 70,
+      "model": "gpt-4o-mini",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 71,
+      "model": "gpt-4o-mini",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 72,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "8",
+      "is_correct": false
+    },
+    {
+      "number": 73,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 74,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 75,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 76,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 77,
+      "model": "gpt-4o-mini",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 78,
+      "model": "gpt-4o-mini",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 79,
+      "model": "gpt-4o-mini",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 80,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 81,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 82,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 83,
+      "model": "gpt-4o-mini",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 84,
+      "model": "gpt-4o-mini",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 85,
+      "model": "gpt-4o-mini",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 86,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 87,
+      "model": "gpt-4o-mini",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 88,
+      "model": "gpt-4o-mini",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 89,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 90,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 91,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 92,
+      "model": "gpt-4o-mini",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 93,
+      "model": "gpt-4o-mini",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 94,
+      "model": "gpt-4o-mini",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 95,
+      "model": "gpt-4o-mini",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 96,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "-14",
+      "is_correct": false
+    },
+    {
+      "number": 97,
+      "model": "gpt-4o-mini",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 98,
+      "model": "gpt-4o-mini",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 99,
+      "model": "gpt-4o-mini",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 100,
+      "model": "gpt-4o-mini",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 1,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 2,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 3,
+      "model": "llama-3.1-8b",
+      "predicted": "Choice A.",
+      "correct_answer": 40,
+      "is_correct": false
+    },
+    {
+      "number": 4,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 5,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": 21,
+      "is_correct": false
+    },
+    {
+      "number": 6,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 7,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 8,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 9,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": 2,
+      "is_correct": false
+    },
+    {
+      "number": 10,
+      "model": "llama-3.1-8b",
+      "predicted": "C",
+      "correct_answer": "1/5",
+      "is_correct": false
+    },
+    {
+      "number": 11,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": 35,
+      "is_correct": false
+    },
+    {
+      "number": 12,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 13,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 14,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 15,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "16/17",
+      "is_correct": false
+    },
+    {
+      "number": 16,
+      "model": "llama-3.1-8b",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 17,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 18,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 19,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 20,
+      "model": "llama-3.1-8b",
+      "predicted": "B",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 21,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 21,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 22,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 23,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 24,
+      "model": "llama-3.1-8b",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 25,
+      "model": "llama-3.1-8b",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 26,
+      "model": "llama-3.1-8b",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 27,
+      "model": "llama-3.1-8b",
+      "predicted": "2.6",
+      "correct_answer": "2.6",
+      "is_correct": true
+    },
+    {
+      "number": 28,
+      "model": "llama-3.1-8b",
+      "predicted": "C",
+      "correct_answer": "The object is moving at a rate of 16 inches per second.",
+      "is_correct": false
+    },
+    {
+      "number": 29,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "x: 0 \u2192 39; 1 \u2192 39; 2 \u2192 39",
+      "is_correct": false
+    },
+    {
+      "number": 30,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "9",
+      "is_correct": false
+    },
+    {
+      "number": 31,
+      "model": "llama-3.1-8b",
+      "predicted": "\\( y = 4x + 3 \\)",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 32,
+      "model": "llama-3.1-8b",
+      "predicted": "y = x - 84 (which corresponds to the choice that states this relationship).",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 33,
+      "model": "llama-3.1-8b",
+      "predicted": "D",
+      "correct_answer": "30",
+      "is_correct": false
+    },
+    {
+      "number": 34,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "241",
+      "is_correct": false
+    },
+    {
+      "number": 35,
+      "model": "llama-3.1-8b",
+      "predicted": "D",
+      "correct_answer": "8",
+      "is_correct": false
+    },
+    {
+      "number": 36,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "2",
+      "is_correct": false
+    },
+    {
+      "number": 37,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "2.00",
+      "is_correct": false
+    },
+    {
+      "number": 38,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 39,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 39,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 40,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": 11,
+      "is_correct": false
+    },
+    {
+      "number": 41,
+      "model": "llama-3.1-8b",
+      "predicted": "D",
+      "correct_answer": "3/17",
+      "is_correct": false
+    },
+    {
+      "number": 42,
+      "model": "llama-3.1-8b",
+      "predicted": "\\(\\boxed{33}\\)",
+      "correct_answer": 33,
+      "is_correct": false
+    },
+    {
+      "number": 43,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": -2,
+      "is_correct": false
+    },
+    {
+      "number": 44,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": {
+        "x": -17,
+        "y": 0
+      },
+      "is_correct": false
+    },
+    {
+      "number": 45,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": 5,
+      "is_correct": false
+    },
+    {
+      "number": 46,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 47,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": {
+        "choice": "A",
+        "value": "\u22121/3"
+      },
+      "is_correct": false
+    },
+    {
+      "number": 48,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": [
+        "1/2",
+        "0.5"
+      ],
+      "is_correct": false
+    },
+    {
+      "number": 49,
+      "model": "llama-3.1-8b",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 50,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 51,
+      "model": "llama-3.1-8b",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 52,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 53,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 54,
+      "model": "llama-3.1-8b",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 55,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 56,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 57,
+      "model": "llama-3.1-8b",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 58,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": 74,
+      "is_correct": false
+    },
+    {
+      "number": 59,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 60,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 61,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 62,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 63,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 64,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 65,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 66,
+      "model": "llama-3.1-8b",
+      "predicted": "D",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 67,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 68,
+      "model": "llama-3.1-8b",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 69,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 70,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 71,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 72,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "8",
+      "is_correct": false
+    },
+    {
+      "number": 73,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 74,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 75,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 76,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 77,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 78,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 79,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 80,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 81,
+      "model": "llama-3.1-8b",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 82,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 83,
+      "model": "llama-3.1-8b",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 84,
+      "model": "llama-3.1-8b",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 85,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 86,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 87,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 88,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 89,
+      "model": "llama-3.1-8b",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 90,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 91,
+      "model": "llama-3.1-8b",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 92,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 93,
+      "model": "llama-3.1-8b",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 94,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 95,
+      "model": "llama-3.1-8b",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 96,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "-14",
+      "is_correct": false
+    },
+    {
+      "number": 97,
+      "model": "llama-3.1-8b",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 98,
+      "model": "llama-3.1-8b",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 99,
+      "model": "llama-3.1-8b",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 100,
+      "model": "llama-3.1-8b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 1,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 2,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 3,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": 40,
+      "is_correct": false
+    },
+    {
+      "number": 4,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 5,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": 21,
+      "is_correct": false
+    },
+    {
+      "number": 6,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 7,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 8,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 9,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": 2,
+      "is_correct": false
+    },
+    {
+      "number": 10,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "1/5",
+      "is_correct": false
+    },
+    {
+      "number": 11,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": 35,
+      "is_correct": false
+    },
+    {
+      "number": 12,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 13,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 14,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 15,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "16/17",
+      "is_correct": false
+    },
+    {
+      "number": 16,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 17,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 18,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 19,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 20,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 21,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 21,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 22,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 23,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 24,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 25,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 26,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 27,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "2.6",
+      "is_correct": false
+    },
+    {
+      "number": 28,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "The object is moving at a rate of 16 inches per second.",
+      "is_correct": false
+    },
+    {
+      "number": 29,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "x: 0 \u2192 39; 1 \u2192 39; 2 \u2192 39",
+      "is_correct": false
+    },
+    {
+      "number": 30,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "9",
+      "is_correct": false
+    },
+    {
+      "number": 31,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 32,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 33,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "30",
+      "is_correct": false
+    },
+    {
+      "number": 34,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "241",
+      "is_correct": false
+    },
+    {
+      "number": 35,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "8",
+      "is_correct": false
+    },
+    {
+      "number": 36,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "2",
+      "is_correct": false
+    },
+    {
+      "number": 37,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "2.00",
+      "is_correct": false
+    },
+    {
+      "number": 38,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 39,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 39,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 40,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": 11,
+      "is_correct": false
+    },
+    {
+      "number": 41,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "3/17",
+      "is_correct": false
+    },
+    {
+      "number": 42,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": 33,
+      "is_correct": false
+    },
+    {
+      "number": 43,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": -2,
+      "is_correct": false
+    },
+    {
+      "number": 44,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": {
+        "x": -17,
+        "y": 0
+      },
+      "is_correct": false
+    },
+    {
+      "number": 45,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": 5,
+      "is_correct": false
+    },
+    {
+      "number": 46,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 47,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": {
+        "choice": "A",
+        "value": "\u22121/3"
+      },
+      "is_correct": false
+    },
+    {
+      "number": 48,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": [
+        "1/2",
+        "0.5"
+      ],
+      "is_correct": false
+    },
+    {
+      "number": 49,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 50,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 51,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 52,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 53,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 54,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 55,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 56,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 57,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 58,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": 74,
+      "is_correct": false
+    },
+    {
+      "number": 59,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 60,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 61,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 62,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 63,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 64,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 65,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 66,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 67,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 68,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 69,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 70,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 71,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 72,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "8",
+      "is_correct": false
+    },
+    {
+      "number": 73,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 74,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 75,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 76,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 77,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 78,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 79,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 80,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 81,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 82,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 83,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 84,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 85,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 86,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 87,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 88,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 89,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 90,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 91,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 92,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 93,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 94,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 95,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 96,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "-14",
+      "is_correct": false
+    },
+    {
+      "number": 97,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 98,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 99,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 100,
+      "model": "llama-3.1-70b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 1,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 2,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 3,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": 40,
+      "is_correct": false
+    },
+    {
+      "number": 4,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 5,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": 21,
+      "is_correct": false
+    },
+    {
+      "number": 6,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 7,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 8,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 9,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": 2,
+      "is_correct": false
+    },
+    {
+      "number": 10,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "1/5",
+      "is_correct": false
+    },
+    {
+      "number": 11,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": 35,
+      "is_correct": false
+    },
+    {
+      "number": 12,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 13,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 14,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 15,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "16/17",
+      "is_correct": false
+    },
+    {
+      "number": 16,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 17,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 18,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 19,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 20,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 21,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 21,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 22,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 23,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 24,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 25,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 26,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 27,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "2.6",
+      "is_correct": false
+    },
+    {
+      "number": 28,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "The object is moving at a rate of 16 inches per second.",
+      "is_correct": false
+    },
+    {
+      "number": 29,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "x: 0 \u2192 39; 1 \u2192 39; 2 \u2192 39",
+      "is_correct": false
+    },
+    {
+      "number": 30,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "9",
+      "is_correct": false
+    },
+    {
+      "number": 31,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 32,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 33,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "30",
+      "is_correct": false
+    },
+    {
+      "number": 34,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "241",
+      "is_correct": false
+    },
+    {
+      "number": 35,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "8",
+      "is_correct": false
+    },
+    {
+      "number": 36,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "2",
+      "is_correct": false
+    },
+    {
+      "number": 37,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "2.00",
+      "is_correct": false
+    },
+    {
+      "number": 38,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 39,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 39,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 40,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": 11,
+      "is_correct": false
+    },
+    {
+      "number": 41,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "3/17",
+      "is_correct": false
+    },
+    {
+      "number": 42,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": 33,
+      "is_correct": false
+    },
+    {
+      "number": 43,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": -2,
+      "is_correct": false
+    },
+    {
+      "number": 44,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": {
+        "x": -17,
+        "y": 0
+      },
+      "is_correct": false
+    },
+    {
+      "number": 45,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": 5,
+      "is_correct": false
+    },
+    {
+      "number": 46,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 47,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": {
+        "choice": "A",
+        "value": "\u22121/3"
+      },
+      "is_correct": false
+    },
+    {
+      "number": 48,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": [
+        "1/2",
+        "0.5"
+      ],
+      "is_correct": false
+    },
+    {
+      "number": 49,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 50,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 51,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 52,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 53,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 54,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 55,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 56,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 57,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 58,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": 74,
+      "is_correct": false
+    },
+    {
+      "number": 59,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 60,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 61,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 62,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 63,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 64,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 65,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 66,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 67,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 68,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 69,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 70,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 71,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 72,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "8",
+      "is_correct": false
+    },
+    {
+      "number": 73,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 74,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 75,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 76,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 77,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 78,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 79,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 80,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 81,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 82,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 83,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 84,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 85,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 86,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 87,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 88,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 89,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 90,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 91,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 92,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 93,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 94,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 95,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 96,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "-14",
+      "is_correct": false
+    },
+    {
+      "number": 97,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 98,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 99,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 100,
+      "model": "llama-3.1-405b",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 1,
+      "model": "gemini-1.5-flash",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 2,
+      "model": "gemini-1.5-flash",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 3,
+      "model": "gemini-1.5-flash",
+      "predicted": "x = 40",
+      "correct_answer": 40,
+      "is_correct": false
+    },
+    {
+      "number": 4,
+      "model": "gemini-1.5-flash",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 5,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": 21,
+      "is_correct": false
+    },
+    {
+      "number": 6,
+      "model": "gemini-1.5-flash",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 7,
+      "model": "gemini-1.5-flash",
+      "predicted": "None of the provided choices are correct. The correct equation is (0.16)(100-m) = 11",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 8,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 9,
+      "model": "gemini-1.5-flash",
+      "predicted": "2",
+      "correct_answer": 2,
+      "is_correct": true
+    },
+    {
+      "number": 10,
+      "model": "gemini-1.5-flash",
+      "predicted": "\\(\\frac{1}{5}\\)",
+      "correct_answer": "1/5",
+      "is_correct": false
+    },
+    {
+      "number": 11,
+      "model": "gemini-1.5-flash",
+      "predicted": "35",
+      "correct_answer": 35,
+      "is_correct": true
+    },
+    {
+      "number": 12,
+      "model": "gemini-1.5-flash",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 13,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 14,
+      "model": "gemini-1.5-flash",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 15,
+      "model": "gemini-1.5-flash",
+      "predicted": "\\(\\frac{16}{17}\\)",
+      "correct_answer": "16/17",
+      "is_correct": false
+    },
+    {
+      "number": 16,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 17,
+      "model": "gemini-1.5-flash",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 18,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 19,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 20,
+      "model": "gemini-1.5-flash",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 21,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 21,
+      "model": "gemini-1.5-flash",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 22,
+      "model": "gemini-1.5-flash",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 23,
+      "model": "gemini-1.5-flash",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 24,
+      "model": "gemini-1.5-flash",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 25,
+      "model": "gemini-1.5-flash",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 26,
+      "model": "gemini-1.5-flash",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 27,
+      "model": "gemini-1.5-flash",
+      "predicted": "2.6",
+      "correct_answer": "2.6",
+      "is_correct": true
+    },
+    {
+      "number": 28,
+      "model": "gemini-1.5-flash",
+      "predicted": "C",
+      "correct_answer": "The object is moving at a rate of 16 inches per second.",
+      "is_correct": false
+    },
+    {
+      "number": 29,
+      "model": "gemini-1.5-flash",
+      "predicted": "B",
+      "correct_answer": "x: 0 \u2192 39; 1 \u2192 39; 2 \u2192 39",
+      "is_correct": false
+    },
+    {
+      "number": 30,
+      "model": "gemini-1.5-flash",
+      "predicted": "9",
+      "correct_answer": "9",
+      "is_correct": true
+    },
+    {
+      "number": 31,
+      "model": "gemini-1.5-flash",
+      "predicted": "y = 4x + 3",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 32,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 33,
+      "model": "gemini-1.5-flash",
+      "predicted": "30",
+      "correct_answer": "30",
+      "is_correct": true
+    },
+    {
+      "number": 34,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "241",
+      "is_correct": false
+    },
+    {
+      "number": 35,
+      "model": "gemini-1.5-flash",
+      "predicted": "D",
+      "correct_answer": "8",
+      "is_correct": false
+    },
+    {
+      "number": 36,
+      "model": "gemini-1.5-flash",
+      "predicted": "2",
+      "correct_answer": "2",
+      "is_correct": true
+    },
+    {
+      "number": 37,
+      "model": "gemini-1.5-flash",
+      "predicted": "1.5",
+      "correct_answer": "2.00",
+      "is_correct": false
+    },
+    {
+      "number": 38,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 39,
+      "model": "gemini-1.5-flash",
+      "predicted": "<choice>",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 39,
+      "model": "gemini-1.5-flash",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 40,
+      "model": "gemini-1.5-flash",
+      "predicted": "1",
+      "correct_answer": 11,
+      "is_correct": false
+    },
+    {
+      "number": 41,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "3/17",
+      "is_correct": false
+    },
+    {
+      "number": 42,
+      "model": "gemini-1.5-flash",
+      "predicted": "Cannot be determined from the given information.",
+      "correct_answer": 33,
+      "is_correct": false
+    },
+    {
+      "number": 43,
+      "model": "gemini-1.5-flash",
+      "predicted": "k = -2",
+      "correct_answer": -2,
+      "is_correct": false
+    },
+    {
+      "number": 44,
+      "model": "gemini-1.5-flash",
+      "predicted": "2",
+      "correct_answer": {
+        "x": -17,
+        "y": 0
+      },
+      "is_correct": false
+    },
+    {
+      "number": 45,
+      "model": "gemini-1.5-flash",
+      "predicted": "5",
+      "correct_answer": 5,
+      "is_correct": true
+    },
+    {
+      "number": 46,
+      "model": "gemini-1.5-flash",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 47,
+      "model": "gemini-1.5-flash",
+      "predicted": "A",
+      "correct_answer": {
+        "choice": "A",
+        "value": "\u22121/3"
+      },
+      "is_correct": false
+    },
+    {
+      "number": 48,
+      "model": "gemini-1.5-flash",
+      "predicted": "1/2",
+      "correct_answer": [
+        "1/2",
+        "0.5"
+      ],
+      "is_correct": false
+    },
+    {
+      "number": 49,
+      "model": "gemini-1.5-flash",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 50,
+      "model": "gemini-1.5-flash",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 51,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 52,
+      "model": "gemini-1.5-flash",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 53,
+      "model": "gemini-1.5-flash",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 54,
+      "model": "gemini-1.5-flash",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 55,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 56,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 57,
+      "model": "gemini-1.5-flash",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 58,
+      "model": "gemini-1.5-flash",
+      "predicted": "74",
+      "correct_answer": 74,
+      "is_correct": true
+    },
+    {
+      "number": 59,
+      "model": "gemini-1.5-flash",
+      "predicted": "D",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 60,
+      "model": "gemini-1.5-flash",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 61,
+      "model": "gemini-1.5-flash",
+      "predicted": "1.5",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 62,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 63,
+      "model": "gemini-1.5-flash",
+      "predicted": "1.5",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 64,
+      "model": "gemini-1.5-flash",
+      "predicted": "1.5",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 65,
+      "model": "gemini-1.5-flash",
+      "predicted": "1.5",
+      "correct_answer": "3/2",
+      "is_correct": false
+    },
+    {
+      "number": 66,
+      "model": "gemini-1.5-flash",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 67,
+      "model": "gemini-1.5-flash",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 68,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 69,
+      "model": "gemini-1.5-flash",
+      "predicted": "C",
+      "correct_answer": "C",
+      "is_correct": true
+    },
+    {
+      "number": 70,
+      "model": "gemini-1.5-flash",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 71,
+      "model": "gemini-1.5-flash",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 72,
+      "model": "gemini-1.5-flash",
+      "predicted": "8",
+      "correct_answer": "8",
+      "is_correct": true
+    },
+    {
+      "number": 73,
+      "model": "gemini-1.5-flash",
+      "predicted": "None. I need the choices to answer.",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 74,
+      "model": "gemini-1.5-flash",
+      "predicted": "Cannot be determined",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 75,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 76,
+      "model": "gemini-1.5-flash",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 77,
+      "model": "gemini-1.5-flash",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 78,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 79,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 80,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 81,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 82,
+      "model": "gemini-1.5-flash",
+      "predicted": "5",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 83,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 84,
+      "model": "gemini-1.5-flash",
+      "predicted": "C",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 85,
+      "model": "gemini-1.5-flash",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 86,
+      "model": "gemini-1.5-flash",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 87,
+      "model": "gemini-1.5-flash",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 88,
+      "model": "gemini-1.5-flash",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 89,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "A",
+      "is_correct": false
+    },
+    {
+      "number": 90,
+      "model": "gemini-1.5-flash",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 91,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "B",
+      "is_correct": false
+    },
+    {
+      "number": 92,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "D",
+      "is_correct": false
+    },
+    {
+      "number": 93,
+      "model": "gemini-1.5-flash",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 94,
+      "model": "gemini-1.5-flash",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 95,
+      "model": "gemini-1.5-flash",
+      "predicted": "B",
+      "correct_answer": "B",
+      "is_correct": true
+    },
+    {
+      "number": 96,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "-14",
+      "is_correct": false
+    },
+    {
+      "number": 97,
+      "model": "gemini-1.5-flash",
+      "predicted": "",
+      "correct_answer": "C",
+      "is_correct": false
+    },
+    {
+      "number": 98,
+      "model": "gemini-1.5-flash",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    },
+    {
+      "number": 99,
+      "model": "gemini-1.5-flash",
+      "predicted": "D",
+      "correct_answer": "D",
+      "is_correct": true
+    },
+    {
+      "number": 100,
+      "model": "gemini-1.5-flash",
+      "predicted": "A",
+      "correct_answer": "A",
+      "is_correct": true
+    }
+  ],
+  "accuracy": {
+    "gpt-4": {
+      "tree_of_thought": {
+        "correct": 48,
+        "total": 102
+      }
+    },
+    "gpt-4o": {
+      "tree_of_thought": {
+        "correct": 55,
+        "total": 102
+      }
+    },
+    "gpt-4o-mini": {
+      "tree_of_thought": {
+        "correct": 39,
+        "total": 102
+      }
+    },
+    "llama-3.1-8b": {
+      "tree_of_thought": {
+        "correct": 20,
+        "total": 102
+      }
+    },
+    "llama-3.1-70b": {
+      "tree_of_thought": {
+        "correct": 0,
+        "total": 102
+      }
+    },
+    "llama-3.1-405b": {
+      "tree_of_thought": {
+        "correct": 0,
+        "total": 102
+      }
+    },
+    "gemini-1.5-flash": {
+      "tree_of_thought": {
+        "correct": 50,
+        "total": 102
+      }
+    }
+  },
+  "overall_accuracy": {
+    "gpt-4": {
+      "tree_of_thought": {
+        "correct": 48,
+        "total": 102,
+        "accuracy_percent": 47.06
+      }
+    },
+    "gpt-4o": {
+      "tree_of_thought": {
+        "correct": 55,
+        "total": 102,
+        "accuracy_percent": 53.92
+      }
+    },
+    "gpt-4o-mini": {
+      "tree_of_thought": {
+        "correct": 39,
+        "total": 102,
+        "accuracy_percent": 38.24
+      }
+    },
+    "llama-3.1-8b": {
+      "tree_of_thought": {
+        "correct": 20,
+        "total": 102,
+        "accuracy_percent": 19.61
+      }
+    },
+    "llama-3.1-70b": {
+      "tree_of_thought": {
+        "correct": 0,
+        "total": 102,
+        "accuracy_percent": 0.0
+      }
+    },
+    "llama-3.1-405b": {
+      "tree_of_thought": {
+        "correct": 0,
+        "total": 102,
+        "accuracy_percent": 0.0
+      }
+    },
+    "gemini-1.5-flash": {
+      "tree_of_thought": {
+        "correct": 50,
+        "total": 102,
+        "accuracy_percent": 49.02
+      }
+    }
+  }
+}

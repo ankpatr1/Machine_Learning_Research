@@ -1,0 +1,15 @@
+Topic,Model,Prompt Style,Correct,Total,Accuracy (%)
+Geometry & Trigonometry,gpt-4,tree_of_thought,27,59,0.0
+Geometry & Trigonometry,gpt-4o,tree_of_thought,29,59,0.0
+Geometry & Trigonometry,gpt-4o-mini,tree_of_thought,20,59,0.0
+Geometry & Trigonometry,llama-3.1-8b,tree_of_thought,10,59,0.0
+Geometry & Trigonometry,llama-3.1-70b,tree_of_thought,0,59,0.0
+Geometry & Trigonometry,llama-3.1-405b,tree_of_thought,0,59,0.0
+Geometry & Trigonometry,gemini-1.5-flash,tree_of_thought,22,59,0.0
+Algebra,gpt-4,tree_of_thought,48,102,0.0
+Algebra,gpt-4o,tree_of_thought,55,102,0.0
+Algebra,gpt-4o-mini,tree_of_thought,39,102,0.0
+Algebra,llama-3.1-8b,tree_of_thought,20,102,0.0
+Algebra,llama-3.1-70b,tree_of_thought,0,102,0.0
+Algebra,llama-3.1-405b,tree_of_thought,0,102,0.0
+Algebra,gemini-1.5-flash,tree_of_thought,50,102,0.0
